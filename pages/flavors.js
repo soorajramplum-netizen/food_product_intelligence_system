@@ -322,7 +322,7 @@ export default function Flavors({ flavors, products }) {
               <div className="flavor-grid">
                 {paginated.map(flavor => {
                   const meta = TYPE_META[flavor.type] || TYPE_META.generic
-                  const intensityClass = `int-${flavor.intensity?.toLowerCase().replace(' ','-') || 'medium'}`
+                  const intensityClass = `int-${String(flavor.intensity || '').toLowerCase().replace(' ','-') || 'medium'}`
                   return (
                     <div
                       key={flavor.id}
