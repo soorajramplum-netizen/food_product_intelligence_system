@@ -54,7 +54,7 @@ export default function Flavors({ flavors, products }) {
         f.name.toLowerCase().includes(q) ||
         (f.aliases || []).some(a => a.toLowerCase().includes(q)) ||
         (f.tags || []).some(t => t.toLowerCase().includes(q)) ||
-        (f.profile || '').toLowerCase().includes(q) ||
+        (Array.isArray(f.profile) ? f.profile.join(' ') : (f.profile || '')).toLowerCase().includes(q) ||
         (f.category || '').toLowerCase().includes(q)
       )
     }
@@ -322,7 +322,7 @@ export default function Flavors({ flavors, products }) {
               <div className="flavor-grid">
                 {paginated.map(flavor => {
                   const meta = TYPE_META[flavor.type] || TYPE_META.generic
-                  const intensityClass = `int-${String(flavor.intensity || '').toLowerCase().replace(' ','-') || 'medium'}`
+                  const intensityClass = 'int-medium'
                   return (
                     <div
                       key={flavor.id}
