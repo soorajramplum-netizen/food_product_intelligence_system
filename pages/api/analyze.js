@@ -3,7 +3,45 @@ import fs from 'fs'
 import path from 'path'
 
 const GEMINI_KEY = process.env.GEMINI_API_KEY || 'AIzaSyAdyDVmEuqASsI1HVBTdBwRB8R0-mr1Euc'
-const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_KEY}`
+const BASE = 'https://generativelanguage.googleapis.com/v1beta/models'
+const GEMINI_MODELS = [
+  'gemini-2.5-flash',
+  'gemini-2.5-flash-preview-04-17',
+  'gemini-2.0-flash',
+  'gemini-2.0-flash-exp',
+  'gemini-1.5-flash',
+  'gemini-1.5-flash-latest',
+  'gemini-pro',
+]
+
+async function callGemini(prompt) {
+  for (const model of GEMINI_MODELS) {
+    try {
+      const url = `${BASE}/${model}:generateContent?key=${GEMINI_KEY}`
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({
+          contents: [{parts: [{text: prompt}]}],
+          generationConfig: {temperature: 0.7, maxOutputTokens: 4000}
+        })
+      })
+      const data = await res.json()
+      if (data.error) {
+        console.log(`Model ${model} failed:`, data.error.message)
+        continue
+      }
+      const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || ''
+      if (!text) { console.log(`Model ${model} returned empty`); continue }
+      console.log(`Model ${model} succeeded`)
+      return text
+    } catch(e) {
+      console.log(`Model ${model} threw:`, e.message)
+      continue
+    }
+  }
+  throw new Error('All Gemini models failed. Please check your API key quota at aistudio.google.com')
+}
 
 // Fluent Innovation bands
 const FLUENT_BANDS = [
@@ -194,22 +232,7 @@ Return ONLY valid JSON (no markdown) with this exact structure:
 }`
 
   try {
-    const geminiRes = await fetch(GEMINI_URL, {
-      method: 'POST',
-      headers: {'Content-Type':'application/json'},
-      body: JSON.stringify({
-        contents: [{parts: [{text: prompt}]}],
-        generationConfig: {temperature: 0.7, maxOutputTokens: 4000}
-      })
-    })
-    const geminiData = await geminiRes.json()
-    if (geminiData.error) {
-      return res.status(500).json({ error: 'Gemini API error: ' + geminiData.error.message, code: geminiData.error.code })
-    }
-    let text = geminiData?.candidates?.[0]?.content?.parts?.[0]?.text || ''
-    if (!text) {
-      return res.status(500).json({ error: 'Gemini empty response', debug: JSON.stringify(geminiData).slice(0,400) })
-    }
+    let text = await callGemini(prompt)
     text = text.replace(/```json\n?/g,'').replace(/```\n?/g,'').trim()
     const result = JSON.parse(text)
     
