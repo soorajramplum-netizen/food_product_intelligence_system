@@ -4,13 +4,15 @@ import productsData from '../../data/products.json'
 const GEMINI_KEY = process.env.GEMINI_API_KEY || 'AIzaSyAdyDVmEuqASsI1HVBTdBwRB8R0-mr1Euc'
 const BASE = 'https://generativelanguage.googleapis.com/v1beta/models'
 const GEMINI_MODELS = [
+  // Tier 1: Frontier (smartest, strictest quota)
+  'gemini-3.1-pro-preview',
+  'gemini-2.5-pro',
+  // Tier 2: Balanced workhorses
+  'gemini-3-flash-preview',
   'gemini-2.5-flash',
-  'gemini-2.5-flash-preview-04-17',
-  'gemini-2.0-flash',
-  'gemini-2.0-flash-exp',
-  'gemini-1.5-flash',
-  'gemini-1.5-flash-latest',
-  'gemini-pro',
+  // Tier 3: Safety nets (highest free quota)
+  'gemini-3.1-flash-lite-preview',
+  'gemini-2.5-flash-lite',
 ]
 
 async function callGemini(prompt) {
