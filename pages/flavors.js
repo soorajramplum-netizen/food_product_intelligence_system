@@ -259,12 +259,7 @@ export default function Flavors({ flavors, products }) {
               <h1 className="header-title">Flavors<span className="header-dot">.</span></h1>
               <p className="header-sub">{flavors.length} flavors · Browse by type, category, intensity · AI-powered pairing search</p>
             </div>
-            <nav className="header-nav">
-              <Link href="/" className="nav-link">South or Not</Link>
-              <Link href="/explore" className="nav-link">Explore</Link>
-              <Link href="/advisor" className="nav-link">Advisor</Link>
-              <Link href="/flavors" className="nav-link active">Flavors</Link>
-            </nav>
+
           </div>
         </header>
 

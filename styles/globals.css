@@ -1361,3 +1361,11 @@ input, select, textarea { font-family: inherit; }
   .fm-top-row { flex-direction: column; align-items: center; }
   .fm-split-grid { grid-template-columns: 1fr; }
 }
+
+/* Nav byline */
+.skc-nav-brand { display: flex; flex-direction: column; line-height: 1.1; }
+.skc-nav-byline { font-family: var(--font-sans, 'DM Sans', sans-serif); font-size: 9px; font-weight: 400; letter-spacing: 0.06em; color: rgba(253,246,236,0.35); text-transform: uppercase; margin-top: 2px; }
+
+/* ── NAV BYLINE ── */
+.skc-nav-brand { flex-direction: column !important; align-items: flex-start !important; line-height: 1.1 !important; gap: 1px !important; }
+.skc-nav-byline { font-family: 'DM Sans', sans-serif; font-size: 9px; font-weight: 400; letter-spacing: 0.07em; color: rgba(253,246,236,0.3); text-transform: uppercase; display: block; }

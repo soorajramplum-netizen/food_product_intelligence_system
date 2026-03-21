@@ -1,13 +1,13 @@
 const GEMINI_KEY = process.env.GEMINI_API_KEY || 'AIzaSyAdyDVmEuqASsI1HVBTdBwRB8R0-mr1Euc'
 const BASE = 'https://generativelanguage.googleapis.com/v1beta/models'
 const GEMINI_MODELS = [
-  // Tier 1: Frontier (smartest, strictest quota)
+  // Tier 1: Frontier Thinkers
   'gemini-3.1-pro-preview',
   'gemini-2.5-pro',
-  // Tier 2: Balanced workhorses
+  // Tier 2: Balanced Workhorses
   'gemini-3-flash-preview',
   'gemini-2.5-flash',
-  // Tier 3: Safety nets (highest free quota)
+  // Tier 3: Safety Nets
   'gemini-3.1-flash-lite-preview',
   'gemini-2.5-flash-lite',
 ]
@@ -25,14 +25,14 @@ async function callGemini(prompt) {
         })
       })
       const data = await res.json()
-      if (data.error) { console.log(`Model ${model} failed:`, data.error.message); continue }
+      if (data.error) { console.log('Model', model, 'failed:', data.error.message); continue }
       const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || ''
-      if (!text) { console.log(`Model ${model} returned empty`); continue }
-      console.log(`Model ${model} succeeded`)
+      if (!text) { console.log('Model', model, 'empty'); continue }
+      console.log('Model', model, 'succeeded')
       return text
-    } catch(e) { console.log(`Model ${model} threw:`, e.message); continue }
+    } catch(e) { console.log('Model', model, 'threw:', e.message); continue }
   }
-  throw new Error('All Gemini models failed. Check API key quota at aistudio.google.com')
+  throw new Error('All Gemini models failed. Check API key at aistudio.google.com')
 }
 
 const MODE_CONTEXTS = {
@@ -82,16 +82,7 @@ USER QUERY: ${query}
 Respond with well-formatted, specific, actionable advice. Use headers and bullet points where appropriate. Be opinionated — give a clear recommendation, not a list of options.`
 
   try {
-    const r = await fetch(GEMINI_URL, {
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({
-        contents: [{parts:[{text:prompt}]}],
-        generationConfig: {temperature:0.8, maxOutputTokens:2000}
-      })
-    })
-    const data = await r.json()
-    const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || ''
+    const text = await callGemini(prompt)
     res.status(200).json({response: text, mode})
   } catch(err) {
     res.status(500).json({error:'Advisor failed', details: err.message})

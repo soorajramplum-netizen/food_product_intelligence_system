@@ -249,12 +249,7 @@ export default function Advisor() {
               <h1 className="header-title">Advisor<span className="header-dot">.</span></h1>
               <p className="header-sub">Strategic advice across 4 modes — launch, positioning, functional, storytelling</p>
             </div>
-            <nav className="header-nav">
-              <Link href="/" className="nav-link">South or Not</Link>
-              <Link href="/explore" className="nav-link">Explore</Link>
-              <Link href="/advisor" className="nav-link active">Advisor</Link>
-              <Link href="/flavors" className="nav-link">Flavors</Link>
-            </nav>
+
           </div>
         </header>
 

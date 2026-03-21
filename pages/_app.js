@@ -14,8 +14,9 @@ function GlobalNav() {
   return (
     <nav className="skc-nav">
       <div className="skc-nav-inner">
-        <Link href="/" className="skc-nav-brand">
-          Sweet Karam <span>Coffee</span>
+        <Link href="/" className="skc-nav-brand" style={{display:'flex',flexDirection:'column',alignItems:'flex-start',lineHeight:1.15,textDecoration:'none'}}>
+          <span style={{fontFamily:"'Cormorant Garamond',serif",fontSize:'17px',fontWeight:700,color:'#FDF6EC'}}>South or Not<span style={{color:'#B83822'}}>.</span></span>
+          <span style={{fontSize:'9px',fontWeight:400,letterSpacing:'0.07em',color:'rgba(253,246,236,0.38)',textTransform:'uppercase',marginTop:'1px'}}>South Indian Food Intelligence · by Sooraj Ram</span>
         </Link>
         <div className="skc-nav-sep" />
         {NAV_LINKS.map(link => (

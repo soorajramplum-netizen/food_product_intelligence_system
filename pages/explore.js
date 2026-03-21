@@ -287,12 +287,7 @@ export default function Explore({ products }) {
               </h1>
               <p className="header-sub">Browse {products.length} products · Filter by state, category, tier, and range</p>
             </div>
-            <nav className="header-nav">
-              <Link href="/" className="nav-link">South or Not</Link>
-              <Link href="/explore" className="nav-link active">Explore</Link>
-              <Link href="/advisor" className="nav-link" style={{opacity:0.4,pointerEvents:'none'}}>Advisor</Link>
-              <Link href="/flavors" className="nav-link" style={{opacity:0.4,pointerEvents:'none'}}>Flavors</Link>
-            </nav>
+
           </div>
         </header>
 
