@@ -3,7 +3,7 @@ import fs from 'fs'
 import path from 'path'
 
 const GEMINI_KEY = process.env.GEMINI_API_KEY || 'AIzaSyAdyDVmEuqASsI1HVBTdBwRB8R0-mr1Euc'
-const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_KEY}`
+const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-04-17:generateContent?key=${GEMINI_KEY}`
 
 // Fluent Innovation bands
 const FLUENT_BANDS = [
@@ -203,7 +203,13 @@ Return ONLY valid JSON (no markdown) with this exact structure:
       })
     })
     const geminiData = await geminiRes.json()
+    if (geminiData.error) {
+      return res.status(500).json({ error: 'Gemini API error: ' + geminiData.error.message, code: geminiData.error.code })
+    }
     let text = geminiData?.candidates?.[0]?.content?.parts?.[0]?.text || ''
+    if (!text) {
+      return res.status(500).json({ error: 'Gemini empty response', debug: JSON.stringify(geminiData).slice(0,400) })
+    }
     text = text.replace(/```json\n?/g,'').replace(/```\n?/g,'').trim()
     const result = JSON.parse(text)
     
