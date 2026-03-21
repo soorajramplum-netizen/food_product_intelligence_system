@@ -484,7 +484,7 @@ export default function Explore({ products }) {
                                 <div>
                                   <div style={{display:'flex', alignItems:'center', gap:'6px', marginBottom:'4px'}}>
                                     <span style={{fontFamily:'Cormorant Garamond, serif', fontWeight:800, fontSize:'17px', color: bc.color}}>{score}</span>
-                                    <span style={{fontSize:'10px', color:'var(--text-muted)}}>/100</span>
+                                    <span style={{fontSize:'10px', color:'var(--text-muted)'}}>/100</span>
                                   </div>
                                   <div style={{width:'80px', height:'5px', borderRadius:'3px', background:'#f3f4f6', overflow:'hidden', marginBottom:'4px'}}>
                                     <div style={{height:'100%', width:`${score}%`, background: bc.color, borderRadius:'3px'}} />
