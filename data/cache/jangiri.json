@@ -1,0 +1,173 @@
+{
+  "correctedName": "Jangiri",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Jangiri is South India's own creation — a urad dal-based spiral sweet soaked in saffron sugar syrup. While it shares visual similarity with North India's Jalebi and Imarti, Jangiri predates both as a distinct Tamil Nadu preparation with different ingredients (urad dal vs maida).",
+    "flavorLedExplanation": "The flavor is distinctly South Indian: white-off color from urad dal instead of maida, the distinctive nuttiness of fermented urad dal, and saffron-cardamom syrup. The fermented batter gives it a complexity that Jalebi's plain maida cannot replicate.",
+    "overallSummary": "Jangiri is South India's answer to Jalebi — and it predates the comparison. Made from urad dal (not maida), it is richer in protein, more complex in flavor, and carries a distinct Tamil identity that no comparison to a North Indian sweet should diminish."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Pan Tamil Nadu — particularly associated with Kumbakonam and Tirunelveli sweet shops",
+    "origin": "Jangiri has been part of Tamil Nadu's festival sweet tradition for centuries. Unlike Jalebi (maida-based, from northern India), Jangiri is made from soaked urad dal — a technique that reflects Tamil cuisine's preference for legume-based preparations over wheat-based ones.",
+    "culturalSignificance": "Jangiri is a non-negotiable Deepavali sweet in Tamil Nadu — sold from every halwa shop, gifted in boxes, and made at home by older generations. It also appears at weddings and Saraswati Puja as a sweet offering.",
+    "storytelling": "The secret of good Jangiri is in the wrist. The batter — fermented urad dal, ground to a silken thickness — is pressed through a cloth nozzle into hot oil in tight spirals. A practiced hand can complete a spiral in three seconds flat. Too slow and the oil cools; too fast and the spirals break. The orange-gold pieces are dropped straight from the oil into saffron syrup, emerging coated, glistening, slightly chewy at the center. This is not a sweet that can be rushed or scaled without loss.",
+    "bestSeason": "Deepavali (October-November) is the peak. Also made for Saraswati Puja, Kartika Purnima, and weddings."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "Jangiri's spiral-pressing technique is a genuine craft skill that cannot be mechanized without losing the product's character. The fermented urad dal process and the wrist-controlled piping are artisanal by definition — placing it firmly in Artisanal Signatures.",
+    "standalone": {
+      "functionalBenefits": [
+        "Made from urad dal — plant protein in a sweet format (~6g per 50g serving)",
+        "Fermented batter — probiotic process improves digestibility",
+        "Saffron in the syrup — one of the most potent natural anti-inflammatories"
+      ],
+      "functionalRTB": [
+        "Urad dal base vs Jalebi's maida base: protein-rich vs empty carbohydrate",
+        "Traditional fermentation method mirrors idli-dosa preparation — known digestive benefit",
+        "Genuine saffron strands in syrup — not artificial color"
+      ],
+      "emotionalBenefits": [
+        "The sweet that Paati made only at Deepavali — scarcity makes it special",
+        "Signal of authentic South Indian sweet knowledge for gifting",
+        "The childhood sweet that no one makes at home anymore — nostalgia"
+      ],
+      "emotionalRTB": [
+        "Visible craft in every spiral — no two are identical",
+        "Tamil Nadu Deepavali is incomplete without jangiri in the sweet box",
+        "Available in sweet shops only during festival season — authentic scarcity"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Urad Dal Protein",
+      "badge": "Protein-Rich Base · Not Maida",
+      "explanation": "Jangiri is made from urad dal, not maida. Urad dal provides ~25g protein per 100g — the same base as idli-dosa batter. This makes Jangiri the only festival spiral sweet with meaningful protein content.",
+      "category": "Protein"
+    },
+    {
+      "claim": "Fermented Batter",
+      "badge": "Naturally Fermented · Better Digestibility",
+      "explanation": "The urad dal batter is soaked and fermented overnight before piping. This fermentation process breaks down anti-nutrients and improves protein bioavailability — the same reason idli is easier to digest than regular bread.",
+      "category": "Digestive Health"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Urad Dal",
+        "proportion": "45%",
+        "role": "Primary batter ingredient — soaked, ground, and fermented to create the smooth piping batter. The fermentation gives Jangiri its characteristic slight tang.",
+        "functionalHighlight": "~25g protein per 100g. Fermentation improves digestibility. Same base as idli-dosa."
+      },
+      {
+        "name": "Sugar Syrup",
+        "proportion": "35%",
+        "role": "The sweet coating. Jangiri is dipped in hot sugar syrup immediately after frying.",
+        "functionalHighlight": "Saffron and cardamom additions give antioxidant and anti-inflammatory properties"
+      },
+      {
+        "name": "Frying Oil",
+        "proportion": "15%",
+        "role": "Absorbed during frying. Traditionally ghee or refined oil.",
+        "functionalHighlight": "Ghee variant adds Vitamin K2 and fat-soluble vitamins"
+      },
+      {
+        "name": "Saffron",
+        "proportion": "0.1% (trace)",
+        "role": "Color and flavor addition to the syrup.",
+        "functionalHighlight": "Safranal and crocin — natural compounds with anti-inflammatory, mood-supporting properties"
+      },
+      {
+        "name": "Cardamom",
+        "proportion": "0.5%",
+        "role": "Aromatic addition to syrup.",
+        "functionalHighlight": "Digestive aid, antioxidant"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "South India's Jalebi — Except It Came First",
+      "descriptor": "Jangiri is not the South Indian jalebi. If anything, jalebi is the northern approximation of something South India has been making longer. The difference is in the batter: urad dal, fermented, ground smooth, pressed in spirals by someone who has done it for twenty years. The result has protein. The result has depth. The result is not a copy.",
+      "principle": "REFRAMING (Sutherland S4) + DISTINCTIVENESS (Shotton Bias 4)",
+      "rationale": "Reclaiming the comparison by reframing Jalebi as the imitator rather than the original is a bold positioning move that uses the Von Restorff isolation effect — Jangiri stands out by asserting independence from the most obvious comparison."
+    },
+    {
+      "title": "Three Seconds Per Spiral",
+      "descriptor": "A skilled Jangiri maker completes each spiral in under three seconds. Too slow and the batter spreads; too fast and the spiral breaks. The wrist movement is learned over years, not weeks. The result is in your hands: coils that hold their shape, a crunch that gives way to chewy center, a saffron syrup that coats without drowning.",
+      "principle": "EFFORT HEURISTIC (Sutherland S2)",
+      "rationale": "The '3-second spiral' communicates mastery and craft without being pretentious — it gives the consumer something concrete to visualize and value."
+    },
+    {
+      "title": "The Deepavali Box Isn't Right Without It",
+      "descriptor": "There is a specific thing that happens when you open a Deepavali sweet box and Jangiri isn't there. The box feels incomplete. You don't think about it consciously — you just notice its absence the way you notice a missing word in a sentence. This is the sweet that makes the box feel like home.",
+      "principle": "LOSS AVERSION (Sutherland S5 / Shotton Bias 25)",
+      "rationale": "Describing the absence of Jangiri as an incompleteness rather than the presence as a benefit — classic loss framing that is 1.5x more motivating than gain framing."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Adyar Ananda Bhavan",
+      "product": "Jangiri",
+      "priceINR": "360",
+      "grammage": "500g",
+      "pricePerGram": "₹0.72/g",
+      "channel": "Tamil Nadu stores + D2C",
+      "positioning": "Large heritage chain. Reliable but mass-produced jangiri — no artisanal narrative."
+    },
+    {
+      "brand": "Grand Sweets",
+      "product": "Jangiri",
+      "priceINR": "400",
+      "grammage": "500g",
+      "pricePerGram": "₹0.80/g",
+      "channel": "Chennai stores + D2C",
+      "positioning": "Premium Chennai sweet brand. Strong trust. Seasonal production increases perceived scarcity."
+    },
+    {
+      "brand": "Krishna Sweets",
+      "product": "Jangiri",
+      "priceINR": "320",
+      "grammage": "500g",
+      "pricePerGram": "₹0.64/g",
+      "channel": "Tamil Nadu stores + Gifting",
+      "positioning": "Mid-market. Volume play. Wide distribution but no distinctive positioning."
+    },
+    {
+      "brand": "Kumbakonam Degree Coffee & Sweets",
+      "product": "Jangiri",
+      "priceINR": "450",
+      "grammage": "500g",
+      "pricePerGram": "₹0.90/g",
+      "channel": "Chennai flagship + D2C",
+      "positioning": "Strong provenance play — Kumbakonam origin story. Premium positioning."
+    },
+    {
+      "brand": "Local Sweet Shops (Unorganized)",
+      "product": "Jangiri (seasonal)",
+      "priceINR": "300-380",
+      "grammage": "500g",
+      "pricePerGram": "₹0.60-0.76/g",
+      "channel": "Local retail only",
+      "positioning": "Freshness advantage. No brand narrative. Seasonal availability creates natural scarcity."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "jangiri"
+}

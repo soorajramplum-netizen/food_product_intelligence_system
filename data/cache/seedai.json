@@ -1,0 +1,155 @@
+{
+  "correctedName": "Seedai",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Seedai is exclusively Tamil Nadu — a small, round, fried snack made specifically for Krishna Jayanthi. There is no equivalent in any other Indian culinary tradition.",
+    "flavorLedExplanation": "The butter-sesame-asafoetida flavor combination is distinctly South Indian. The specific ritual of making both sweet (vella) and savory (kara) seedai for Krishna Jayanthi makes this a culturally locked product.",
+    "overallSummary": "Seedai is one of those rare products that is 100% product-led, 100% flavor-led, and 100% occasion-specific — it belongs to one state, one festival, and has no proxy elsewhere."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Pan Tamil Nadu",
+    "origin": "Seedai is the primary offering for Krishna Jayanthi (Gokulashtami) in Tamil Nadu — the festival celebrating Lord Krishna's birth. The round shape represents Krishna's famous butter balls. Both kara seedai (savory) and vella seedai (sweet) are prepared.",
+    "culturalSignificance": "Krishna Jayanthi in Tamil Nadu is incomplete without the triple preparation: murukku, kozhukattai, and seedai. Seedai is the one most associated with the festival's visual identity — the small round balls placed in front of Krishna's idol.",
+    "storytelling": "The warning every Tamil grandmother gives before making seedai: if you rush the dough, the oil will remember. Seedai that isn't rolled tight enough will burst in the oil — not a soft pop, but an actual spray that clears the kitchen. Good seedai comes from dough rolled between both palms, patient and even, until it's perfectly spherical. The reward: a crisp, butter-fragrant ball that shatters cleanly when bitten.",
+    "bestSeason": "Krishna Jayanthi (August) is the only season. Outside this window, demand drops sharply."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "Seedai is a craft festival snack with extreme seasonal demand and a technique-dependent preparation that resists industrial scale.",
+    "standalone": {
+      "functionalBenefits": [
+        "Made with rice flour and urad dal — gluten-free snack",
+        "Sesame seeds add calcium",
+        "Butter-based recipe — no palm oil"
+      ],
+      "functionalRTB": [
+        "Rice flour and urad dal base — same as idli-dosa",
+        "Sesame: calcium-rich South Indian superfood",
+        "Traditional ghee or butter frying — no industrial oils"
+      ],
+      "emotionalBenefits": [
+        "The smell of Krishna Jayanthi morning",
+        "The snack that signals festival preparation has begun",
+        "Nostalgic for anyone who grew up with a mother or grandmother who made seedai"
+      ],
+      "emotionalRTB": [
+        "Made only for Krishna Jayanthi — natural, authentic scarcity",
+        "The burst-in-oil risk is well-known — making good seedai is a skill signal",
+        "Offered to Krishna before being eaten — spiritual permission"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Butter Made, Not Palm Oil",
+      "badge": "Real Butter · Zero Palm Oil",
+      "explanation": "Traditional seedai is made with real butter — which gives it the characteristic richness and fragrance. No palm oil, no hydrogenated fat.",
+      "category": "No Nasties"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Rice Flour",
+        "proportion": "50%",
+        "role": "Primary base. Determines the crispness.",
+        "functionalHighlight": "Gluten-free complex carbohydrate"
+      },
+      {
+        "name": "Urad Dal Flour",
+        "proportion": "20%",
+        "role": "Binder and flavor depth",
+        "functionalHighlight": "Protein source"
+      },
+      {
+        "name": "Butter",
+        "proportion": "8%",
+        "role": "Flavor and texture — butter is structural to seedai's taste",
+        "functionalHighlight": "Fat-soluble vitamins; Vitamin K2 in dairy butter"
+      },
+      {
+        "name": "Sesame Seeds",
+        "proportion": "8%",
+        "role": "Texture and nutrition",
+        "functionalHighlight": "Calcium, iron, sesamin"
+      },
+      {
+        "name": "Coconut (dry)",
+        "proportion": "5%",
+        "role": "Sweetness and binding (especially in vella seedai)",
+        "functionalHighlight": "Medium-chain fats"
+      },
+      {
+        "name": "Asafoetida",
+        "proportion": "0.5%",
+        "role": "Flavor signature of kara seedai",
+        "functionalHighlight": "Digestive, anti-flatulent"
+      },
+      {
+        "name": "Oil for frying",
+        "proportion": "8.5%",
+        "role": "Deep frying medium",
+        "functionalHighlight": "Rice bran oil preferred for lower saturated fat"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "The One That Bursts in the Oil",
+      "descriptor": "Every Tamil family has a seedai story — the year it exploded in the kadai and cleared the kitchen, the year it came out flat because the dough was too wet. Good seedai is rolled tight, uniform, patient. It doesn't burst. It slides into the oil and comes out perfectly spherical, crisp all the way through. Getting this right is a skill. These were made by someone who has been making them correctly for twenty years.",
+      "principle": "PRATFALL EFFECT (Shotton Bias 18)",
+      "rationale": "Acknowledging the 'burst in the oil' failure mode before claiming mastery over it is the Pratfall Effect in action — admitting the risk builds credibility for the claim of getting it right."
+    },
+    {
+      "title": "August's Smell, Bottled",
+      "descriptor": "The smell of seedai frying in the morning is August in Tamil Nadu. It means today is Krishna Jayanthi. It means the murukku press and the kozhukattai steamer are also going. It means the house will smell of sesame and butter and festival for the rest of the day. This box is not a snack. It is the specific smell of a specific morning, put somewhere you can open it later.",
+      "principle": "LOSS AVERSION + GEOGRAPHICAL PROVENANCE (Sutherland S3 + S5)",
+      "rationale": "The 'August smell' is a vivid, specific sensory anchor that makes non-ownership feel like a loss — exactly how loss aversion and geographical memory combine to create purchase urgency."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Grand Sweets (Seasonal)",
+      "product": "Seedai (kara and vella)",
+      "priceINR": "280",
+      "grammage": "400g",
+      "pricePerGram": "₹0.70/g",
+      "channel": "Chennai stores (August only)",
+      "positioning": "Heritage brand. Festival-season limited availability."
+    },
+    {
+      "brand": "Home-made",
+      "product": "Seedai",
+      "priceINR": "Gifted",
+      "grammage": "Varies",
+      "pricePerGram": "N/A",
+      "channel": "Festival gifting",
+      "positioning": "The real standard. Every commercial seedai is compared to Paati's."
+    },
+    {
+      "brand": "D2C Festival Brands",
+      "product": "Seedai boxes",
+      "priceINR": "299-450",
+      "grammage": "400-600g",
+      "pricePerGram": "₹0.60-0.90/g",
+      "channel": "D2C (August peak)",
+      "positioning": "Generic festival packaging. No technique or story differentiation."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "seedai"
+}

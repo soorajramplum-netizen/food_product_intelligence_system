@@ -1,0 +1,156 @@
+{
+  "correctedName": "Butter Murukku",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Butter Murukku is a Karnataka variation of Tamil Nadu's murukku — using butter (benne in Kannada) as the primary fat instead of oil, giving it a richer, more crumbly texture. Widely associated with Bangalore's Iyengar bakery tradition.",
+    "flavorLedExplanation": "The butter-enriched rice flour base with asafoetida and pepper is distinctly South Indian. Karnataka's benne murukku is the premium, rich cousin of the standard rice murukku.",
+    "overallSummary": "Butter Murukku is Karnataka's premium version of South India's most iconic snack — richer, crumblier, and more indulgent due to real butter as a structural ingredient rather than just a flavor add-in."
+  },
+  "southIndianProxy": {
+    "applicable": false
+  },
+  "stateSpeciality": {
+    "primaryState": "Karnataka",
+    "region": "Bangalore, Karnataka — Iyengar Bakery tradition",
+    "origin": "Butter murukku is strongly associated with Bangalore's Iyengar bakeries — small community-run bakeries that developed a distinct South Indian baked and fried snack tradition. The use of butter as a primary fat rather than oil is a Karnataka-specific technique.",
+    "culturalSignificance": "A premium Diwali and festival snack in Karnataka. Associated with the Iyengar Brahmin community's tradition of high-quality, butter-rich snacks. Gifted as a premium alternative to regular murukku.",
+    "storytelling": "In Bangalore's old Iyengar bakeries, butter was never an afterthought — it was the point. The murukku that came out of these kitchens had a different weight to it: richer, crumblier, the butter announcing itself in the first half-second. You didn't crunch through it; it gave way. That distinction — between a murukku that crunches and a murukku that yields — is the entire argument for why butter matters.",
+    "bestSeason": "Year-round as a premium snack. Peaks during Diwali and as corporate gifting."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "Butter Murukku's premium ingredient (real butter), Karnataka Iyengar bakery heritage, and the specific textural difference from regular murukku place it firmly in Artisanal Signatures — not just a flavored murukku, but a distinct product class.",
+    "standalone": {
+      "functionalBenefits": [
+        "Real dairy butter — natural fat-soluble vitamins",
+        "No palm oil — butter fat vs industrial frying oils",
+        "Higher fat content means greater satiety per piece"
+      ],
+      "functionalRTB": [
+        "Dairy butter: Vitamin A, D, E, K2 and butyric acid",
+        "Visible ingredient difference: texture proves butter is structural, not spray-on",
+        "No artificial butter flavoring — real ingredient, not flavoring"
+      ],
+      "emotionalBenefits": [
+        "The murukku that tastes more expensive because it is",
+        "Karnataka's Iyengar bakery heritage in every piece",
+        "The premium gifting upgrade from a regular murukku tin"
+      ],
+      "emotionalRTB": [
+        "Iyengar Bakery association — trusted Karnataka quality signal",
+        "Crumbles at the touch — texture is proof of real butter content",
+        "Premium Diwali gifting: sends the message that this was not the budget option"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Real Dairy Butter",
+      "badge": "100% Dairy Butter · Not Flavoring",
+      "explanation": "Butter Murukku uses real dairy butter as a structural ingredient — not butter flavoring sprayed on after frying. The crumbly texture only occurs when butter is properly incorporated into the dough.",
+      "category": "Healthy Fat"
+    },
+    {
+      "claim": "No Palm Oil",
+      "badge": "Zero Palm Oil · Butter-Based",
+      "explanation": "Fried in rice bran oil with butter as the dough fat — no palm oil. A meaningful upgrade from mass-market murukku that uses palm oil as the primary fat.",
+      "category": "No Nasties"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Rice Flour",
+        "proportion": "50%",
+        "role": "Primary base",
+        "functionalHighlight": "Gluten-free complex carbohydrate"
+      },
+      {
+        "name": "Urad Dal Flour",
+        "proportion": "20%",
+        "role": "Structural binder and protein source",
+        "functionalHighlight": "~25g protein per 100g"
+      },
+      {
+        "name": "Dairy Butter",
+        "proportion": "12%",
+        "role": "The defining ingredient — incorporated into dough. Makes the texture crumbly and rich rather than crispy and neutral.",
+        "functionalHighlight": "Fat-soluble vitamins A, D, E, K2. Butyric acid for gut health."
+      },
+      {
+        "name": "Rice Bran Oil (frying)",
+        "proportion": "10%",
+        "role": "Frying medium",
+        "functionalHighlight": "Gamma-oryzanol; lower saturated fat than palm oil"
+      },
+      {
+        "name": "Asafoetida",
+        "proportion": "0.5%",
+        "role": "Digestive flavor signature",
+        "functionalHighlight": "Ayurvedic digestive agent"
+      },
+      {
+        "name": "Sesame Seeds",
+        "proportion": "5%",
+        "role": "Texture and calcium",
+        "functionalHighlight": "Calcium, iron, sesamin"
+      },
+      {
+        "name": "Cumin + Salt",
+        "proportion": "2.5%",
+        "role": "Flavor balance",
+        "functionalHighlight": ""
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "Where the Butter Actually Goes",
+      "descriptor": "Most 'butter murukku' on the market uses butter flavoring — the powder kind — added after frying. This one uses real butter incorporated into the dough before pressing. You can tell the difference immediately: the texture gives way before it crunches, and there's a richness in the first half-second that no flavoring replicates. This is the murukku the Iyengar bakeries of Bangalore built their reputation on.",
+      "principle": "SIGNAL THEORY (Sutherland S6)",
+      "rationale": "'Real butter in the dough vs spray-on butter flavoring' is a costly signal — one that requires better ingredients and higher cost. Only real butter creates the specific crumbly texture, making the texture itself the proof."
+    },
+    {
+      "title": "Karnataka's Premium Diwali Answer",
+      "descriptor": "When Karnataka households want to gift something better than the standard murukku tin, this is the answer. The Iyengar bakery tradition understood that small differences in ingredients — butter vs oil, fresh-ground urad dal vs pre-powdered — compound into a noticeably different product. The recipient will notice. That is the point of a Diwali gift.",
+      "principle": "VEBLEN GOODS (Shotton Bias 21)",
+      "rationale": "Positioning Butter Murukku as the premium gifting upgrade — the choice that signals 'this person got the good one' — exploits the Veblen effect where the premium price becomes part of the product's value."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Naadbramha",
+      "product": "Benne Murukku",
+      "priceINR": "299",
+      "grammage": "200g",
+      "pricePerGram": "₹1.50/g",
+      "channel": "D2C Karnataka",
+      "positioning": "Artisanal Karnataka brand. Closest direct competitor with similar provenance."
+    },
+    {
+      "brand": "Brahmin's Coffee Bar",
+      "product": "Butter Murukku",
+      "priceINR": "260",
+      "grammage": "200g",
+      "pricePerGram": "₹1.30/g",
+      "channel": "Bangalore flagship + D2C",
+      "positioning": "Heritage Bangalore brand. Strong local following."
+    },
+    {
+      "brand": "iD Fresh",
+      "product": "Benne Murukku",
+      "priceINR": "180",
+      "grammage": "200g",
+      "pricePerGram": "₹0.90/g",
+      "channel": "Modern Trade South India",
+      "positioning": "Fresh, no-preservative positioning."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "murukku-butter"
+}

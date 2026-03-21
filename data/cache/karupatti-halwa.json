@@ -1,0 +1,144 @@
+{
+  "correctedName": "Karupatti Halwa",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Karupatti (palm jaggery) halwa is a Tamil Nadu-specific sweet — using palm jaggery harvested from Palmyra palms, which grow primarily along Tamil Nadu's coastal belt. The product is inseparable from its primary ingredient's geography.",
+    "flavorLedExplanation": "The deep, smoky, caramel-like flavor of karupatti is completely different from refined sugar or even cane jaggery. This distinct flavor profile — along with ghee and cardamom — is distinctly Tamil Nadu in identity.",
+    "overallSummary": "Karupatti Halwa is one of Tamil Nadu's most distinctive sweets — the halwa format applied to the state's most unique sweetener, producing a deep, complex sweetness that refined-sugar versions cannot replicate."
+  },
+  "southIndianProxy": {
+    "applicable": false
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Southern Tamil Nadu — Tirunelveli, Thoothukudi, Nagercoil (Palmyra palm belt)",
+    "origin": "Palm jaggery (karupatti) comes from the Palmyra palm — the state tree of Tamil Nadu — which grows densely along the state's coast and in Tirunelveli district. Karupatti halwa has been made in this region for centuries as a festival sweet and Ayurvedic food.",
+    "culturalSignificance": "Karupatti is deeply embedded in Tamil culture — from baby food (given to infants for iron) to temple prasadam to high-end gifting. Karupatti halwa specifically carries Tirunelveli's reputation for halwa expertise (the city also produces the famous wheat halwa).",
+    "storytelling": "The Palmyra palm is the state tree of Tamil Nadu for a reason — every part of it is used. The toddy tapper climbs before dawn to collect the sap, which is then reduced in clay pots over wood fire until it crystallizes into the darkest, most complex natural sweetener in South Indian cooking. When you use this in halwa — when you let karupatti melt into wheat starch and ghee — what you get is not just sweetness. You get the specific smell of a Tamil coastal morning, the depth of something that grew slowly and was made carefully.",
+    "bestSeason": "Year-round as a premium gifting sweet. Peak during Diwali and wedding season."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "Karupatti Halwa's GI-adjacent ingredient (palm jaggery from Tamil Nadu's Palmyra belt), complex multi-hour preparation, and Tirunelveli halwa heritage place it squarely in Artisanal Signatures.",
+    "standalone": {
+      "functionalBenefits": [
+        "Palm jaggery has a lower GI than refined sugar — gentler blood sugar response",
+        "Iron-rich — palm jaggery contains 4x more iron than refined sugar",
+        "Wheat starch base — complex carbohydrates for sustained energy"
+      ],
+      "functionalRTB": [
+        "Palm jaggery GI ~40-45 vs refined sugar GI 65-70",
+        "Palm jaggery: documented iron and calcium source in Ayurveda",
+        "Traditional preparation with ghee — fat-soluble vitamins"
+      ],
+      "emotionalBenefits": [
+        "The taste of Tirunelveli — a city famous for its halwa",
+        "The sophistication of a sweet that uses Tamil Nadu's state tree",
+        "The gifting statement for those who know South Indian sweets"
+      ],
+      "emotionalRTB": [
+        "Palm jaggery is the sweetener Paati chose for baby food — that level of trust",
+        "Palmyra palm: state tree of Tamil Nadu, coastal heritage ingredient",
+        "Tirunelveli + halwa = one of the most specific geographic food identities in South India"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Low GI Sweetener",
+      "badge": "Palm Jaggery · GI ~42 vs Sugar GI 65",
+      "explanation": "Karupatti (palm jaggery) has a glycaemic index approximately 35% lower than refined sugar. This is structural to the recipe — not a health add-in, but the primary sweetener.",
+      "category": "Low GI"
+    },
+    {
+      "claim": "Iron Rich",
+      "badge": "4x More Iron Than Sugar · Natural Source",
+      "explanation": "Palm jaggery contains approximately 4-5x more iron per gram than refined cane sugar. The darker the karupatti, the higher the iron content.",
+      "category": "Iron"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Wheat Starch / Maida",
+        "proportion": "30%",
+        "role": "The halwa base — cooked with water and ghee to create the characteristic sticky-chewy-melt texture",
+        "functionalHighlight": "Complex carbohydrate energy"
+      },
+      {
+        "name": "Karupatti (Palm Jaggery)",
+        "proportion": "35%",
+        "role": "The defining ingredient — melted into the cooked starch. Gives the halwa its deep amber color and complex smoky sweetness",
+        "functionalHighlight": "Low GI ~42. Iron 11mg/100g. Calcium, potassium, magnesium."
+      },
+      {
+        "name": "Ghee",
+        "proportion": "25%",
+        "role": "Cooking fat and flavor — Tirunelveli halwa is famous for generous ghee use",
+        "functionalHighlight": "Fat-soluble vitamins A, D, E, K2. Butyric acid."
+      },
+      {
+        "name": "Cardamom",
+        "proportion": "1%",
+        "role": "Aromatic finish",
+        "functionalHighlight": "Digestive, antioxidant"
+      },
+      {
+        "name": "Dry Ginger (optional)",
+        "proportion": "0.5%",
+        "role": "Spice complexity",
+        "functionalHighlight": "Anti-inflammatory; digestive"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "The State Tree's Sweetness",
+      "descriptor": "The Palmyra palm is the state tree of Tamil Nadu. Every part of it is used — the leaves for weaving, the fruit for eating, the sap for karupatti. When the toddy tapper climbs before dawn and collects the sap, it's reduced in clay pots over wood fire until it becomes the darkest, most complex natural sweetener in Tamil cuisine. That karupatti is what this halwa is made from. Everything else is just details.",
+      "principle": "GEOGRAPHICAL PROVENANCE (Sutherland S3)",
+      "rationale": "Using 'state tree of Tamil Nadu' and the specific toddy-tapper sunrise ritual creates the strongest possible provenance anchor — one that no non-Tamil brand can legitimately claim."
+    },
+    {
+      "title": "Lower GI. Higher Memory.",
+      "descriptor": "Karupatti's glycaemic index is about 35% lower than refined sugar. Your grandmother didn't know what GI was — she just knew that karupatti was the sweetener she chose for baby food, for new mothers, for illness recovery. Modern nutrition validated what Tamil tradition already knew. This halwa is made with that sweetener. Not for the GI number. For the taste that comes with it.",
+      "principle": "EXPECTANCY THEORY + LOSS AVERSION (Shotton Bias 11 + Sutherland S5)",
+      "rationale": "Framing the GI benefit as validation of traditional wisdom rather than a new health claim makes the functional story more believable and culturally resonant."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Tirunelveli Iruttu Kadai Halwa",
+      "product": "Karupatti Halwa",
+      "priceINR": "600",
+      "grammage": "500g",
+      "pricePerGram": "₹1.20/g",
+      "channel": "Tirunelveli shops + D2C (limited)",
+      "positioning": "The benchmark — the famous Tirunelveli night-shop halwa. Extremely limited availability outside Tamil Nadu."
+    },
+    {
+      "brand": "Grand Sweets",
+      "product": "Karupatti Halwa",
+      "priceINR": "420",
+      "grammage": "400g",
+      "pricePerGram": "₹1.05/g",
+      "channel": "Chennai stores + D2C",
+      "positioning": "Heritage chain. Good quality, no Tirunelveli or Palmyra palm story."
+    },
+    {
+      "brand": "Premium D2C Brands",
+      "product": "Palm Jaggery Halwa variants",
+      "priceINR": "350-550",
+      "grammage": "300-500g",
+      "pricePerGram": "₹0.70-1.10/g",
+      "channel": "D2C + Quick Commerce",
+      "positioning": "Generic health positioning. GI claim prominent but cultural story absent."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "karupatti-halwa"
+}

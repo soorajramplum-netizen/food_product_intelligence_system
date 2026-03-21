@@ -1,0 +1,170 @@
+{
+  "correctedName": "Kozhukattai",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Kozhukattai is a Tamil Nadu and Kerala festival dumpling with no pan-Indian equivalent. The name is Tamil, the preparation is South Indian, and the ritual context (Ganesh Chaturthi, Karthigai) is specifically South Indian.",
+    "flavorLedExplanation": "Filled with coconut-jaggery or sesame-jaggery, the flavor profile is distinctly South Indian — no northern sweet uses this combination in this steamed dumpling form.",
+    "overallSummary": "Kozhukattai is South India's answer to modak — but it predates the comparison and belongs to Tamil Nadu's festival calendar in its own right."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Pan Tamil Nadu and Kerala",
+    "origin": "Kozhukattai is a Sangam-era preparation — steamed rice dumplings filled with coconut, jaggery, and sesame. The shape varies by region: pointed oval for Ganesh, round for prasadam. The name itself is Tamil.",
+    "culturalSignificance": "The primary offering for Ganesh Chaturthi in Tamil Nadu and Kerala. Also made for Karthigai Deepam and Varalakshmi Vratam. Considered the most auspicious sweet to offer to Pillayar (Ganesh).",
+    "storytelling": "The trick to good kozhukattai is the thickness of the rice flour shell — thin enough to steam through in twelve minutes, thick enough not to crack when lifted. The filling — fresh coconut mixed with jaggery that has been cooked to just before crystallization — must be cool before stuffing. Every grandmother in Tamil Nadu has a preferred shape, a preferred filling ratio, and a strong opinion about anyone who gets either wrong.",
+    "bestSeason": "Ganesh Chaturthi (August-September) is the primary season. Also Karthigai Deepam (November-December)."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "Kozhukattai's festival-specific cultural role, hand-shaped form, and multi-step preparation make it an Artisanal Signatures product.",
+    "standalone": {
+      "functionalBenefits": [
+        "Steamed, not fried — lowest fat delivery method",
+        "Rice flour base — gluten-free",
+        "Coconut-jaggery filling provides iron and medium-chain fats"
+      ],
+      "functionalRTB": [
+        "Steaming requires no added oil — fat comes only from filling ingredients",
+        "Rice flour: gluten-free complex carbohydrate",
+        "Jaggery: iron and mineral source vs refined sugar"
+      ],
+      "emotionalBenefits": [
+        "The sweet that is made only for Ganesh — spiritual connection",
+        "The shape-making ritual that children participate in",
+        "The taste of Tamil Nadu's most beloved festival"
+      ],
+      "emotionalRTB": [
+        "Ganesh Chaturthi without kozhukattai is a contradiction",
+        "The act of shaping each dumpling is a meditative preparation ritual",
+        "Only available in festival season in authentic form — natural scarcity"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Steamed Not Fried",
+      "badge": "Zero Added Oil · Steamed Fresh",
+      "explanation": "Kozhukattai is steamed, not fried — making it the lowest-fat festival sweet in the South Indian calendar. The only fat comes from natural coconut in the filling.",
+      "category": "No Nasties"
+    },
+    {
+      "claim": "Gluten-Free",
+      "badge": "100% Rice Flour · Naturally Gluten-Free",
+      "explanation": "The outer shell is made entirely from rice flour — naturally gluten-free. A festival sweet that those with wheat sensitivities can consume without modification.",
+      "category": "No Nasties"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Rice Flour",
+        "proportion": "50%",
+        "role": "Outer shell dough",
+        "functionalHighlight": "Gluten-free complex carbohydrate"
+      },
+      {
+        "name": "Fresh Coconut",
+        "proportion": "20%",
+        "role": "Primary filling ingredient",
+        "functionalHighlight": "Medium-chain fats; manganese and copper"
+      },
+      {
+        "name": "Jaggery",
+        "proportion": "18%",
+        "role": "Filling sweetener",
+        "functionalHighlight": "Iron, calcium, magnesium"
+      },
+      {
+        "name": "Cardamom",
+        "proportion": "1%",
+        "role": "Filling flavor",
+        "functionalHighlight": "Digestive, antioxidant"
+      },
+      {
+        "name": "Sesame Seeds",
+        "proportion": "5%",
+        "role": "Optional filling addition",
+        "functionalHighlight": "Calcium, iron, sesamin"
+      },
+      {
+        "name": "Water",
+        "proportion": "6%",
+        "role": "Dough hydration",
+        "functionalHighlight": ""
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "Shaped Before Dawn",
+      "descriptor": "Good kozhukattai is shaped before the family wakes up. The rice flour dough has to be the right temperature — warm but not sticky. The filling has to be the right consistency — cool and firm, not wet. Each dumpling is pressed into its shape by hand, sealed carefully, and arranged in the steamer in the right order. A batch of sixty takes two hours. They are eaten in twelve minutes.",
+      "principle": "EFFORT HEURISTIC (Sutherland S2)",
+      "rationale": "The '60 made in 2 hours, eaten in 12 minutes' contrast communicates craft without complaint — it makes the consumer feel the value of what they are about to eat."
+    },
+    {
+      "title": "Ganesh's Sweet, Not Ours",
+      "descriptor": "Kozhukattai is not a snack. It is an offering. In Tamil Nadu, Pillayar Chaturthi begins with this — steam rising from the steel plate, the specific smell of coconut and jaggery heating together, and the understanding that you make this for Ganesh before you make it for yourself. What remains after the offering is the best sweet you will have all year.",
+      "principle": "EXCLUSIVE FRAMING + PSYCHO-LOGIC (Sutherland S10 + S1)",
+      "rationale": "Positioning kozhukattai as 'Ganesh's sweet first, yours second' is psycho-logically powerful — it adds spiritual permission and exclusivity to the product without any false claims."
+    },
+    {
+      "title": "Twelve Minutes in the Steamer. No Shortcuts.",
+      "descriptor": "The shell has to be thin enough to cook through in twelve minutes. Too thick and the inside stays raw; too thin and it cracks when you lift it. The jaggery in the filling has to be cooled before going in, or the shell softens in the wrong way. There is a reason kozhukattai is made at home less often now — and that is exactly why each one in this box matters.",
+      "principle": "LOSS AVERSION + SCARCITY (Shotton Bias 25)",
+      "rationale": "Acknowledging that 'kozhukattai is made at home less often now' frames the purchase as preserving something being lost — stronger than any positive claim."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Grand Sweets",
+      "product": "Kozhukattai",
+      "priceINR": "260",
+      "grammage": "300g",
+      "pricePerGram": "₹0.87/g",
+      "channel": "Chennai seasonal + D2C",
+      "positioning": "Heritage brand, seasonal availability. Standard recipe, no differentiation."
+    },
+    {
+      "brand": "Home-made (festival season)",
+      "product": "Kozhukattai",
+      "priceINR": "Gifted",
+      "grammage": "Varies",
+      "pricePerGram": "N/A",
+      "channel": "Festival gifting",
+      "positioning": "The real benchmark — 'Paati's kozhukattai.' The emotional standard every commercial version competes against."
+    },
+    {
+      "brand": "D2C Festival Brands",
+      "product": "Kozhukattai (frozen/fresh)",
+      "priceINR": "250-380",
+      "grammage": "12-20 pieces",
+      "pricePerGram": "₹0.70-1.20/g",
+      "channel": "D2C + Quick Commerce",
+      "positioning": "Festival convenience positioning. Multiple filling variants (chocolate, gulkand) often dilute the authentic story."
+    },
+    {
+      "brand": "Local Sweet Shops",
+      "product": "Kozhukattai",
+      "priceINR": "200-300",
+      "grammage": "500g",
+      "pricePerGram": "₹0.40-0.60/g",
+      "channel": "Local Tamil Nadu retail",
+      "positioning": "Freshness advantage but no brand story. Seasonal availability."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "kozhukattai"
+}

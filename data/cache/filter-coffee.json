@@ -1,0 +1,155 @@
+{
+  "correctedName": "Filter Coffee",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Filter coffee (also called 'kaapi' or 'degree coffee') is a South Indian invention — the metal filter device, the chicory blend, the tumbler-davara serving method, and the foam-generation technique are all specific to South India's coffee culture, originating in Tamil Nadu and Karnataka.",
+    "flavorLedExplanation": "The flavor identity is defined by the chicory blend (typically 15-25% chicory), strong decoction, full-cream milk, and the frothy tumbler-to-davara pour. No other regional coffee culture produces this specific flavor profile.",
+    "overallSummary": "Filter coffee is South India's morning ritual — a product so identity-defining that it appears in literature, cinema, and architecture (the Brahmin's coffee hotels). It requires no proxy, no justification, and no explanation to a South Indian audience."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Pan South India — Tamil Nadu, Karnataka, Kerala. Most associated with Chennai's Brahmin cafes (Saravana Bhavan, Woodlands) and Mysore's coffee culture.",
+    "origin": "South Indian filter coffee developed in the early 20th century when Indian Coffee House chains popularized the metal filter across South Indian cities. The chicory blend was a British-era addition that South Indians embraced for its body and cost efficiency. The tumbler-davara ritual is unique to South India.",
+    "culturalSignificance": "Filter coffee is the most culturally loaded food item in South India. It opens every morning, closes every meal, signals hospitality when offered to guests, and is the subject of more nostalgic writing than any other South Indian food. The Madurai, Chennai, Mysore, and Coorg coffee traditions all have distinct identities.",
+    "storytelling": "The correct way to make filter coffee takes eleven minutes — four to brew the decoction, four more to wait, and three to pour it back and forth between the tumbler and davara until the foam is thick and the temperature is exactly right. The foam is not optional. The foam is the point. It tells you the decoction was strong enough, the milk was hot enough, and the person making it cared enough to do it right. A South Indian grandmother can tell you everything about the quality of a coffee by the height of the foam before she takes the first sip.",
+    "bestSeason": "Daily ritual — consumed year-round, multiple times per day in most South Indian households. Peaks commercially in winter months."
+  },
+  "positioning": {
+    "brandLadderRange": "Daily Rituals Series",
+    "brandLadderRationale": "Filter coffee is the definitive Daily Rituals product — the morning ritual that anchors the South Indian day. No other product better exemplifies the 'daily ritual' category, and no Sweet Karam Coffee product has more emotional permission to own the 'morning' moment.",
+    "standalone": {
+      "functionalBenefits": [
+        "Rich in antioxidants from both coffee and chicory",
+        "Chicory (inulin) is a prebiotic — feeds beneficial gut bacteria",
+        "Caffeine from decoction — cognitive alertness without espresso-level intensity"
+      ],
+      "functionalRTB": [
+        "Chicory contains inulin — scientifically recognized prebiotic fiber",
+        "Lower caffeine than espresso — sustainable energy without crash",
+        "Traditional 80:20 or 75:25 coffee:chicory ratio — the original slow-release caffeine format"
+      ],
+      "emotionalBenefits": [
+        "The smell of filter coffee is the smell of home for every South Indian",
+        "The morning ritual that no other beverage can replace",
+        "The taste that makes wherever you are feel a little more like South India"
+      ],
+      "emotionalRTB": [
+        "South India's #1 morning ritual across all demographics",
+        "Tumbler-davara ritual is a daily meditation practice disguised as coffee-making",
+        "The only beverage in India that has its own distinct serving vessel, pour ritual, and vocabulary"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Prebiotic Chicory",
+      "badge": "25% Chicory · Natural Prebiotic",
+      "explanation": "Chicory root contains inulin, a scientifically recognized prebiotic fiber that feeds beneficial gut bacteria. South India's traditional coffee blend is accidentally one of the most gut-friendly ways to start the morning.",
+      "category": "Digestive Health"
+    },
+    {
+      "claim": "Antioxidant Rich",
+      "badge": "Rich in Chlorogenic Acids",
+      "explanation": "Both coffee and chicory are rich in chlorogenic acids — antioxidants associated with reduced inflammation and improved glucose metabolism. The South Indian decoction method preserves these compounds better than espresso extraction.",
+      "category": "Antioxidant"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Arabica/Robusta Coffee Powder",
+        "proportion": "75-80%",
+        "role": "Primary flavor base. The coffee variety — often a Coorg or Chikmagalur blend — determines the decoction's body.",
+        "functionalHighlight": "Caffeine for alertness; chlorogenic acids as antioxidants"
+      },
+      {
+        "name": "Roasted Chicory",
+        "proportion": "20-25%",
+        "role": "Body and depth. Chicory gives South Indian filter coffee its distinctive thick, dark decoction that espresso cannot replicate.",
+        "functionalHighlight": "Inulin (prebiotic fiber) — feeds beneficial gut bacteria; zero caffeine contribution"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "Eleven Minutes Every Morning",
+      "descriptor": "Four minutes to brew the decoction. Four more to wait. Three to pour it between the tumbler and davara until the foam is right. Eleven minutes of ritual before the first sip. The foam is not decorative — it tells you the decoction was strong enough, the milk was hot enough, and the person making it cared. South Indian filter coffee is not a beverage. It is a practice.",
+      "principle": "EFFORT HEURISTIC (Sutherland S2)",
+      "rationale": "The '11-minute ritual' communicates that this coffee demands — and rewards — attention. It elevates the product from 'morning caffeine' to 'morning practice,' which is a positioning no global coffee brand has claimed for South Indian filter coffee."
+    },
+    {
+      "title": "The Smell That Unlocks Memory",
+      "descriptor": "Neuroscientists have a name for it: autobiographical memory triggered by olfactory cues. South Indians have a simpler description: the smell of filter coffee is the smell of home. It doesn't matter where you are. The moment the decoction starts brewing, you are in Madurai or Mysore or Trivandrum, in someone's kitchen before anyone else was awake.",
+      "principle": "PSYCHO-LOGIC (Sutherland S1)",
+      "rationale": "Using the science of olfactory memory to explain a universal South Indian experience — the filter coffee smell-memory link — creates a uniquely powerful brand connection that competitors cannot replicate without the same emotional permission."
+    },
+    {
+      "title": "The Morning That Belongs to South India",
+      "descriptor": "There is no substitute for this. Espresso is a different language. Instant coffee is a different religion. Filter coffee — with its 80:20 coffee-chicory blend, its metal filter, its tumbler and davara — is specifically South Indian. Specifically morning. Specifically yours.",
+      "principle": "SCARCITY + EXCLUSIVE FRAMING (Sutherland S10)",
+      "rationale": "Asserting that this product has no substitute and belongs to a specific geography and ritual positions it as irreplaceable — exactly what Sutherland means by the 'elixir of exclusivity.'"
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Cothas Coffee",
+      "product": "Degree Coffee Blend",
+      "priceINR": "280",
+      "grammage": "500g",
+      "pricePerGram": "₹0.56/g",
+      "channel": "Karnataka stores + D2C",
+      "positioning": "Bangalore's heritage brand. Strong trust among Kannada-speaking consumers. Limited pan-South India distribution."
+    },
+    {
+      "brand": "Leo Coffee",
+      "product": "Premium Filter Coffee Powder",
+      "priceINR": "320",
+      "grammage": "500g",
+      "pricePerGram": "₹0.64/g",
+      "channel": "Tamil Nadu stores + D2C",
+      "positioning": "Tamil Nadu institution. Strong Chennai and Madurai following. Robust 80:20 blend."
+    },
+    {
+      "brand": "Narasu's",
+      "product": "Udhayam Coffee Powder",
+      "priceINR": "250",
+      "grammage": "500g",
+      "pricePerGram": "₹0.50/g",
+      "channel": "Tamil Nadu GT + Modern Trade",
+      "positioning": "Mass-market Tamil Nadu coffee. Wide distribution. Lower price point, less premium positioning."
+    },
+    {
+      "brand": "Nescafe",
+      "product": "Gold Blend",
+      "priceINR": "650",
+      "grammage": "200g",
+      "pricePerGram": "₹3.25/g",
+      "channel": "Pan-India Modern Trade + Quick Commerce",
+      "positioning": "International brand. Targets 'premium' urban positioning but is fundamentally different from filter coffee — not a direct competitor in the authentic decoction market."
+    },
+    {
+      "brand": "Blue Tokai",
+      "product": "South Indian Filter Coffee Blend",
+      "priceINR": "550",
+      "grammage": "250g",
+      "pricePerGram": "₹2.20/g",
+      "channel": "D2C + Quick Commerce",
+      "positioning": "Specialty coffee brand with South Indian blend. Appeals to urban 'craft coffee' consumers. Different positioning (origin-specific single estate) vs traditional filter coffee story."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "filter-coffee"
+}

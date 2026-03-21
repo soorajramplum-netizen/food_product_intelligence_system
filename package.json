@@ -1,0 +1,19 @@
+{
+  "name": "south-indian-or-not",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "generate-cache": "node scripts/generate-cache.js",
+    "generate-cache-skip": "node scripts/generate-cache.js --skip-existing"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "dotenv": "^16.0.0"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "correctedName": "Vella Aval",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Vella Aval (sweet beaten rice) is a Tamil Nadu and Kerala preparation — beaten rice flakes mixed with jaggery, fresh coconut, and cardamom. This exact preparation, in this exact combination, is a South Indian creation with no northern equivalent.",
+    "flavorLedExplanation": "The jaggery-coconut-cardamom combination applied to beaten rice is distinctly South Indian. The fresh coconut inclusion is the most visible flavor-led South Indian identifier — no northern version of beaten rice sweet uses fresh coconut in this way.",
+    "overallSummary": "Vella Aval is the quintessential quick South Indian festival sweet — simple, made in five minutes, but carrying the flavor identity of four South Indian ingredients that are completely of this region."
+  },
+  "southIndianProxy": {
+    "applicable": false
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Pan Tamil Nadu and Kerala",
+    "origin": "Vella Aval is specifically the Karthigai Deepam and Krishna Jayanthi preparation in Tamil Nadu. It is made as a quick prasadam — the beaten rice is simply moistened with jaggery syrup and mixed with fresh coconut without any cooking.",
+    "culturalSignificance": "A quick prasadam made during Karthigai Deepam, Krishna Jayanthi, and Varalakshmi Vratam. Associated with the quality of 'no-cook' devotional food that can be prepared rapidly as an offering.",
+    "storytelling": "Vella Aval takes five minutes to make and has been offered to gods for centuries. The beaten rice absorbs the jaggery syrup, the fresh coconut provides richness, and the cardamom ties it together in a way that is completely disproportionate to the effort involved. It is the sweet that proves that the best South Indian food does not require complexity — it requires the right ingredients, trusted, unchanged.",
+    "bestSeason": "Karthigai Deepam (November-December) and Krishna Jayanthi (August) are primary. Also for Varalakshmi Vratam."
+  },
+  "positioning": {
+    "brandLadderRange": "Daily Rituals Series",
+    "brandLadderRationale": "Vella Aval's simplicity, quick preparation, and everyday South Indian ingredient base place it in Daily Rituals — the sweet version of an everyday South Indian staple.",
+    "standalone": {
+      "functionalBenefits": [
+        "Beaten rice is light, easily digestible — lighter than regular rice",
+        "Jaggery provides iron — better mineral profile than refined sugar",
+        "Fresh coconut adds medium-chain fats and manganese"
+      ],
+      "functionalRTB": [
+        "Beaten rice: pre-cooked, 35% lower calorie density than regular rice",
+        "Jaggery: iron and calcium without sugar's mineral void",
+        "Fresh coconut: MCTs for quick energy"
+      ],
+      "emotionalBenefits": [
+        "The taste of festival preparation — simple and immediate",
+        "The sweet that connects to childhood Karthigai evenings",
+        "Requires no cooking — the most accessible South Indian sweet"
+      ],
+      "emotionalRTB": [
+        "Five-minute preparation — festival sweetness without festival complexity",
+        "Made with ingredients every South Indian home has",
+        "No-cook prasadam: pure, immediate, trusted"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "No Cooking Required",
+      "badge": "Zero Heat Processing · Maximum Nutrient Retention",
+      "explanation": "Vella Aval is a no-cook preparation — the beaten rice is simply mixed with jaggery syrup and fresh coconut. No heat means no nutrient destruction and maximum freshness from all ingredients.",
+      "category": "No Nasties"
+    },
+    {
+      "claim": "Jaggery Sweetened",
+      "badge": "Pure Jaggery · Zero Refined Sugar",
+      "explanation": "Traditional Vella Aval uses only jaggery — providing iron and minerals that refined sugar lacks.",
+      "category": "Iron"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Beaten Rice (Aval)",
+        "proportion": "50%",
+        "role": "The base — pre-cooked rice that needs no further cooking. Absorbs jaggery syrup and becomes soft within minutes.",
+        "functionalHighlight": "Pre-cooked; light and easily digestible; complex carbohydrate"
+      },
+      {
+        "name": "Jaggery",
+        "proportion": "25%",
+        "role": "Dissolved in minimal water to make a syrup that the aval absorbs",
+        "functionalHighlight": "Iron, calcium, magnesium. Lower GI than refined sugar."
+      },
+      {
+        "name": "Fresh Coconut",
+        "proportion": "18%",
+        "role": "Mixed in last — provides richness and the fresh tropical note",
+        "functionalHighlight": "MCTs; manganese; natural fresh flavor"
+      },
+      {
+        "name": "Cardamom",
+        "proportion": "1%",
+        "role": "Aromatic finish — the single spice that completes the dish",
+        "functionalHighlight": "Digestive, antioxidant"
+      },
+      {
+        "name": "Ghee (optional)",
+        "proportion": "3%",
+        "role": "Finishing richness",
+        "functionalHighlight": "Fat-soluble vitamins; flavor amplifier"
+      },
+      {
+        "name": "Banana (optional)",
+        "proportion": "3%",
+        "role": "Mashed banana added for moisture and sweetness",
+        "functionalHighlight": "Potassium, natural sweetness, binding"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "Five Ingredients. Five Minutes. Festival Done.",
+      "descriptor": "Vella Aval does not need a recipe card. Jaggery syrup on beaten rice, fresh coconut, cardamom, a dot of ghee. Five minutes from the start of soaking the jaggery to the first bite. This is the sweet that South India made when it needed something pure and immediate — not elaborate, not slow. Just right.",
+      "principle": "AFFORDANCE — LESS IS MORE (Sutherland S9)",
+      "rationale": "Clarity of purpose and simplicity as the product's core proposition — 'not elaborate, not slow. Just right.' — is exactly Sutherland's less-is-more principle applied to a sweet that needs no embellishment."
+    },
+    {
+      "title": "Karthigai's First Bite",
+      "descriptor": "On the evening of Karthigai Deepam, before the lamps are lit, before the pori urundai is made, the first thing offered is Vella Aval. Five minutes, five ingredients, the first light of the festival. There is something right about a sweet this old and this simple still being the one you make first.",
+      "principle": "PSYCHO-LOGIC + RITUAL (Sutherland S1 + S7)",
+      "rationale": "Anchoring the product to the specific first act of a specific festival creates a ritual-based purchase trigger that is irrational by design — exactly the psycho-logical, not logical, appeal Sutherland describes."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Home-made",
+      "product": "Vella Aval",
+      "priceINR": "N/A",
+      "grammage": "N/A",
+      "pricePerGram": "N/A",
+      "channel": "Festival preparation",
+      "positioning": "The actual benchmark. Most South Indian consumers make this at home — commercial versions need to earn the right to substitute."
+    },
+    {
+      "brand": "D2C Snack Brands",
+      "product": "Sweet Poha variants",
+      "priceINR": "180-280",
+      "grammage": "300-500g",
+      "pricePerGram": "₹0.50-0.75/g",
+      "channel": "D2C + Quick Commerce",
+      "positioning": "Generic sweet poha positioning. No festival context, no South Indian identity story."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "vella-aval"
+}

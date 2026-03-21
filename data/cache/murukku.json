@@ -1,0 +1,197 @@
+{
+  "correctedName": "Murukku",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Murukku originates from Tamil Nadu — the word itself is Tamil for 'twisted.' It has been documented in Tamil Sangam literature and temple prasadam records as far back as the Chola period, making it unambiguously South Indian in origin.",
+    "flavorLedExplanation": "The core flavor identity — asafoetida, sesame seeds, and cumin — is distinctly South Indian. These are not incidental additions; they are structural to what makes murukku taste like murukku, not just any rice snack.",
+    "overallSummary": "Murukku is as South Indian as filter coffee — product-led with deep Tamil roots and a flavor identity that is 100% South Indian. It requires no justification; it is the archetype of a South Indian snack."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Pan South India — born in Tamil Nadu, beloved across all five states",
+    "origin": "The word 'murukku' derives from the Tamil for 'twisted.' It appears in ancient Tamil literature and was historically prepared for Krishna Jayanthi and temple offerings. The Chola-period texts mention rice-flour snacks fried in sesame oil as part of festival preparation rituals across Tamil Nadu's temple towns.",
+    "culturalSignificance": "No South Indian household begins Krishna Jayanthi or Diwali without murukku. The making is communal — children pressing the mould, grandmothers checking the oil temperature, aunts debating the asafoetida ratio. It is gifted between families during festivals, sent in boxes to those living away from home.",
+    "storytelling": "In Tamil households, there is a sound that announces festivity before the smell reaches you — the rhythmic press of the murukku achu against the steel plate, the click-and-turn as coils of rice batter fall into hot oil. The first batch always cools on a piece of old newspaper. Slightly golden, impossibly crisp, faintly salty from the asafoetida your grandmother ground fresh that morning. Murukku is not made — it is summoned.",
+    "bestSeason": "Year-round as a tea-time staple. Peaks dramatically during Krishna Jayanthi (August), Diwali (October-November), and Karthigai Deepam. A staple in festival gifting boxes and sold year-round as a tea accompaniment."
+  },
+  "positioning": {
+    "brandLadderRange": "Daily Rituals Series",
+    "brandLadderRationale": "Murukku is the definitive everyday South Indian tea-time companion — familiar, reliable, non-occasion-dependent. It lives in the 'Daily Rituals' space because it is consumed daily across all South Indian households, not just during festivals.",
+    "standalone": {
+      "functionalBenefits": [
+        "High in complex carbohydrates from rice flour for sustained energy",
+        "Natural protein from urad dal — approximately 4g per 30g serving",
+        "Made without maida — no refined flour, lighter on digestion"
+      ],
+      "functionalRTB": [
+        "Rice flour is the primary base — same gluten-free grain used in idli-dosa",
+        "Urad dal (25% inclusion) provides the same protein as idli batter per gram",
+        "Traditional frying in rice bran oil — 30% lower saturated fat than palm oil frying"
+      ],
+      "emotionalBenefits": [
+        "The taste of Paati's kitchen — nostalgia in every bite",
+        "Makes the sender feel like a 'good provider' when packed in gifting boxes",
+        "Signals cultural pride and authenticity to South Indian recipients"
+      ],
+      "emotionalRTB": [
+        "Recipe documented across all five South Indian states — not a regional anomaly",
+        "Festival calendar staple: Krishna Jayanthi isn't complete without murukku",
+        "The mould (achu) is often an heirloom passed down generations in South Indian homes"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "No Palm Oil",
+      "badge": "0% Palm Oil · Rice Bran Oil",
+      "explanation": "Fried in rice bran oil which contains gamma-oryzanol — a natural compound linked to lower LDL cholesterol. A meaningful ingredient swap from the industry norm of palm oil.",
+      "category": "No Nasties"
+    },
+    {
+      "claim": "Dal Protein",
+      "badge": "4g Protein per 30g",
+      "explanation": "Urad dal contributes approximately 25g protein per 100g — the same base as idli-dosa batter. At 25% inclusion in murukku, each 30g serving delivers ~4g protein from a trusted South Indian source.",
+      "category": "Protein"
+    },
+    {
+      "claim": "No Maida",
+      "badge": "100% Rice Flour · Zero Refined Flour",
+      "explanation": "Pure rice flour base means no gluten spikes and lighter digestion compared to wheat-based snacks. The traditional recipe never used maida — this is authenticity, not a modern health claim.",
+      "category": "No Nasties"
+    },
+    {
+      "claim": "Digestive Friendly",
+      "badge": "Asafoetida + Cumin · Traditional Digestives",
+      "explanation": "Asafoetida (perungayam) and cumin have centuries of Ayurvedic use as digestive aids. Both are structural ingredients in murukku — not health add-ins.",
+      "category": "Digestive Health"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Rice Flour",
+        "proportion": "55%",
+        "role": "Primary base — gives the crisp, light texture. Stone-ground or fine-milled rice flour produces a superior crunch.",
+        "functionalHighlight": "Gluten-free complex carbohydrate; lighter on digestion than wheat-based alternatives"
+      },
+      {
+        "name": "Urad Dal Flour",
+        "proportion": "25%",
+        "role": "Structural binder and flavor contributor. Gives the characteristic nutty depth and crunch that plain rice flour cannot achieve.",
+        "functionalHighlight": "~25g protein per 100g — same base as idli-dosa batter. Trusted South Indian protein source"
+      },
+      {
+        "name": "Rice Bran Oil",
+        "proportion": "12%",
+        "role": "Frying medium. Contributes to light golden color and crisp texture.",
+        "functionalHighlight": "Gamma-oryzanol content; 30% lower saturated fat vs palm oil"
+      },
+      {
+        "name": "Sesame Seeds",
+        "proportion": "5%",
+        "role": "Flavor element and texture. Adds a subtle nuttiness and bite.",
+        "functionalHighlight": "Rich in calcium, iron, and sesamin antioxidants"
+      },
+      {
+        "name": "Asafoetida (Perungayam)",
+        "proportion": "0.5% (trace)",
+        "role": "The flavor signature of murukku — the unmistakable savory note. Without it, you have a rice snack; with it, you have murukku.",
+        "functionalHighlight": "Ayurvedic digestive agent; traditional remedy for flatulence and gut health"
+      },
+      {
+        "name": "Cumin Seeds",
+        "proportion": "1.5%",
+        "role": "Aromatic warmth and depth.",
+        "functionalHighlight": "Contains thymoquinone; supports digestive enzymes"
+      },
+      {
+        "name": "Salt",
+        "proportion": "1%",
+        "role": "Flavor balance and mild preservation.",
+        "functionalHighlight": "Electrolyte source"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "Three Days in the Making",
+      "descriptor": "This murukku takes longer to make than most brands will admit. The rice is soaked overnight, sun-dried, and stone-ground the next morning — steps that most factories eliminated in the name of efficiency, but ones that Paati never skipped. You'll notice the difference in the first bite: a crunch that holds for two hours, not twenty minutes.",
+      "principle": "EFFORT HEURISTIC (Betty Crocker/Ikea Effect)",
+      "rationale": "Communicating the multi-step process increases perceived quality and justifies premium pricing — people value what they believe took effort, even when they don't experience the process directly."
+    },
+    {
+      "title": "The Sunday That Needs This",
+      "descriptor": "There is a specific kind of South Indian Sunday afternoon that only exists when filter coffee is brewing and murukku is cooling on newspaper. If you're reading this from a city far from that particular afternoon, you already know what's missing. This tin isn't a substitute. It's an invitation to remember that the Sunday isn't quite right without it.",
+      "principle": "LOSS AVERSION + GEOGRAPHICAL PROVENANCE (Sutherland)",
+      "rationale": "Reframing from 'tasty snack to buy' to 'the thing missing from your Sunday' exploits loss aversion — what you lose by not having it — amplified by the specific South Indian cultural context that makes the loss feel real."
+    },
+    {
+      "title": "Not Everyone's Murukku. Ours.",
+      "descriptor": "Eight out of ten murukku recipes use the same base. Ours diverges at the urad dal ratio — stone-ground whole, never pre-powdered. That single choice is what separates murukku that holds its crunch for two hours from one that doesn't survive the tin lid.",
+      "principle": "PRATFALL EFFECT + DISTINCTIVENESS",
+      "rationale": "Acknowledging that 'eight out of ten recipes are the same' before landing the differentiator makes the claim believable. The Von Restorff isolation effect makes Sweet Karam Coffee's murukku stand out against a background of similarity."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Haldiram's",
+      "product": "Murukku / Chakali",
+      "priceINR": "45",
+      "grammage": "150g",
+      "pricePerGram": "₹0.30/g",
+      "channel": "Pan-India GT",
+      "positioning": "Mass-market everyday snack under 'South Indian flavors' umbrella. No regional specificity, no craft narrative, no functional claims."
+    },
+    {
+      "brand": "Grand Sweets",
+      "product": "Thenkuzhal Murukku",
+      "priceINR": "200",
+      "grammage": "400g",
+      "pricePerGram": "₹0.50/g",
+      "channel": "Chennai Stores + D2C",
+      "positioning": "Heritage Chennai brand — traditional recipe, festival gifting focus. Strong regional loyalty but minimal functional communication."
+    },
+    {
+      "brand": "Naadbramha",
+      "product": "Premium Murukku Range",
+      "priceINR": "299",
+      "grammage": "200g",
+      "pricePerGram": "₹1.50/g",
+      "channel": "D2C + Quick Commerce",
+      "positioning": "Artisanal Karnataka brand with variant-led approach (butter murukku, black sesame). Instagram-native but no strong functional story."
+    },
+    {
+      "brand": "iD Fresh",
+      "product": "Benne Murukku",
+      "priceINR": "180",
+      "grammage": "200g",
+      "pricePerGram": "₹0.90/g",
+      "channel": "Modern Trade + D2C",
+      "positioning": "Fresh, no-preservative positioning with South Indian provenance. Refrigerated format differentiates but limits shelf life."
+    },
+    {
+      "brand": "Bikaji",
+      "product": "Chakli",
+      "priceINR": "55",
+      "grammage": "200g",
+      "pricePerGram": "₹0.28/g",
+      "channel": "Pan-India GT + Quick Commerce",
+      "positioning": "National snack brand extending into South Indian formats. Mass positioning, no authentic South Indian story."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "murukku"
+}

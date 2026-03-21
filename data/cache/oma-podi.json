@@ -1,0 +1,158 @@
+{
+  "correctedName": "Oma Podi",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Oma Podi is the South Indian sev — a thin besan-rice flour sev flavored with ajwain (omam in Tamil), which is the characteristic South Indian digestive spice. It originates from Tamil Nadu as the thinner, digestive-spiced version of North Indian sev.",
+    "flavorLedExplanation": "The ajwain (omam) flavor is the South Indian differentiator — North Indian sev uses carom seeds or turmeric; Oma Podi uses the same spice in a more prominent, front-and-center application that makes the South Indian flavor identity unmistakable.",
+    "overallSummary": "Oma Podi is South India's answer to bhujia — same thin sev format, but with ajwain (omam) as the flavor signature instead of moth dal or turmeric. Product-led with a deep Tamil identity, a staple in the Diwali mixture and as a standalone tea-time snack."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Pan Tamil Nadu and Kerala",
+    "origin": "Oma Podi developed from the broader South Indian sev tradition as a specific variation flavored with omam (ajwain), which was already widely used in Tamil cooking for its digestive properties. The name 'Oma' literally refers to the spice omam (ajwain).",
+    "culturalSignificance": "Oma Podi is a core component of South Indian Diwali Mixture (kara mixture) and is consumed as a standalone snack. It appears in nearly every South Indian home's snack stock.",
+    "storytelling": "Oma Podi is the sev that South India made its own. The ajwain — called omam in Tamil — is not a garnish. It is the flavor anchor. A Tamil kitchen without a stash of oma podi is a kitchen that has not been properly stocked. It goes into the Diwali mixture, it crumbles into hot rasam, it pairs with filter coffee in the afternoon. It is the most versatile thing in the tin.",
+    "bestSeason": "Year-round, with peak during Diwali for mixture preparation."
+  },
+  "positioning": {
+    "brandLadderRange": "Daily Rituals Series",
+    "brandLadderRationale": "Oma Podi is the quintessential Daily Rituals product — everyday, tea-time, year-round, no occasion dependency.",
+    "standalone": {
+      "functionalBenefits": [
+        "Ajwain (omam) is a traditional digestive — actively beneficial, not just flavoring",
+        "Besan base — plant protein in a snack format",
+        "No maida — 100% besan and rice flour"
+      ],
+      "functionalRTB": [
+        "Ajwain contains thymol — documented digestive enzyme stimulant",
+        "Besan: ~22g protein per 100g",
+        "Traditional preparation: no artificial flavoring"
+      ],
+      "emotionalBenefits": [
+        "The sev that South India made its own",
+        "The Diwali mixture ingredient that makes the mixture South Indian",
+        "The tea-time accompaniment that needs no explanation"
+      ],
+      "emotionalRTB": [
+        "Named after the spice (oma = ajwain) — transparency in naming",
+        "South Indian Diwali Mixture without oma podi is incomplete",
+        "A tin of oma podi in the kitchen is a signal that the household is properly stocked"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Ajwain Digestive",
+      "badge": "Omam (Ajwain) · Traditional Digestive Spice",
+      "explanation": "Ajwain (omam) contains thymol — a documented digestive enzyme stimulant used in Ayurveda for centuries. Oma Podi's primary flavor is also its most functional ingredient.",
+      "category": "Digestive Health"
+    },
+    {
+      "claim": "No Maida",
+      "badge": "100% Besan + Rice Flour · Zero Maida",
+      "explanation": "Traditional Oma Podi uses only besan (chickpea flour) and rice flour — no refined wheat flour (maida). This makes it a lighter, more digestible snack than maida-based alternatives.",
+      "category": "No Nasties"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Besan (Chickpea Flour)",
+        "proportion": "50%",
+        "role": "Primary base — gives the characteristic protein-rich, slightly nutty flavor",
+        "functionalHighlight": "~22g protein per 100g; naturally gluten-free-adjacent"
+      },
+      {
+        "name": "Rice Flour",
+        "proportion": "25%",
+        "role": "Crisp contributor — rice flour makes the sev light and crunchy without maida",
+        "functionalHighlight": "Gluten-free carbohydrate; lighter than wheat flour"
+      },
+      {
+        "name": "Ajwain (Omam)",
+        "proportion": "3%",
+        "role": "The defining flavor — the entire South Indian identity of this product rests on omam",
+        "functionalHighlight": "Thymol: digestive enzyme stimulant; traditional Ayurvedic carminative"
+      },
+      {
+        "name": "Salt",
+        "proportion": "2%",
+        "role": "Flavor balance",
+        "functionalHighlight": ""
+      },
+      {
+        "name": "Oil (for frying)",
+        "proportion": "20%",
+        "role": "Frying medium — absorbed during extrusion frying",
+        "functionalHighlight": "Rice bran oil preferred for flavor neutrality and lower saturated fat"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "The Sev South India Made Its Own",
+      "descriptor": "North India has its bhujia. South India has oma podi — the same thin sev format, different soul. The ajwain (omam in Tamil) is not a flavoring afterthought. It is the reason this exists as a separate snack. It is also, not coincidentally, the spice Paati kept in the medicine cabinet for stomach aches. This sev digests you while you're eating it.",
+      "principle": "DISTINCTIVENESS + GEOGRAPHICAL PROVENANCE (Shotton Bias 4 + Sutherland S3)",
+      "rationale": "Positioning oma podi as 'the sev South India made its own' creates a clear identity distinction from North Indian bhujia using the geographical and cultural separation that Sutherland's provenance principle recommends."
+    },
+    {
+      "title": "The Diwali Mixture Anchor",
+      "descriptor": "South Indian Diwali Mixture is not one snack. It is a composition — and every composition has an anchor. Oma podi is the anchor. The thin, crispy, ajwain-forward sev that brings everything together: the murukku bits, the peanuts, the boondhi, the banana chips shards. Take the oma podi out and the mixture becomes a collection of things. Put it in and it becomes Diwali.",
+      "principle": "LOSS AVERSION (Sutherland S5)",
+      "rationale": "Positioning oma podi as the ingredient that makes the mixture a 'Diwali mixture' — and framing its absence as a downgrade — is classic loss aversion applied to an ingredient's role in a larger composition."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Haldiram's",
+      "product": "Plain Sev",
+      "priceINR": "40",
+      "grammage": "200g",
+      "pricePerGram": "₹0.20/g",
+      "channel": "Pan-India GT",
+      "positioning": "North Indian sev. No ajwain, no South Indian flavor identity. Price play only."
+    },
+    {
+      "brand": "Sri Krishna Sweets",
+      "product": "Oma Podi",
+      "priceINR": "180",
+      "grammage": "400g",
+      "pricePerGram": "₹0.45/g",
+      "channel": "Tamil Nadu stores + D2C",
+      "positioning": "Heritage Tamil Nadu brand. Strong quality. No functional story."
+    },
+    {
+      "brand": "Tamilnadu Grama Kadai",
+      "product": "Oma Podi",
+      "priceINR": "140",
+      "grammage": "400g",
+      "pricePerGram": "₹0.35/g",
+      "channel": "Tamil Nadu local GT",
+      "positioning": "Economy play. Wide distribution, minimal story."
+    },
+    {
+      "brand": "Bikaji",
+      "product": "Omapodi variant",
+      "priceINR": "50",
+      "grammage": "200g",
+      "pricePerGram": "₹0.25/g",
+      "channel": "Pan-India GT",
+      "positioning": "Mass market. Ajwain present but no South Indian positioning narrative."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "oma-podi"
+}

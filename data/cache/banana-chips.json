@@ -1,0 +1,173 @@
+{
+  "correctedName": "Kerala Banana Chips",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Kerala Banana Chips are made from the Nendran banana — a GI-tagged Kerala cultivar that grows nowhere else in India at scale. The product is inseparable from its ingredient's geography: you cannot make authentic Kerala Banana Chips without Nendran banana from Kerala.",
+    "flavorLedExplanation": "The authentic version is fried in coconut oil — not a neutral oil — which gives it a distinct tropical richness. Turmeric is added for color and mild Ayurvedic benefit. The flavor identity is entirely South Indian.",
+    "overallSummary": "Kerala Banana Chips are the Nendran banana meeting coconut oil — two Kerala-origin ingredients combining to create the state's most iconic export snack. The product is product-led, flavor-led, and ingredient-led simultaneously."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Kerala",
+    "region": "Pan Kerala — traditionally associated with Thrissur and Kozhikode districts",
+    "origin": "Kerala banana chips date to at least the 19th century as a household preparation in Kerala homes. The Nendran banana — firm, starchy, and slow to soften in oil — was the ideal frying banana. Commercial production began in the mid-20th century and Kerala's chips became a national staple.",
+    "culturalSignificance": "An essential component of the Onam Sadya banana-leaf feast. Every Kerala household makes or buys chips in large quantities before Onam. Also the default travel snack for Keralites — the product most likely to be found in Kerala diaspora kitchens across the world.",
+    "storytelling": "The Nendran banana grows only where the backwater soil is right — a particular alkalinity found in Kerala's coastal districts. When it's sliced thin and dropped into coconut oil that's been heated to exactly the right temperature, it does something no other banana does: it crisps all the way through without going bitter at the edges. Kerala's banana chips are not a snack. They are the result of a specific soil, a specific fruit, and a few hundred years of knowing exactly when the oil is ready.",
+    "bestSeason": "Year-round. Peaks during Onam (August-September) when they appear as part of the traditional sadya and are gifted in bulk packages."
+  },
+  "positioning": {
+    "brandLadderRange": "Healthier Treats",
+    "brandLadderRationale": "Kerala Banana Chips sit in Healthier Treats because of their clean ingredient list (banana, coconut oil, turmeric, salt) and the functional story around medium-chain fatty acids from coconut oil. They are indulgent but narratively justified as a 'better' snack choice.",
+    "standalone": {
+      "functionalBenefits": [
+        "Fried in coconut oil — medium-chain triglycerides (MCTs) for quick energy",
+        "Nendran banana has 3x more potassium than regular bananas",
+        "No artificial flavoring or preservatives — just banana, oil, turmeric, salt"
+      ],
+      "functionalRTB": [
+        "Coconut oil's lauric acid has anti-microbial properties — Ayurvedic endorsement",
+        "Nendran banana is GI-tagged — certified authenticity of the primary ingredient",
+        "Resistant starch in raw/semi-ripe Nendran banana — feeds gut bacteria"
+      ],
+      "emotionalBenefits": [
+        "The taste of arriving in Kerala — that airport-exit smell",
+        "Makes you feel connected to the South even when you're not there",
+        "The snack that makes Onam feel right wherever you are"
+      ],
+      "emotionalRTB": [
+        "Onam Sadya staple — 26 dishes, and this one is always present",
+        "GI-tagged Nendran banana — a fruit that belongs to one state",
+        "Coconut oil frying is the original Kerala method — not a modern health trend"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Coconut Oil Fried",
+      "badge": "100% Coconut Oil · Zero Palm Oil",
+      "explanation": "Authentic Kerala Banana Chips are fried in virgin coconut oil — rich in medium-chain triglycerides that are metabolized differently than long-chain fats. The coconut oil also contributes to the unique flavor that makes Kerala chips taste different from chips fried in other oils.",
+      "category": "Healthy Fat"
+    },
+    {
+      "claim": "GI Fruit",
+      "badge": "Nendran Banana · Kerala GI Tag",
+      "explanation": "The Nendran banana variety holds a Geographical Indication tag. Using certified Nendran guarantees the starch content, texture, and potassium levels that make these chips superior to generic banana chips.",
+      "category": "Other"
+    },
+    {
+      "claim": "Potassium Rich",
+      "badge": "3x Potassium vs Regular Banana Chips",
+      "explanation": "Nendran banana contains significantly higher potassium than the common Cavendish banana. Per 100g of chips, the potassium contribution is a meaningful electrolyte source.",
+      "category": "Energy"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Nendran Banana",
+        "proportion": "70% (pre-fry)",
+        "role": "Primary ingredient. Sliced thin and fried. The starch content of Nendran makes it crisp rather than soft when fried.",
+        "functionalHighlight": "High potassium, resistant starch that feeds gut microbiome, GI-tagged Kerala variety"
+      },
+      {
+        "name": "Coconut Oil",
+        "proportion": "20%",
+        "role": "Frying medium. Absorbed into chips during frying. Contributes the signature tropical richness.",
+        "functionalHighlight": "Medium-chain triglycerides (MCTs) — lauric acid, caprylic acid. Different metabolism from long-chain fats."
+      },
+      {
+        "name": "Turmeric",
+        "proportion": "1%",
+        "role": "Color and mild Ayurvedic benefit.",
+        "functionalHighlight": "Curcumin — anti-inflammatory. Even at trace levels, adds Ayurvedic credibility."
+      },
+      {
+        "name": "Salt",
+        "proportion": "1.5%",
+        "role": "Flavor balance.",
+        "functionalHighlight": "Electrolyte source"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "Only Where the Soil is Right",
+      "descriptor": "The Nendran banana grows in Kerala's coastal districts — where the backwater soil has a particular alkalinity found nowhere else in India at scale. Slice it thin, drop it in coconut oil at the right temperature, and it crisps all the way through without turning bitter. That is the only way to make Kerala banana chips. Everything else is just a banana in oil.",
+      "principle": "GEOGRAPHICAL PROVENANCE (Sutherland S3)",
+      "rationale": "Linking the product to a specific soil, geography, and GI-tagged ingredient creates an irreplicable provenance story that no competing brand can copy."
+    },
+    {
+      "title": "The Onam Bag You Post Home",
+      "descriptor": "Every October, Kerala post offices see a spike in parcels. Inside most of them: banana chips, packed in newspaper, padded with old sarees. The person sending them knows the receiver cannot find this taste anywhere else. You don't explain Kerala banana chips to someone who grew up with them. You just send the bag.",
+      "principle": "SOCIAL PROOF — TAILORED (Shotton Bias 2)",
+      "rationale": "Specific social proof (Kerala post office in October, parcels home) is far more powerful than generic claims like 'bestselling snack.' It makes the consumer feel part of a community of people who already love this product."
+    },
+    {
+      "title": "Four Ingredients. No Apologies.",
+      "descriptor": "Nendran banana. Coconut oil. Turmeric. Salt. That's the entire ingredient list. The crunch you get from this is not from additives — it's from a banana that was grown for two centuries to be fried. We didn't improve the recipe. We just didn't mess with it.",
+      "principle": "AFFORDANCE — LESS IS MORE (Sutherland S9)",
+      "rationale": "A four-ingredient product in an era of multi-additive snacks is a powerful signal of authenticity and restraint. 'We didn't improve the recipe' is the kind of honest brand confidence that builds long-term trust."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Sree Krishna",
+      "product": "Kerala Banana Chips",
+      "priceINR": "120",
+      "grammage": "200g",
+      "pricePerGram": "₹0.60/g",
+      "channel": "D2C + Kerala stores",
+      "positioning": "Heritage Kerala brand with strong local following. Less national distribution."
+    },
+    {
+      "brand": "Haldiram's",
+      "product": "Banana Chips",
+      "priceINR": "40",
+      "grammage": "150g",
+      "pricePerGram": "₹0.27/g",
+      "channel": "Pan-India GT",
+      "positioning": "Mass market at low price point. Not coconut-oil fried, not Nendran banana. Price competitor only."
+    },
+    {
+      "brand": "Pappachans",
+      "product": "Nendran Chips Original",
+      "priceINR": "180",
+      "grammage": "250g",
+      "pricePerGram": "₹0.72/g",
+      "channel": "D2C + Supermarkets South India",
+      "positioning": "Kerala specialist brand with GI banana focus. Closest authentic competitor."
+    },
+    {
+      "brand": "Raw Pressery / Beyond Snacks",
+      "product": "Kerala Banana Chips",
+      "priceINR": "99",
+      "grammage": "100g",
+      "pricePerGram": "₹0.99/g",
+      "channel": "Quick Commerce + D2C",
+      "positioning": "Urban health-snack positioning. Coconut oil claim prominent but Nendran story absent."
+    },
+    {
+      "brand": "Britannia / Unibic",
+      "product": "Banana Chips variants",
+      "priceINR": "30",
+      "grammage": "90g",
+      "pricePerGram": "₹0.33/g",
+      "channel": "Pan-India Modern Trade + GT",
+      "positioning": "Mass snack brand. Not authentic Kerala style. Volume play at low price."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "banana-chips"
+}

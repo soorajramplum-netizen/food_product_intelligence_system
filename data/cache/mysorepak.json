@@ -1,0 +1,167 @@
+{
+  "correctedName": "Mysorepak",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Mysorepak was created in the royal kitchens of the Mysore Palace by a royal chef named Kakasura Madappa during the reign of Krishnaraja Wadiyar IV (circa 1935). The very name embeds its origin — Mysore + Pak (sweet preparation). It is an unambiguously Karnataka creation.",
+    "flavorLedExplanation": "The flavor is entirely driven by South Indian ingredients — besan, pure desi ghee, and cardamom. The cooking process (letting the besan absorb hot ghee until it turns grainy and melt-in-mouth) is a technique unique to this product.",
+    "overallSummary": "Mysorepak is Karnataka's crown jewel sweet — created in a royal palace, protected by a GI tag, and replicated (never equaled) across South India. It is the South Indian answer to North India's kaju katli, except it predates the comparison."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Karnataka",
+    "region": "Mysore (Mysuru), Karnataka — specifically the Devaraja Market area",
+    "origin": "Created in 1935 by royal cook Kakasura Madappa on the instructions of Krishnaraja Wadiyar IV of Mysore. The king wanted a new sweet for a royal celebration; Madappa used besan, ghee, and sugar. The result was so prized it was named after the city itself — Mysorepak. GI tag registered in 2020.",
+    "culturalSignificance": "Mysorepak is the ceremonial sweet of Karnataka — served at every Dasara celebration (Mysore's largest festival), gifted at weddings in lieu of expensive jewelry boxes, and sold in Devaraja Market by shops that have been making it since the 1940s.",
+    "storytelling": "The original Mysorepak was made by accident — or so the legend goes. A royal cook, pressed for time, poured more ghee than usual into the besan batter to thin it out. The result was a thick, grainy square that crumbled at the edges and dissolved completely on the tongue. The king reportedly ate it in one bite and asked for more. That accident became Karnataka's most celebrated sweet, protected by the Indian government, and sold within sight of the palace walls where it was born.",
+    "bestSeason": "Year-round as a premium gifting sweet. Peaks during Dasara (September-October) in Mysore, and during Diwali as a gifting item."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "Mysorepak belongs squarely in Artisanal Signatures — it carries a royal origin story, a GI tag, and a production technique that cannot be industrialized without losing the product's character. It is not an everyday sweet; it is a statement of cultural knowledge.",
+    "standalone": {
+      "functionalBenefits": [
+        "Made with pure desi ghee — high in fat-soluble vitamins A, D, E, K",
+        "Besan (chickpea flour) base — naturally gluten-free",
+        "No artificial flavoring, coloring, or preservatives — three ingredients only"
+      ],
+      "functionalRTB": [
+        "Desi ghee is clarified butter — casein and whey removed, pure fat only",
+        "Besan contributes ~22g protein per 100g — the same base as chana dal",
+        "GI-tagged recipe from Karnataka: regulatory protection of authentic production method"
+      ],
+      "emotionalBenefits": [
+        "The taste of Karnataka's royal kitchens",
+        "Premium enough to gift without explanation",
+        "The signal that you know the difference between the original and the imitation"
+      ],
+      "emotionalRTB": [
+        "GI tag protects the Mysore origin — only Mysore-made is technically Mysorepak",
+        "Royal Palace kitchen origin story — created for a king in 1935",
+        "Crumbles at the touch — the grainy melt is a skill signal, not a texture defect"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Three Ingredients Only",
+      "badge": "Besan · Ghee · Sugar · Nothing Else",
+      "explanation": "The authentic Mysorepak recipe uses only besan, desi ghee, and sugar. No emulsifiers, no artificial color, no flavor enhancers. The ingredient list is a statement.",
+      "category": "No Nasties"
+    },
+    {
+      "claim": "Pure Desi Ghee",
+      "badge": "Made with 100% Desi Ghee",
+      "explanation": "Desi ghee (clarified butter) contains butyric acid, Vitamin K2, and fat-soluble vitamins A, D, E. The grainy, melt-in-mouth texture of Mysorepak is impossible without pure ghee — this is a quality signal as much as a health one.",
+      "category": "Healthy Fat"
+    },
+    {
+      "claim": "GI-Tagged Recipe",
+      "badge": "GI Protected · Mysore Heritage Since 1935",
+      "explanation": "Mysorepak holds a Geographical Indication tag from the Government of India — signaling authentic Mysore-style production method.",
+      "category": "Other"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Besan (Chickpea Flour)",
+        "proportion": "40%",
+        "role": "The structural base — when ghee is poured into hot besan, it creates the characteristic grainy, crumbly texture.",
+        "functionalHighlight": "~22g protein per 100g; naturally gluten-free; same base as chana dal"
+      },
+      {
+        "name": "Desi Ghee",
+        "proportion": "45%",
+        "role": "The magic ingredient — poured in hot while continuously stirring. The ratio of ghee to besan determines whether the result crumbles correctly.",
+        "functionalHighlight": "Butyric acid, Vitamin K2, fat-soluble vitamins A/D/E. Pure clarified butter."
+      },
+      {
+        "name": "Sugar",
+        "proportion": "15%",
+        "role": "Sweetener and texture contributor. Sugar syrup is added at a specific stage to bind the mass.",
+        "functionalHighlight": "Use palm jaggery to create a lower-GI variant with deeper flavor complexity"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "What a King Asked For in 1935",
+      "descriptor": "Krishnaraja Wadiyar IV's royal cook was told to create something new. He used three ingredients. The result was named after the city and is now protected by the Government of India. In the lanes around Devaraja Market in Mysore, shops that started making it in the 1940s still follow the same method. This is one of those.",
+      "principle": "GEOGRAPHICAL PROVENANCE (Sutherland Alchemy S3)",
+      "rationale": "Naming the city, the year, the royal origin, and the GI tag in the descriptor establishes unimpeachable provenance — exactly what Rory Sutherland means when he says a geographical identifier adds 27% perceived value automatically."
+    },
+    {
+      "title": "Three Ingredients. No Explanation Needed.",
+      "descriptor": "Besan. Ghee. Sugar. The Mysorepak recipe that has been made in Mysore since 1935 uses nothing else. No emulsifiers. No stabilizers. No color. The grainy, dissolving texture is not a flaw in the process — it is proof the process was done right.",
+      "principle": "PRATFALL EFFECT + AFFORDANCE (Shotton Bias 18 + Sutherland S9)",
+      "rationale": "Claiming the crumbly texture is 'proof of process' rather than a defect turns a potential consumer hesitation into a quality signal — the Pratfall Effect in action."
+    },
+    {
+      "title": "Not Sweet. Rich.",
+      "descriptor": "Most people describe Mysorepak as 'very sweet.' They're wrong. What they're tasting is ghee — the fat coating the tongue before the besan and sugar follow. This is not a Diwali mithai box filler. This is what you bring when you want the gift to be remembered.",
+      "principle": "REFRAMING (Sutherland Alchemy S4)",
+      "rationale": "Reframing 'very sweet' as 'very rich — it's the ghee you're tasting' changes the product positioning from 'sweet indulgence' to 'premium ingredient experience' — the same product, better perceived."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Sri Krishna Sweets",
+      "product": "Mysorepak",
+      "priceINR": "420",
+      "grammage": "500g",
+      "pricePerGram": "₹0.84/g",
+      "channel": "Stores + D2C",
+      "positioning": "Chennai heritage sweet brand — strong trust but not the Mysore origin story. More mass-market positioning."
+    },
+    {
+      "brand": "Maiyas",
+      "product": "Mysorepak",
+      "priceINR": "380",
+      "grammage": "400g",
+      "pricePerGram": "₹0.95/g",
+      "channel": "Karnataka stores + D2C",
+      "positioning": "Karnataka brand with authentic Mysore roots. Closest competitor with GI-adjacent credibility."
+    },
+    {
+      "brand": "Adyar Ananda Bhavan",
+      "product": "Mysorepak",
+      "priceINR": "350",
+      "grammage": "400g",
+      "pricePerGram": "₹0.88/g",
+      "channel": "Tamil Nadu stores + D2C",
+      "positioning": "High-trust South Indian chain. Mysorepak is one of many products; no GI positioning."
+    },
+    {
+      "brand": "Nagarjuna Sweets",
+      "product": "Soft Mysorepak",
+      "priceINR": "300",
+      "grammage": "400g",
+      "pricePerGram": "₹0.75/g",
+      "channel": "Andhra/Telangana stores",
+      "positioning": "Softer Andhra-style variant. Positions as 'soft Mysorepak' — a different texture that purists would consider non-authentic."
+    },
+    {
+      "brand": "Nilgiris (Nandhini)",
+      "product": "Mysorepak",
+      "priceINR": "280",
+      "grammage": "250g",
+      "pricePerGram": "₹1.12/g",
+      "channel": "Modern Trade Karnataka",
+      "positioning": "Supermarket presence with fair quality. Primarily convenience-driven purchase."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "mysorepak"
+}

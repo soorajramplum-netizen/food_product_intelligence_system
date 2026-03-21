@@ -1,0 +1,155 @@
+{
+  "correctedName": "Ada Pradhaman",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Ada Pradhaman is the jewel of Kerala's Onam Sadya desserts — made from rice ada (thin rice flakes) cooked in coconut milk with jaggery. It is unambiguously Keralite in concept, ingredient, and occasion.",
+    "flavorLedExplanation": "The triple coconut milk reduction method (third coconut milk first, then second, then first), jaggery caramelization, and the finishing notes of dry ginger and cumin are entirely South Indian and specific to Kerala.",
+    "overallSummary": "Ada Pradhaman is the most prestigious payasam on the Onam Sadya banana leaf — the one that appears last, is served generously, and is the benchmark against which all other Onam sweets are judged."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Kerala",
+    "region": "Pan Kerala — prepared across all communities for Onam Sadya",
+    "origin": "Ada Pradhaman is considered one of Kerala's most ancient festival preparations. The rice ada (pressed rice flakes) is a Kerala-specific ingredient made from cooked rice pressed into thin sheets and dried. The payasam itself is documented in Kerala temple cooking traditions dating to at least the medieval period.",
+    "culturalSignificance": "The defining dessert of Onam Sadya — Kerala's most important harvest festival feast. Served on banana leaves at the end of a 26-dish meal, Ada Pradhaman is the sweet that signals the feast is complete.",
+    "storytelling": "The correct way to make Ada Pradhaman requires three separate extractions from the same coconut. The third coconut milk — the thinnest — goes in first with the ada and jaggery, to build the base. The second extraction goes in next, thickening the payasam. The first milk — rich, almost cream-like — is added last, off the heat, so it doesn't cook. Then ghee, then cashews, then the finishing note of dry ginger powder and cumin that no Northern kheer ever uses. This is not a kheer. This is a pradhaman.",
+    "bestSeason": "Onam (August-September) is the primary season. Also prepared for Vishu, Thrissur Pooram, and weddings."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "Ada Pradhaman requires hand-pressed rice ada, triple-extraction coconut milk technique, and jaggery caramelization skills that resist industrialization.",
+    "standalone": {
+      "functionalBenefits": [
+        "Coconut milk base — medium-chain triglycerides and lauric acid",
+        "Jaggery sweetener — iron and mineral-rich vs refined sugar",
+        "Rice ada provides complex carbohydrate energy"
+      ],
+      "functionalRTB": [
+        "Three-extraction coconut milk: full spectrum of coconut fat including MCTs",
+        "Jaggery: iron, calcium, magnesium retained vs refined sugar processing",
+        "Dry ginger and cumin finish: documented digestive benefit"
+      ],
+      "emotionalBenefits": [
+        "The taste that ends Onam properly",
+        "The payasam that signals the feast was worth making",
+        "Kerala's most prestigious homemade sweet"
+      ],
+      "emotionalRTB": [
+        "Onam Sadya without Ada Pradhaman is incomplete by definition",
+        "The last-served, most-anticipated dish on a 26-item banana leaf",
+        "Three coconut extractions: a technique that takes the entire morning"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "Triple Coconut Extraction",
+      "badge": "Three-Stage Coconut Milk · Maximum Lauric Acid",
+      "explanation": "Authentic Ada Pradhaman uses three separate coconut milk extractions — thin, medium, and thick — added in sequence. This preserves the full spectrum of coconut nutrients including MCTs and lauric acid.",
+      "category": "Healthy Fat"
+    },
+    {
+      "claim": "Jaggery Sweetened",
+      "badge": "Pure Jaggery · No Refined Sugar",
+      "explanation": "Traditional Kerala Ada Pradhaman uses only jaggery — providing iron and minerals that refined sugar lacks. The jaggery caramelization is also structural to the payasam's characteristic color and flavor.",
+      "category": "No Nasties"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Rice Ada",
+        "proportion": "20%",
+        "role": "The defining ingredient — pressed rice flakes unique to Kerala. Cook in jaggery-coconut milk until tender.",
+        "functionalHighlight": "Complex carbohydrate; slow energy release"
+      },
+      {
+        "name": "Coconut Milk (Three Extractions)",
+        "proportion": "45%",
+        "role": "The liquid base. Added in three stages — thin first, thick last — to build layers of coconut flavor.",
+        "functionalHighlight": "MCTs (medium-chain triglycerides), lauric acid, manganese"
+      },
+      {
+        "name": "Jaggery",
+        "proportion": "25%",
+        "role": "Sweetener and color. Caramelizes during cooking to give Ada Pradhaman its characteristic reddish-brown color.",
+        "functionalHighlight": "Iron, calcium, magnesium. Lower GI than refined sugar."
+      },
+      {
+        "name": "Ghee",
+        "proportion": "5%",
+        "role": "Finishing fat and flavor. Fried cashews and raisins added in ghee.",
+        "functionalHighlight": "Fat-soluble vitamins; Vitamin K2"
+      },
+      {
+        "name": "Dry Ginger (Chukku)",
+        "proportion": "0.5%",
+        "role": "The signature finish that distinguishes Kerala pradhaman from Northern kheer.",
+        "functionalHighlight": "Digestive, anti-inflammatory"
+      },
+      {
+        "name": "Cumin",
+        "proportion": "0.3%",
+        "role": "Another Kerala payasam finish — unusual but traditional.",
+        "functionalHighlight": "Digestive enzyme support"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "The Last Thing on the Leaf. The One You Remember.",
+      "descriptor": "On an Onam Sadya banana leaf with 26 dishes, Ada Pradhaman is served last. By that point, you have eaten through the starters, the gravies, the rice preparations, the chutneys, the papadams. You are full. Then the pradhaman arrives and you find more room. This is not hunger. This is memory. This is the reason you made room.",
+      "principle": "LOSS AVERSION + SOCIAL PROOF (Shotton Bias 25 + 2)",
+      "rationale": "'You find more room' reframes the product as something that transcends fullness — it positions Ada Pradhaman as desire rather than need, the most powerful consumer motivation."
+    },
+    {
+      "title": "Three Extractions. One Payasam.",
+      "descriptor": "The first coconut milk pull is thin — used for the initial cook. The second is medium — added halfway through. The third, the first extraction, richest and almost cream-like, goes in last, off the heat. That technique is why Ada Pradhaman tastes like nothing else. Not because we have a secret recipe. Because we have not simplified it.",
+      "principle": "EFFORT HEURISTIC + AFFORDANCE (Sutherland S2 + S9)",
+      "rationale": "'We have not simplified it' is a powerful brand statement — it positions refusing to industrialize as a feature, not a limitation."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Nirapara",
+      "product": "Ada Pradhaman Premix",
+      "priceINR": "220",
+      "grammage": "400g",
+      "pricePerGram": "₹0.55/g",
+      "channel": "D2C + Modern Trade South India",
+      "positioning": "Convenience premix. Appeals to diaspora for Onam prep outside Kerala."
+    },
+    {
+      "brand": "Double Horse",
+      "product": "Ada Pradhaman Mix",
+      "priceINR": "190",
+      "grammage": "350g",
+      "pricePerGram": "₹0.54/g",
+      "channel": "Kerala stores + D2C",
+      "positioning": "Kerala brand, convenience positioning. Mass market premix format."
+    },
+    {
+      "brand": "Eastern (Condiments)",
+      "product": "Ada for Pradhaman",
+      "priceINR": "120",
+      "grammage": "200g ada only",
+      "pricePerGram": "₹0.60/g",
+      "channel": "Kerala + pan-South India",
+      "positioning": "Ingredient-only play — sells the rice ada, not the finished pradhaman."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "ada-pradhaman"
+}

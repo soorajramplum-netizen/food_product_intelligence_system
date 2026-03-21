@@ -1,0 +1,173 @@
+{
+  "correctedName": "Adhirasam",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Adhirasam is one of the oldest documented Tamil sweets, mentioned in Sangam-era literature. Made from raw rice soaked and ground with jaggery syrup, it is a distinctly Tamil preparation with no northern equivalent in form or method.",
+    "flavorLedExplanation": "The jaggery-cardamom-sesame flavor profile is quintessentially South Indian. The dark color from raw rice dough fried in oil with jaggery is a signature that no other regional sweet replicates.",
+    "overallSummary": "Adhirasam is ancient, documented, and Tamil — arguably one of the oldest surviving South Indian sweets in continuous production. Its appearance in Sangam literature predates most other sweets on this list by over a thousand years."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Pan Tamil Nadu — particularly associated with Tirunelveli, Madurai, and Tanjore belt",
+    "origin": "Adhirasam is mentioned in Sangam literature (circa 300 BCE – 300 CE) as 'atirasa' — making it one of the oldest documented sweets in Indian culinary history. The preparation involves raw rice soaked for days, ground with jaggery syrup to a specific consistency, fermented, then pressed into discs and fried.",
+    "culturalSignificance": "Adhirasam is the sweet most associated with Tamil Nadu's major festivals — Diwali, Krishna Jayanthi, Karthigai Deepam, and Tamil New Year. It is offered as neivedyam (temple offering) and gifted during festivals. The making is considered a domestic skill marker in traditional Tamil households.",
+    "storytelling": "Adhirasam is not made in an hour. The rice is soaked for two to three days. The jaggery is cooked to a precise string consistency — test it between your fingers, and the thread should hold for a second before breaking. The batter rests overnight. Then the pressing, the frying, and the pressing again on oil-soaked cloth to remove excess oil. A batch of adhirasam is a commitment. That commitment is exactly why it tastes the way it does.",
+    "bestSeason": "Diwali (October-November) and Krishna Jayanthi (August) are peak seasons. Also made for Karthigai Deepam, Tamil New Year, and as a temple offering year-round."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "Adhirasam's multi-day preparation, Sangam-era heritage, and festival-specific cultural role make it a perfect Artisanal Signatures product. It cannot be industrialized — the soaking, fermentation, and jaggery string test require human judgment at every stage.",
+    "standalone": {
+      "functionalBenefits": [
+        "Made with raw rice and jaggery — no refined sugar, no maida",
+        "Sesame seeds add calcium and iron to the sweet",
+        "Jaggery provides iron, minerals, and a lower GI vs refined sugar"
+      ],
+      "functionalRTB": [
+        "Palm jaggery or cane jaggery vs refined sugar: higher mineral content",
+        "Sesame seeds at 5-8% inclusion: meaningful calcium contribution per piece",
+        "3-day rice soak and fermentation: improved starch digestibility"
+      ],
+      "emotionalBenefits": [
+        "The sweet that proves you know South Indian culture",
+        "One of the oldest continuously made sweets in India — Sangam era",
+        "The taste of Diwali in Tamil Nadu for families who know the original"
+      ],
+      "emotionalRTB": [
+        "Mentioned in Tamil Sangam literature circa 300 BCE — the oldest documented South Indian sweet",
+        "Preparation requires 3 days and multiple skill steps — earned indulgence",
+        "Festival essential: no Diwali sweet box in Tamil Nadu is complete without it"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "No Refined Sugar",
+      "badge": "Pure Jaggery Only · Zero Refined Sugar",
+      "explanation": "Traditional adhirasam uses only jaggery as the sweetener — never refined sugar. Jaggery retains iron, calcium, and magnesium that refined sugar processing removes.",
+      "category": "No Nasties"
+    },
+    {
+      "claim": "Ancient Recipe",
+      "badge": "Sangam Era Recipe · 2000+ Years",
+      "explanation": "Adhirasam is documented in Tamil Sangam literature as 'atirasa' — making it one of the oldest continuously produced sweets in India. This is not marketing heritage; it is archaeological fact.",
+      "category": "Other"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Raw Rice",
+        "proportion": "55%",
+        "role": "Soaked 2-3 days, then ground with jaggery syrup to form the dough base. The soaking and slight fermentation is essential.",
+        "functionalHighlight": "Fermentation improves starch digestibility; complex carbohydrate energy"
+      },
+      {
+        "name": "Jaggery",
+        "proportion": "30%",
+        "role": "Cooked to one-string consistency before mixing with rice dough. The jaggery type (palm vs cane) determines color and flavor depth.",
+        "functionalHighlight": "Iron, calcium, magnesium. Lower GI than refined sugar. Traditional minerals preserved."
+      },
+      {
+        "name": "Sesame Seeds",
+        "proportion": "8%",
+        "role": "Mixed into dough and sometimes pressed on exterior. Adds texture and nuttiness.",
+        "functionalHighlight": "Rich in calcium, iron, and sesamin antioxidants"
+      },
+      {
+        "name": "Cardamom",
+        "proportion": "1%",
+        "role": "Aromatic finish.",
+        "functionalHighlight": "Digestive aid; antioxidant"
+      },
+      {
+        "name": "Oil (for frying)",
+        "proportion": "6%",
+        "role": "Deep frying medium.",
+        "functionalHighlight": "Use sesame oil or rice bran oil for authentic flavor and lower saturated fat"
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "Three Days Before Diwali",
+      "descriptor": "Good adhirasam starts before you think of Diwali. The rice goes into water on day one. By day three, the dough is ready — if you got the jaggery string test right. Most people no longer have the three days. We do. Every batch of these was started seventy-two hours before you opened this box.",
+      "principle": "EFFORT HEURISTIC (Sutherland S2)",
+      "rationale": "The 72-hour production timeline is a concrete, believable signal of craft that justifies the premium price point and makes the product feel earned, not just purchased."
+    },
+    {
+      "title": "Sangam-Era. Not Reinvented.",
+      "descriptor": "Tamil poets wrote about atirasa — the old name for adhirasam — in the Sangam period, roughly two thousand years before your Instagram feed was invented. This recipe has not been improved. It has been maintained. The only change since Sangam era: the jaggery now comes in a cleaner block.",
+      "principle": "GEOGRAPHICAL PROVENANCE + EXCLUSIVE FRAMING (Sutherland S3 + S10)",
+      "rationale": "Claiming 2000-year provenance while admitting the only change is 'cleaner jaggery blocks' is a masterfully honest heritage play — the Pratfall Effect applied to history."
+    },
+    {
+      "title": "The Diwali Box Test",
+      "descriptor": "There is an unspoken rule in Tamil Nadu: the quality of a Diwali sweet box is measured by whether it contains adhirasam. Not the imported chocolates. Not the fancy packaging. Adhirasam. If it's there, made properly, with the right dark color and soft give, the box was made by someone who knows what they're doing.",
+      "principle": "SOCIAL PROOF — TAILORED (Shotton Bias 2)",
+      "rationale": "Specific, insider social proof ('the unspoken rule') is far more compelling than generic claims. It flatters the consumer as someone who 'knows what they're doing' — a social identity signal."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Grand Sweets",
+      "product": "Adhirasam",
+      "priceINR": "380",
+      "grammage": "500g",
+      "pricePerGram": "₹0.76/g",
+      "channel": "Chennai stores + Seasonal D2C",
+      "positioning": "Heritage Chennai brand. Strong festival positioning but no Sangam-era narrative."
+    },
+    {
+      "brand": "Adyar Ananda Bhavan",
+      "product": "Adhirasam (seasonal)",
+      "priceINR": "350",
+      "grammage": "500g",
+      "pricePerGram": "₹0.70/g",
+      "channel": "Tamil Nadu stores + Seasonal",
+      "positioning": "Mass heritage brand. Made available in season. No craft storytelling."
+    },
+    {
+      "brand": "Tirunelveli Halwa Shop",
+      "product": "Adhirasam (local)",
+      "priceINR": "300",
+      "grammage": "500g",
+      "pricePerGram": "₹0.60/g",
+      "channel": "Local Tirunelveli shops only",
+      "positioning": "Regional authenticity claim. Not available outside Tirunelveli without special order."
+    },
+    {
+      "brand": "Home-made (unorganized)",
+      "product": "Adhirasam",
+      "priceINR": "Gifted, not sold",
+      "grammage": "Varies",
+      "pricePerGram": "N/A",
+      "channel": "Festival gifting only",
+      "positioning": "The benchmark consumer compares against — 'it tastes like what Paati made.' This is the real competition."
+    },
+    {
+      "brand": "D2C Festival Brands (multiple)",
+      "product": "Adhirasam",
+      "priceINR": "299-450",
+      "grammage": "250-500g",
+      "pricePerGram": "₹0.60-1.20/g",
+      "channel": "D2C + Quick Commerce",
+      "positioning": "Generic festive positioning. No differentiation on recipe, ingredient quality, or story."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "adhirasam"
+}

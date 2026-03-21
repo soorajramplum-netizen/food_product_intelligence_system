@@ -1,0 +1,146 @@
+{
+  "correctedName": "Palkova",
+  "dbMatchFound": true,
+  "southIndianStatus": {
+    "isSouthIndian": true,
+    "verdict": "Clearly South Indian",
+    "productLed": true,
+    "flavorLed": true,
+    "productLedExplanation": "Palkova (also Paal Kova or Thiruttukadu Palkova) is a Tamil Nadu creation — whole milk reduced over 8-10 hours until caramelized and condensed. The GI-tagged version from Thiruttukadu, Srivilliputtur, is the benchmark.",
+    "flavorLedExplanation": "The flavor is pure caramelized milk — no additional flavoring needed. The slight grainy texture from milk proteins crystallizing under slow heat is specific to this product and cannot be replicated with industrial condensing methods.",
+    "overallSummary": "Palkova is Tamil Nadu's answer to khoya — but it's not a substitute for khoya; it's a standalone product with its own GI tag, cultural home (Srivilliputtur), and a production method that produces a flavor no other milk sweet achieves."
+  },
+  "southIndianProxy": {
+    "applicable": false,
+    "proxyProduct": "",
+    "proxyState": "",
+    "visualSimilarity": "",
+    "launchAngle": "",
+    "suggestedName": ""
+  },
+  "stateSpeciality": {
+    "primaryState": "Tamil Nadu",
+    "region": "Thiruttukadu, Srivilliputtur, Tamil Nadu (GI-tagged origin)",
+    "origin": "Palkova from Thiruttukadu holds a Geographical Indication tag — the milk from local cows and the traditional slow-reduction method in specific copper or heavy-bottomed vessels produces a product distinct from similar-looking sweets. The Thiruttukadu version is associated with the Andal temple in Srivilliputtur.",
+    "culturalSignificance": "Palkova is the premium gifting sweet of Tamil Nadu — given at weddings, sent from temples as prasadam, and chosen when the gift needs to say 'this person matters.' The GI-tagged Thiruttukadu version is considered the most prestigious.",
+    "storytelling": "Eight hours. That is how long the milk simmers before it becomes palkova. Not condensed milk, not khoya — palkova. The water evaporates slowly, the lactose caramelizes gradually, and the proteins crystallize into the characteristic grainy-soft texture that dissolves on the tongue before you finish thinking about it. The Thiruttukadu version is made with local cow's milk and copper vessels that have been in use so long they have turned the color of old tea. The GI tag makes it official. The taste makes it undeniable.",
+    "bestSeason": "Year-round as a gifting sweet. Peak during Tamil New Year, Diwali, and wedding season."
+  },
+  "positioning": {
+    "brandLadderRange": "Artisanal Signatures",
+    "brandLadderRationale": "GI tag, eight-hour production, single-ingredient purity, and heritage origin make this a textbook Artisanal Signatures product.",
+    "standalone": {
+      "functionalBenefits": [
+        "Single ingredient: full cream milk only",
+        "High calcium from concentrated milk",
+        "No additives, no preservatives, no thickeners"
+      ],
+      "functionalRTB": [
+        "GI-tagged production method from Thiruttukadu",
+        "8-hour slow reduction — no industrial shortcuts",
+        "Full cream milk: calcium, Vitamin D, high-quality dairy protein"
+      ],
+      "emotionalBenefits": [
+        "The taste of Tamil Nadu's most treasured milk sweet",
+        "GI tag signals authenticity — this is the real thing, not a version",
+        "The gifting sweet that says 'I know Tamil Nadu's best'"
+      ],
+      "emotionalRTB": [
+        "Thiruttukadu GI tag — legally protected origin story",
+        "Associated with Srivilliputtur Andal temple prasadam",
+        "Single ingredient — impossible to hide quality with additives"
+      ]
+    }
+  },
+  "functionalCallouts": [
+    {
+      "claim": "One Ingredient",
+      "badge": "Pure Milk · Nothing Else",
+      "explanation": "Traditional Thiruttukadu palkova is made from full cream milk and nothing else. No stabilizers, no emulsifiers, no preservatives. The shelf life comes from the reduction process, not from chemicals.",
+      "category": "No Nasties"
+    },
+    {
+      "claim": "GI Protected",
+      "badge": "Thiruttukadu GI Tag · Government of India",
+      "explanation": "Palkova from Thiruttukadu holds a Geographical Indication tag — confirming the authentic production method and origin. Only milk from Thiruttukadu area made by the traditional method qualifies.",
+      "category": "Other"
+    },
+    {
+      "claim": "High Calcium",
+      "badge": "Concentrated Milk Calcium",
+      "explanation": "8-hour milk reduction concentrates all milk nutrients — calcium, phosphorus, Vitamin D, and protein — into each piece. Significantly more calcium per gram than fresh milk.",
+      "category": "Calcium"
+    }
+  ],
+  "ingredients": {
+    "aiGenerated": false,
+    "list": [
+      {
+        "name": "Full Cream Milk",
+        "proportion": "100% (pre-reduction)",
+        "role": "The only ingredient. Reduced for 8-10 hours until approximately 10-12% of original volume remains, with caramelization creating the characteristic color and flavor.",
+        "functionalHighlight": "Concentrated calcium, protein, Vitamin D, phosphorus. No additives required."
+      }
+    ]
+  },
+  "productDescriptors": [
+    {
+      "title": "Eight Hours to Make. Gone in Two Bites.",
+      "descriptor": "Full cream milk from local cows goes in. Eight hours later — not seven, not nine — palkova comes out. The copper vessel matters. The continuous stirring matters. The moment you stop matters more. What you get is a soft, grainy, caramel-colored square that tastes of nothing except perfectly reduced milk, which is to say it tastes of patience.",
+      "principle": "EFFORT HEURISTIC + SCARCITY (Sutherland S2 + S10)",
+      "rationale": "The 8-hour timeline communicates craft without embellishment. 'Gone in two bites' — acknowledging the brevity of the eating experience — is an honest hook that makes the product feel more precious."
+    },
+    {
+      "title": "Government Protected. Tradition Verified.",
+      "descriptor": "The Geographical Indication tag on Thiruttukadu Palkova is not marketing. It is the Government of India confirming that this specific method — these copper vessels, this milk, this specific village in Srivilliputtur district — produces something different from everything that tries to imitate it. The GI tag makes official what every Tamil grandmother already knew.",
+      "principle": "SOCIAL PROOF — INSTITUTIONAL (Shotton Bias 2)",
+      "rationale": "Government GI tags are the most powerful institutional social proof available to an artisanal food brand — they convert what might seem like marketing heritage into a legal fact."
+    },
+    {
+      "title": "The Gift That Doesn't Need Explanation",
+      "descriptor": "In Tamil Nadu, giving someone palkova from Thiruttukadu requires no context. No 'it's a milk sweet' explanation, no 'it's similar to khoya' comparison. Anyone who knows knows. Anyone who doesn't know is about to find out why it matters. This is the gifting shorthand for 'I chose something that took thought.'",
+      "principle": "INSIDER SOCIAL PROOF (Shotton Bias 2 tailored)",
+      "rationale": "'Anyone who knows, knows' is a powerful insider social proof that flatters the giver and makes the receiver curious — positioning palkova as cultural knowledge, not just a sweet."
+    }
+  ],
+  "competition": [
+    {
+      "brand": "Thiruttukadu Original",
+      "product": "Palkova",
+      "priceINR": "520",
+      "grammage": "500g",
+      "pricePerGram": "₹1.04/g",
+      "channel": "Srivilliputtur shops + D2C",
+      "positioning": "The GI-tagged original. Benchmark quality. Limited national distribution."
+    },
+    {
+      "brand": "Grand Sweets",
+      "product": "Palkova",
+      "priceINR": "380",
+      "grammage": "400g",
+      "pricePerGram": "₹0.95/g",
+      "channel": "Tamil Nadu stores + D2C",
+      "positioning": "Heritage chain. Reliable quality without the Thiruttukadu GI provenance."
+    },
+    {
+      "brand": "Krishna Sweets",
+      "product": "Palkova",
+      "priceINR": "320",
+      "grammage": "400g",
+      "pricePerGram": "₹0.80/g",
+      "channel": "Tamil Nadu GT + Gifting",
+      "positioning": "Volume play. Widely available but no GI story."
+    },
+    {
+      "brand": "Nilgiris",
+      "product": "Palkova",
+      "priceINR": "290",
+      "grammage": "250g",
+      "pricePerGram": "₹1.16/g",
+      "channel": "Modern Trade South India",
+      "positioning": "Premium retail positioning. Clean packaging but no origin story."
+    }
+  ],
+  "_cachedAt": "2025-09-01T00:00:00Z",
+  "_productId": "palkova"
+}
