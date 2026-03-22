@@ -99,7 +99,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>South or Not · Sweet Karam Coffee</title>
+        <title>South or Not · Sooraj Ram </title>
         <meta name="description" content="Product intelligence tool for South Indian snacks & sweets innovation" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
