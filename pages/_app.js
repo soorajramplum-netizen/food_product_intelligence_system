@@ -7,6 +7,7 @@ const NAV_LINKS = [
   { href: '/explore', label: 'Explore' },
   { href: '/advisor', label: 'Advisor' },
   { href: '/flavors', label: 'Flavors' },
+  { href: '/brief',   label: 'C-Suite Brief' },
 ]
 
 function GlobalNav() {
