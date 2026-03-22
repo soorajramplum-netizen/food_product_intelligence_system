@@ -18,7 +18,9 @@
       "kadi-patta"
     ],
     "familiarityScore": 55,
-    "description": "The defining aromatic of South Indian cooking — sharp, herbaceous, slightly citrusy. Found in tempering (tadka) across all South Indian states."
+    "description": "The defining aromatic of South Indian cooking — sharp, herbaceous, slightly citrusy. Found in tempering (tadka) across all South Indian states.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "asafoetida",
@@ -40,7 +42,9 @@
       "digestive"
     ],
     "familiarityScore": 48,
-    "description": "Resinous gum with a pungent, garlicky-onion character that mellows and adds depth when cooked. The 'umami bomb' of South Indian cooking."
+    "description": "Resinous gum with a pungent, garlicky-onion character that mellows and adds depth when cooked. The 'umami bomb' of South Indian cooking.",
+    "flavorClass": "Garlic",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "mustard-seeds",
@@ -61,7 +65,9 @@
       "south-indian"
     ],
     "familiarityScore": 58,
-    "description": "Popped mustard seeds are the foundation of South Indian tempering — slightly bitter, nutty, with a distinctive pop. Differentiates SI cooking from North Indian."
+    "description": "Popped mustard seeds are the foundation of South Indian tempering — slightly bitter, nutty, with a distinctive pop. Differentiates SI cooking from North Indian.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "kolambu-spice",
@@ -82,7 +88,9 @@
       "kolambu"
     ],
     "familiarityScore": 42,
-    "description": "The tamarind-pepper axis that defines Tamil Nadu gravies — tangy-sour from tamarind, warming heat from black pepper. Distinct from North Indian chilli-forward gravies."
+    "description": "The tamarind-pepper axis that defines Tamil Nadu gravies — tangy-sour from tamarind, warming heat from black pepper. Distinct from North Indian chilli-forward gravies.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kokum",
@@ -104,7 +112,9 @@
       "acidulant"
     ],
     "familiarityScore": 38,
-    "description": "Purplish-red fruit used as souring agent in coastal Karnataka, Kerala, Goa cuisines. Gentler acidity than tamarind. Growing national recognition."
+    "description": "Purplish-red fruit used as souring agent in coastal Karnataka, Kerala, Goa cuisines. Gentler acidity than tamarind. Growing national recognition.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kodampuli",
@@ -126,7 +136,9 @@
       "rare"
     ],
     "familiarityScore": 20,
-    "description": "Dried rind used in Kerala fish curries — extremely sour, slightly astringent. Unlike any other souring agent. Hyperregional."
+    "description": "Dried rind used in Kerala fish curries — extremely sour, slightly astringent. Unlike any other souring agent. Hyperregional.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "karupatti",
@@ -148,7 +160,9 @@
       "Tamil-Nadu"
     ],
     "familiarityScore": 45,
-    "description": "Palm tree-derived jaggery with a deeper, earthier, slightly smoky sweetness than cane jaggery. Low glycemic index. Increasingly popular nationally for health reasons."
+    "description": "Palm tree-derived jaggery with a deeper, earthier, slightly smoky sweetness than cane jaggery. Low glycemic index. Increasingly popular nationally for health reasons.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "palm-sugar",
@@ -168,7 +182,9 @@
       "coconut-tree"
     ],
     "familiarityScore": 42,
-    "description": "Milder and cleaner than palm jaggery. Used in Kerala and Tamil Nadu. Growing in artisanal food market."
+    "description": "Milder and cleaner than palm jaggery. Used in Kerala and Tamil Nadu. Growing in artisanal food market.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "tamarind",
@@ -190,7 +206,9 @@
       "national"
     ],
     "familiarityScore": 72,
-    "description": "One of India's most versatile souring agents. Pan-India familiarity (imli candy, chutneys). South Indian usage — in gravies, rice mixes, chutneys — is more central than elsewhere."
+    "description": "One of India's most versatile souring agents. Pan-India familiarity (imli candy, chutneys). South Indian usage — in gravies, rice mixes, chutneys — is more central than elsewhere.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "raw-mango-si",
@@ -212,7 +230,9 @@
       "chutney"
     ],
     "familiarityScore": 68,
-    "description": "Green mango — pan-India but most central to South Indian pickles, rice mixes, and chutneys. Summer staple."
+    "description": "Green mango — pan-India but most central to South Indian pickles, rice mixes, and chutneys. Summer staple.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "nannari",
@@ -234,7 +254,9 @@
       "Tamil-Kerala"
     ],
     "familiarityScore": 28,
-    "description": "Root with a distinctive earthy-vanilla cooling quality. Hyperregional but gaining traction in natural beverages market."
+    "description": "Root with a distinctive earthy-vanilla cooling quality. Hyperregional but gaining traction in natural beverages market.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "karivepaku-powder",
@@ -254,7 +276,9 @@
       "South-Indian"
     ],
     "familiarityScore": 50,
-    "description": "Dried and powdered curry leaf — concentrated SI herbaceous flavor. Used as a condiment on idli, rice."
+    "description": "Dried and powdered curry leaf — concentrated SI herbaceous flavor. Used as a condiment on idli, rice.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "gongura",
@@ -276,7 +300,9 @@
       "leaves"
     ],
     "familiarityScore": 32,
-    "description": "Sorrel leaves — the signature flavor of Andhra cooking. Intensely tangy, slightly grassy. No national proxy. AP's most distinctive ingredient."
+    "description": "Sorrel leaves — the signature flavor of Andhra cooking. Intensely tangy, slightly grassy. No national proxy. AP's most distinctive ingredient.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "drumstick",
@@ -298,7 +324,9 @@
       "health"
     ],
     "familiarityScore": 62,
-    "description": "Moringa pods in sambar — earthy, slightly bitter, nutritious. 'Superfood' status has nationalized moringa awareness significantly."
+    "description": "Moringa pods in sambar — earthy, slightly bitter, nutritious. 'Superfood' status has nationalized moringa awareness significantly.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "raw-banana-flavor",
@@ -320,7 +348,9 @@
       "starchy"
     ],
     "familiarityScore": 58,
-    "description": "Raw banana — starchy and neutral in flavor, used in chips, curries, fritters. Widely familiar nationally."
+    "description": "Raw banana — starchy and neutral in flavor, used in chips, curries, fritters. Widely familiar nationally.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Chips"
   },
   {
     "id": "jackfruit",
@@ -342,7 +372,9 @@
       "meat-proxy"
     ],
     "familiarityScore": 60,
-    "description": "Ripe jackfruit has a distinctive tropical sweetness. Unripe jackfruit is meaty. Growing as meat substitute nationally and internationally."
+    "description": "Ripe jackfruit has a distinctive tropical sweetness. Unripe jackfruit is meaty. Growing as meat substitute nationally and internationally.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "coconut-flavor",
@@ -364,7 +396,9 @@
       "chutneys"
     ],
     "familiarityScore": 75,
-    "description": "Fresh coconut is absolutely central to South Indian cooking — in chutneys, curries, sweets, snacks. Less central in North Indian cooking. High national familiarity."
+    "description": "Fresh coconut is absolutely central to South Indian cooking — in chutneys, curries, sweets, snacks. Less central in North Indian cooking. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "coconut-milk",
@@ -386,7 +420,9 @@
       "Thai-adjacent"
     ],
     "familiarityScore": 68,
-    "description": "Rich, creamy coconut milk — central to Kerala cuisine. Growing national familiarity through health trends and exposure to Thai/SE Asian food."
+    "description": "Rich, creamy coconut milk — central to Kerala cuisine. Growing national familiarity through health trends and exposure to Thai/SE Asian food.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "dry-coconut",
@@ -408,7 +444,9 @@
       "spice-blend-base"
     ],
     "familiarityScore": 58,
-    "description": "Dried coconut used in Karnataka and AP masala blends — nutty, toasted, rich. Different from fresh coconut in its concentrated intensity."
+    "description": "Dried coconut used in Karnataka and AP masala blends — nutty, toasted, rich. Different from fresh coconut in its concentrated intensity.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "black-sesame",
@@ -429,7 +467,9 @@
       "sesame-variant"
     ],
     "familiarityScore": 40,
-    "description": "Black sesame used in Tamil Nadu festival sweets — deeper, slightly more bitter than white sesame. Limited national name recognition but the flavor is accessible."
+    "description": "Black sesame used in Tamil Nadu festival sweets — deeper, slightly more bitter than white sesame. Limited national name recognition but the flavor is accessible.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "white-sesame",
@@ -451,7 +491,9 @@
       "national"
     ],
     "familiarityScore": 72,
-    "description": "White sesame — pan-India familiarity from Til Chikki, Makar Sankranti, and its ubiquity in snack bases. High national familiarity."
+    "description": "White sesame — pan-India familiarity from Til Chikki, Makar Sankranti, and its ubiquity in snack bases. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "fenugreek-leaf",
@@ -473,7 +515,9 @@
       "Ayurvedic"
     ],
     "familiarityScore": 68,
-    "description": "Methi/fenugreek leaves — pan-India familiarity. Both fresh and dried used across SI and non-SI cuisines."
+    "description": "Methi/fenugreek leaves — pan-India familiarity. Both fresh and dried used across SI and non-SI cuisines.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "fenugreek-seed",
@@ -495,7 +539,9 @@
       "Ayurvedic"
     ],
     "familiarityScore": 58,
-    "description": "Fenugreek seeds — distinctly bitter and slightly maple-like when roasted. Used in South Indian spice blends and pickle making."
+    "description": "Fenugreek seeds — distinctly bitter and slightly maple-like when roasted. Used in South Indian spice blends and pickle making.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kalpasi",
@@ -517,7 +563,9 @@
       "stone-flower"
     ],
     "familiarityScore": 22,
-    "description": "Stone flower lichen — an exotic Chettinad spice with a mossy, earthy quality. No national recognition. Used exclusively in Chettinad cooking."
+    "description": "Stone flower lichen — an exotic Chettinad spice with a mossy, earthy quality. No national recognition. Used exclusively in Chettinad cooking.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "marathi-mokku",
@@ -537,7 +585,9 @@
       "exotic"
     ],
     "familiarityScore": 18,
-    "description": "Dried Flower of Solanum. Used in Chettinad cooking — rarely found outside professional South Indian kitchens."
+    "description": "Dried Flower of Solanum. Used in Chettinad cooking — rarely found outside professional South Indian kitchens.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "vathal-flavor",
@@ -559,7 +609,9 @@
       "medicinal"
     ],
     "familiarityScore": 20,
-    "description": "Sun-dried vegetables (sundakkai berries, manathakkali) — concentrated, tangy, with an umami depth from drying. Hyperregional to Tamil cuisine."
+    "description": "Sun-dried vegetables (sundakkai berries, manathakkali) — concentrated, tangy, with an umami depth from drying. Hyperregional to Tamil cuisine.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "curd-rice-flavor",
@@ -581,7 +633,9 @@
       "South-Indian"
     ],
     "familiarityScore": 65,
-    "description": "The curd rice flavor complex — mild, cooling yogurt with light tempering. Represents the South Indian 'comfort food' archetype."
+    "description": "The curd rice flavor complex — mild, cooling yogurt with light tempering. Represents the South Indian 'comfort food' archetype.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "cardamom-green",
@@ -603,7 +657,9 @@
       "chai"
     ],
     "familiarityScore": 82,
-    "description": "The most universally used spice in Indian sweets. Pan-India familiarity. Used in everything from chai to biryani. Highest accessibility in this category."
+    "description": "The most universally used spice in Indian sweets. Pan-India familiarity. Used in everything from chai to biryani. Highest accessibility in this category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "cardamom-black",
@@ -624,7 +680,9 @@
       "savory"
     ],
     "familiarityScore": 68,
-    "description": "Black cardamom — smoky, camphor-like. Used in biryanis and savory dishes. Well-known nationally through biryani culture."
+    "description": "Black cardamom — smoky, camphor-like. Used in biryanis and savory dishes. Well-known nationally through biryani culture.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "saffron",
@@ -647,7 +705,9 @@
       "national"
     ],
     "familiarityScore": 75,
-    "description": "Saffron — pan-India premium flavor. Used in Mughal sweets, biryanis, milk desserts. High national aspirational familiarity."
+    "description": "Saffron — pan-India premium flavor. Used in Mughal sweets, biryanis, milk desserts. High national aspirational familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "ghee-flavor",
@@ -669,7 +729,9 @@
       "pan-India"
     ],
     "familiarityScore": 84,
-    "description": "Ghee — deep, nutty, caramelized butter flavor. Pan-India premium ingredient. Very high national familiarity."
+    "description": "Ghee — deep, nutty, caramelized butter flavor. Pan-India premium ingredient. Very high national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "jaggery",
@@ -691,7 +753,9 @@
       "pan-India"
     ],
     "familiarityScore": 76,
-    "description": "Cane jaggery — pan-India natural sweetener. Complex caramel-molasses sweetness. Very high national familiarity."
+    "description": "Cane jaggery — pan-India natural sweetener. Complex caramel-molasses sweetness. Very high national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "dry-ginger",
@@ -713,7 +777,9 @@
       "warming"
     ],
     "familiarityScore": 65,
-    "description": "Dry ginger — more concentrated and warming than fresh. Used in medicinal preparations, chai spice mixes. Pan-India Ayurvedic familiarity."
+    "description": "Dry ginger — more concentrated and warming than fresh. Used in medicinal preparations, chai spice mixes. Pan-India Ayurvedic familiarity.",
+    "flavorClass": "Sweet & Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "cloves",
@@ -735,7 +801,9 @@
       "pan-India"
     ],
     "familiarityScore": 80,
-    "description": "Cloves — universally used in Indian cooking. High national familiarity from chai masala, biryani, and whole spice use."
+    "description": "Cloves — universally used in Indian cooking. High national familiarity from chai masala, biryani, and whole spice use.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "cinnamon",
@@ -757,7 +825,9 @@
       "pan-India"
     ],
     "familiarityScore": 82,
-    "description": "Cinnamon — pan-India spice. High national familiarity from chai masala, biryani spice blends."
+    "description": "Cinnamon — pan-India spice. High national familiarity from chai masala, biryani spice blends.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "star-anise",
@@ -779,7 +849,9 @@
       "growing"
     ],
     "familiarityScore": 68,
-    "description": "Star anise — growing national familiarity through biryani culture and Chinese food exposure. Less universally known than cloves/cinnamon."
+    "description": "Star anise — growing national familiarity through biryani culture and Chinese food exposure. Less universally known than cloves/cinnamon.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "fennel",
@@ -801,7 +873,9 @@
       "after-meal"
     ],
     "familiarityScore": 82,
-    "description": "Fennel / saunf — pan-India mouth freshener. Very high national familiarity. Used in after-meal digestives across the country."
+    "description": "Fennel / saunf — pan-India mouth freshener. Very high national familiarity. Used in after-meal digestives across the country.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "cumin",
@@ -823,7 +897,9 @@
       "national"
     ],
     "familiarityScore": 88,
-    "description": "Jeera/cumin — absolute pan-India pantry essential. Used in tempering across every Indian cuisine. Mass Category familiarity."
+    "description": "Jeera/cumin — absolute pan-India pantry essential. Used in tempering across every Indian cuisine. Mass Category familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coriander",
@@ -845,7 +921,9 @@
       "tempering"
     ],
     "familiarityScore": 88,
-    "description": "Coriander — absolute pan-India essential, both seed and leaf. Mass Category."
+    "description": "Coriander — absolute pan-India essential, both seed and leaf. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "black-pepper",
@@ -867,7 +945,9 @@
       "warming"
     ],
     "familiarityScore": 84,
-    "description": "Black pepper — pan-India essential. High national familiarity. Used in rasam, chai masala, biryani."
+    "description": "Black pepper — pan-India essential. High national familiarity. Used in rasam, chai masala, biryani.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "turmeric",
@@ -890,7 +970,9 @@
       "anti-inflammatory"
     ],
     "familiarityScore": 88,
-    "description": "Turmeric — absolute pan-India essential. Cosmetic, medicinal, culinary use. Mass Category. Golden milk trend has increased national awareness further."
+    "description": "Turmeric — absolute pan-India essential. Cosmetic, medicinal, culinary use. Mass Category. Golden milk trend has increased national awareness further.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "red-chilli",
@@ -912,7 +994,9 @@
       "essential"
     ],
     "familiarityScore": 88,
-    "description": "Red chilli — absolute pan-India essential. Different varieties (Kashmiri, Byadgi, Guntur) are specific but chilli heat is universally familiar."
+    "description": "Red chilli — absolute pan-India essential. Different varieties (Kashmiri, Byadgi, Guntur) are specific but chilli heat is universally familiar.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "green-chilli",
@@ -934,7 +1018,9 @@
       "tempering"
     ],
     "familiarityScore": 88,
-    "description": "Green chilli — pan-India essential. Fresh heat used in almost all Indian cooking."
+    "description": "Green chilli — pan-India essential. Fresh heat used in almost all Indian cooking.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "rose-water",
@@ -957,7 +1043,9 @@
       "national"
     ],
     "familiarityScore": 78,
-    "description": "Rose water — pan-India Mughal heritage ingredient. Used in biryanis, sharbats, sweets. High national familiarity."
+    "description": "Rose water — pan-India Mughal heritage ingredient. Used in biryanis, sharbats, sweets. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "vanilla",
@@ -978,7 +1066,9 @@
       "ice-cream"
     ],
     "familiarityScore": 78,
-    "description": "Vanilla — pan-India familiarity through Western baking and ice cream. Very accessible ingredient nationally."
+    "description": "Vanilla — pan-India familiarity through Western baking and ice cream. Very accessible ingredient nationally.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "sesame-oil",
@@ -1000,7 +1090,9 @@
       "East-Asian"
     ],
     "familiarityScore": 58,
-    "description": "Sesame oil — South Indian cooking essential. Growing national awareness through health and East Asian food influences."
+    "description": "Sesame oil — South Indian cooking essential. Growing national awareness through health and East Asian food influences.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coconut-oil-flavor",
@@ -1022,7 +1114,9 @@
       "national"
     ],
     "familiarityScore": 65,
-    "description": "Coconut oil — national health trend + Kerala food identity. Growing recognition as premium cooking oil."
+    "description": "Coconut oil — national health trend + Kerala food identity. Growing recognition as premium cooking oil.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "roasted-gram",
@@ -1044,7 +1138,9 @@
       "chutney-base"
     ],
     "familiarityScore": 68,
-    "description": "Roasted gram — used in South Indian chutney bases and as a snack. Dalia (roasted channa dal) is the North Indian proxy."
+    "description": "Roasted gram — used in South Indian chutney bases and as a snack. Dalia (roasted channa dal) is the North Indian proxy.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "groundnut",
@@ -1066,7 +1162,9 @@
       "everyday"
     ],
     "familiarityScore": 86,
-    "description": "Peanuts/groundnuts — absolute pan-India familiarity. Used in chutneys, chikki, snack mixes. Mass Category."
+    "description": "Peanuts/groundnuts — absolute pan-India familiarity. Used in chutneys, chikki, snack mixes. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "cashew",
@@ -1088,7 +1186,9 @@
       "gravy-base"
     ],
     "familiarityScore": 78,
-    "description": "Cashew — pan-India premium ingredient. Used as a garnish and gravy base. High national familiarity."
+    "description": "Cashew — pan-India premium ingredient. Used as a garnish and gravy base. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "dried-dates",
@@ -1110,7 +1210,9 @@
       "Eid"
     ],
     "familiarityScore": 70,
-    "description": "Dried dates — pan-India familiarity from religious occasions and as natural sweeteners."
+    "description": "Dried dates — pan-India familiarity from religious occasions and as natural sweeteners.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "raisins",
@@ -1132,7 +1234,9 @@
       "baking"
     ],
     "familiarityScore": 78,
-    "description": "Raisins — pan-India garnish in sweets and rice dishes. High national familiarity."
+    "description": "Raisins — pan-India garnish in sweets and rice dishes. High national familiarity.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "almonds",
@@ -1154,7 +1258,9 @@
       "pan-India"
     ],
     "familiarityScore": 82,
-    "description": "Almonds — pan-India premium health nut. Very high national familiarity."
+    "description": "Almonds — pan-India premium health nut. Very high national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "pistachio",
@@ -1176,7 +1282,9 @@
       "garnish"
     ],
     "familiarityScore": 75,
-    "description": "Pistachio — pan-India premium sweet garnish. High national aspirational familiarity."
+    "description": "Pistachio — pan-India premium sweet garnish. High national aspirational familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "mango",
@@ -1198,7 +1306,9 @@
       "king-fruit"
     ],
     "familiarityScore": 90,
-    "description": "Mango — India's national fruit. Absolute Mass Category familiarity."
+    "description": "Mango — India's national fruit. Absolute Mass Category familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "banana",
@@ -1220,7 +1330,9 @@
       "versatile"
     ],
     "familiarityScore": 90,
-    "description": "Banana — pan-India everyday fruit. Mass Category."
+    "description": "Banana — pan-India everyday fruit. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "lemon-lime",
@@ -1242,7 +1354,9 @@
       "condiment"
     ],
     "familiarityScore": 90,
-    "description": "Lemon/lime — absolute pan-India condiment. Mass Category."
+    "description": "Lemon/lime — absolute pan-India condiment. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "ginger-fresh",
@@ -1265,7 +1379,9 @@
       "medicinal"
     ],
     "familiarityScore": 88,
-    "description": "Fresh ginger — absolute pan-India essential. Mass Category."
+    "description": "Fresh ginger — absolute pan-India essential. Mass Category.",
+    "flavorClass": "Sweet & Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "garlic",
@@ -1287,7 +1403,9 @@
       "tempering"
     ],
     "familiarityScore": 86,
-    "description": "Garlic — pan-India essential. Mass Category. (Not used in Jain/Brahmin SI cooking but broadly familiar nationally.)"
+    "description": "Garlic — pan-India essential. Mass Category. (Not used in Jain/Brahmin SI cooking but broadly familiar nationally.)",
+    "flavorClass": "Garlic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "onion",
@@ -1309,7 +1427,9 @@
       "essential"
     ],
     "familiarityScore": 90,
-    "description": "Onion — absolute pan-India essential. Mass Category."
+    "description": "Onion — absolute pan-India essential. Mass Category.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "tomato",
@@ -1330,7 +1450,9 @@
       "universal"
     ],
     "familiarityScore": 90,
-    "description": "Tomato — absolute pan-India essential. Mass Category."
+    "description": "Tomato — absolute pan-India essential. Mass Category.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "urad-dal-flavor",
@@ -1353,7 +1475,9 @@
       "vada"
     ],
     "familiarityScore": 65,
-    "description": "Urad dal — the base of idli, dosa, vada batter. South Indian identity ingredient. Growing national awareness."
+    "description": "Urad dal — the base of idli, dosa, vada batter. South Indian identity ingredient. Growing national awareness.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "moong-dal-flavor",
@@ -1375,7 +1499,9 @@
       "khichdi"
     ],
     "familiarityScore": 82,
-    "description": "Moong dal — pan-India health ingredient. Very high national familiarity."
+    "description": "Moong dal — pan-India health ingredient. Very high national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "besan-flavor",
@@ -1397,7 +1523,9 @@
       "sweets"
     ],
     "familiarityScore": 84,
-    "description": "Besan/gram flour — absolute pan-India essential. Used in sweets, fritters, batters. High national familiarity."
+    "description": "Besan/gram flour — absolute pan-India essential. Used in sweets, fritters, batters. High national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "rice-flour",
@@ -1419,7 +1547,9 @@
       "idiyappam"
     ],
     "familiarityScore": 68,
-    "description": "Rice flour — pan-India but most central to South Indian cooking. Murukku, appam, idiyappam, rice papad."
+    "description": "Rice flour — pan-India but most central to South Indian cooking. Murukku, appam, idiyappam, rice papad.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Murukku"
   },
   {
     "id": "rava-semolina",
@@ -1442,7 +1572,9 @@
       "halwa"
     ],
     "familiarityScore": 84,
-    "description": "Rava/semolina — pan-India essential. Used in upma, halwa, ladoo, kesari. Mass Category."
+    "description": "Rava/semolina — pan-India essential. Used in upma, halwa, ladoo, kesari. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "wheat",
@@ -1464,7 +1596,9 @@
       "roti"
     ],
     "familiarityScore": 88,
-    "description": "Wheat — pan-India staple. Mass Category."
+    "description": "Wheat — pan-India staple. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "milk-flavor",
@@ -1486,7 +1620,9 @@
       "universal"
     ],
     "familiarityScore": 90,
-    "description": "Milk — absolute pan-India. Mass Category."
+    "description": "Milk — absolute pan-India. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "butter-flavor",
@@ -1508,7 +1644,9 @@
       "baking"
     ],
     "familiarityScore": 88,
-    "description": "Butter — pan-India. Mass Category. Premium baking and dairy cooking."
+    "description": "Butter — pan-India. Mass Category. Premium baking and dairy cooking.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "sugar-flavor",
@@ -1528,7 +1666,9 @@
       "universal"
     ],
     "familiarityScore": 90,
-    "description": "Sugar — absolute pan-India. Mass Category."
+    "description": "Sugar — absolute pan-India. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "honey",
@@ -1550,7 +1690,9 @@
       "natural"
     ],
     "familiarityScore": 80,
-    "description": "Honey — pan-India health and sweetener. High national familiarity."
+    "description": "Honey — pan-India health and sweetener. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "chocolate",
@@ -1572,7 +1714,9 @@
       "indulgent"
     ],
     "familiarityScore": 88,
-    "description": "Chocolate — universal. Mass Category. Pan-India familiarity from urban consumers."
+    "description": "Chocolate — universal. Mass Category. Pan-India familiarity from urban consumers.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "dark-chocolate",
@@ -1594,7 +1738,9 @@
       "baking"
     ],
     "familiarityScore": 72,
-    "description": "Dark chocolate — growing national premium market. High urban familiarity."
+    "description": "Dark chocolate — growing national premium market. High urban familiarity.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "butter-western",
@@ -1615,7 +1761,9 @@
       "French"
     ],
     "familiarityScore": 72,
-    "description": "Unsalted butter for baking — pan-India familiarity through Western baking trends."
+    "description": "Unsalted butter for baking — pan-India familiarity through Western baking trends.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "cream-cheese",
@@ -1637,7 +1785,9 @@
       "baking"
     ],
     "familiarityScore": 60,
-    "description": "Cream cheese — growing urban India familiarity through cafe culture and baking."
+    "description": "Cream cheese — growing urban India familiarity through cafe culture and baking.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "heavy-cream",
@@ -1658,7 +1808,9 @@
       "western"
     ],
     "familiarityScore": 62,
-    "description": "Heavy cream — urban Indian familiarity through baking and cafe culture."
+    "description": "Heavy cream — urban Indian familiarity through baking and cafe culture.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "maple-syrup",
@@ -1679,7 +1831,9 @@
       "premium"
     ],
     "familiarityScore": 55,
-    "description": "Maple syrup — growing awareness in urban India through health food trends and Western food exposure."
+    "description": "Maple syrup — growing awareness in urban India through health food trends and Western food exposure.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "coffee-flavor",
@@ -1701,7 +1855,9 @@
       "cafe"
     ],
     "familiarityScore": 80,
-    "description": "Coffee — pan-India growing familiarity through cafe chains. Filter coffee is South Indian's native version."
+    "description": "Coffee — pan-India growing familiarity through cafe chains. Filter coffee is South Indian's native version.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "matcha",
@@ -1723,7 +1879,9 @@
       "urban"
     ],
     "familiarityScore": 50,
-    "description": "Matcha — growing in urban Indian premium food/beverage market. Not widely familiar outside metros."
+    "description": "Matcha — growing in urban Indian premium food/beverage market. Not widely familiar outside metros.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "lemon-curd",
@@ -1744,7 +1902,9 @@
       "tart"
     ],
     "familiarityScore": 45,
-    "description": "Lemon curd — baking context. Urban India growing familiarity."
+    "description": "Lemon curd — baking context. Urban India growing familiarity.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "hazelnut",
@@ -1766,7 +1926,9 @@
       "western"
     ],
     "familiarityScore": 62,
-    "description": "Hazelnut — Nutella familiarity has created pan-India brand awareness. Growing in premium baking."
+    "description": "Hazelnut — Nutella familiarity has created pan-India brand awareness. Growing in premium baking.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "caramel",
@@ -1788,7 +1950,9 @@
       "premium"
     ],
     "familiarityScore": 72,
-    "description": "Caramel — national familiarity through ice cream and confectionery. Growing in premium baking."
+    "description": "Caramel — national familiarity through ice cream and confectionery. Growing in premium baking.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "butterscotch",
@@ -1809,7 +1973,9 @@
       "toffee"
     ],
     "familiarityScore": 70,
-    "description": "Butterscotch — national ice cream flavour familiarity. High accessibility nationally."
+    "description": "Butterscotch — national ice cream flavour familiarity. High accessibility nationally.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "blueberry",
@@ -1831,7 +1997,9 @@
       "health"
     ],
     "familiarityScore": 48,
-    "description": "Blueberry — growing in Indian premium market but still relatively unfamiliar outside urban health food."
+    "description": "Blueberry — growing in Indian premium market but still relatively unfamiliar outside urban health food.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "strawberry",
@@ -1853,7 +2021,9 @@
       "growing"
     ],
     "familiarityScore": 68,
-    "description": "Strawberry — pan-India familiarity through milkshakes, ice cream, jam. Growing."
+    "description": "Strawberry — pan-India familiarity through milkshakes, ice cream, jam. Growing.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "cheddar",
@@ -1875,7 +2045,9 @@
       "pizza"
     ],
     "familiarityScore": 60,
-    "description": "Cheddar — urban Indian familiarity through pizza and Western food culture."
+    "description": "Cheddar — urban Indian familiarity through pizza and Western food culture.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "sea-salt",
@@ -1897,7 +2069,9 @@
       "western"
     ],
     "familiarityScore": 60,
-    "description": "Premium sea salt — growing in premium Indian baking and gifting market."
+    "description": "Premium sea salt — growing in premium Indian baking and gifting market.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "lavender",
@@ -1919,7 +2093,9 @@
       "floral"
     ],
     "familiarityScore": 42,
-    "description": "Lavender — premium baking flavour. Urban India growing awareness. Mostly unfamiliar outside metros."
+    "description": "Lavender — premium baking flavour. Urban India growing awareness. Mostly unfamiliar outside metros.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "cinnamon-western",
@@ -1940,7 +2116,9 @@
       "sweet"
     ],
     "familiarityScore": 72,
-    "description": "Cinnamon in Western baking context (cinnamon rolls, apple pie). National familiarity through cafe culture."
+    "description": "Cinnamon in Western baking context (cinnamon rolls, apple pie). National familiarity through cafe culture.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "filter-coffee-flavor",
@@ -1963,7 +2141,9 @@
       "iconic"
     ],
     "familiarityScore": 75,
-    "description": "Filter coffee — dark, roasted coffee decoction mixed with frothy milk. The quintessential South Indian flavor identity."
+    "description": "Filter coffee — dark, roasted coffee decoction mixed with frothy milk. The quintessential South Indian flavor identity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "rose",
@@ -1986,7 +2166,9 @@
       "national"
     ],
     "familiarityScore": 72,
-    "description": "Rose flavor — pan-India Mughal heritage ingredient. Used in sweets, beverages, biryanis. High national familiarity."
+    "description": "Rose flavor — pan-India Mughal heritage ingredient. Used in sweets, beverages, biryanis. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "pandan",
@@ -2008,7 +2190,9 @@
       "growing"
     ],
     "familiarityScore": 32,
-    "description": "Pandan — Southeast Asian influence in Kerala cooking. Growing in urban artisanal baking."
+    "description": "Pandan — Southeast Asian influence in Kerala cooking. Growing in urban artisanal baking.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "banana-leaf-flavor",
@@ -2029,7 +2213,9 @@
       "sachet"
     ],
     "familiarityScore": 40,
-    "description": "The subtle flavor imparted by cooking or serving in banana leaf — earthy, slightly grassy. Distinctly South Indian."
+    "description": "The subtle flavor imparted by cooking or serving in banana leaf — earthy, slightly grassy. Distinctly South Indian.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "toddy-palm",
@@ -2051,7 +2237,9 @@
       "hyperregional"
     ],
     "familiarityScore": 20,
-    "description": "Toddy (palm wine) fermentation flavor used in Kerala snacks like achappam. Very hyperregional."
+    "description": "Toddy (palm wine) fermentation flavor used in Kerala snacks like achappam. Very hyperregional.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "sesame-halva",
@@ -2072,7 +2260,9 @@
       "sesame-candy"
     ],
     "familiarityScore": 55,
-    "description": "Sesame in halva/chikki context — roasted, sweet, nutty. National Makar Sankranti association through til chikki."
+    "description": "Sesame in halva/chikki context — roasted, sweet, nutty. National Makar Sankranti association through til chikki.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "khoya-flavor",
@@ -2094,7 +2284,9 @@
       "pan-India"
     ],
     "familiarityScore": 72,
-    "description": "Khoya/mawa — concentrated milk solids. Pan-India sweet making ingredient. High national familiarity from barfi, peda."
+    "description": "Khoya/mawa — concentrated milk solids. Pan-India sweet making ingredient. High national familiarity from barfi, peda.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "coconut-jaggery",
@@ -2115,7 +2307,9 @@
       "payasam"
     ],
     "familiarityScore": 60,
-    "description": "The coconut + jaggery combination — the signature sweet flavor combination of South Indian cooking. Less familiar nationally but accessible."
+    "description": "The coconut + jaggery combination — the signature sweet flavor combination of South Indian cooking. Less familiar nationally but accessible.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "mustard-oil-flavor",
@@ -2137,7 +2331,9 @@
       "pungent"
     ],
     "familiarityScore": 58,
-    "description": "Mustard oil — highly familiar in North India, Northeast India. Less common in SI cooking where sesame and coconut oils dominate."
+    "description": "Mustard oil — highly familiar in North India, Northeast India. Less common in SI cooking where sesame and coconut oils dominate.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "amchur",
@@ -2159,7 +2355,9 @@
       "national"
     ],
     "familiarityScore": 72,
-    "description": "Amchur — pan-India North Indian souring agent. High national familiarity from chaat culture."
+    "description": "Amchur — pan-India North Indian souring agent. High national familiarity from chaat culture.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Mixture"
   },
   {
     "id": "aam-papad",
@@ -2181,7 +2379,9 @@
       "candy"
     ],
     "familiarityScore": 68,
-    "description": "Aam papad — pan-India childhood nostalgic flavor. Mango-tamarind fruit leather. High national familiarity."
+    "description": "Aam papad — pan-India childhood nostalgic flavor. Mango-tamarind fruit leather. High national familiarity.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kokum-sherbet",
@@ -2203,7 +2403,9 @@
       "beverage"
     ],
     "familiarityScore": 42,
-    "description": "Kokum sherbet — familiar in Maharashtra, Goa, coastal Karnataka. Growing nationally through Maharashtra cuisine exposure."
+    "description": "Kokum sherbet — familiar in Maharashtra, Goa, coastal Karnataka. Growing nationally through Maharashtra cuisine exposure.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "irani-chai-flavor",
@@ -2225,7 +2427,9 @@
       "cafe"
     ],
     "familiarityScore": 48,
-    "description": "Irani chai from Hyderabadi café culture — thick, creamy, intensely flavored tea. Growing national food media awareness."
+    "description": "Irani chai from Hyderabadi café culture — thick, creamy, intensely flavored tea. Growing national food media awareness.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "kewra",
@@ -2247,7 +2451,9 @@
       "North-Indian"
     ],
     "familiarityScore": 55,
-    "description": "Kewra (pandanus) — Mughal cooking flavoring agent for biryanis and sweets. Pan-India awareness through biryani culture."
+    "description": "Kewra (pandanus) — Mughal cooking flavoring agent for biryanis and sweets. Pan-India awareness through biryani culture.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "neem-flowers",
@@ -2269,7 +2475,9 @@
       "acquired-taste"
     ],
     "familiarityScore": 22,
-    "description": "Neem flowers — intensely bitter, used in Ugadi pachadi (Karnataka/AP new year). Highly acquired taste. Very hyperregional."
+    "description": "Neem flowers — intensely bitter, used in Ugadi pachadi (Karnataka/AP new year). Highly acquired taste. Very hyperregional.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "khus-khus",
@@ -2291,7 +2499,9 @@
       "thickener"
     ],
     "familiarityScore": 55,
-    "description": "Poppy seeds (khus khus) — pan-India familiarity from North Indian gravies and Bengali cooking. Not a central SI ingredient."
+    "description": "Poppy seeds (khus khus) — pan-India familiarity from North Indian gravies and Bengali cooking. Not a central SI ingredient.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "sitaphal",
@@ -2313,7 +2523,9 @@
       "regional"
     ],
     "familiarityScore": 48,
-    "description": "Custard apple — regional familiarity. Growing in natural flavor market."
+    "description": "Custard apple — regional familiarity. Growing in natural flavor market.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "watermelon",
@@ -2335,7 +2547,9 @@
       "national"
     ],
     "familiarityScore": 80,
-    "description": "Watermelon — pan-India summer fruit. High national familiarity."
+    "description": "Watermelon — pan-India summer fruit. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "litchi",
@@ -2357,7 +2571,9 @@
       "growing"
     ],
     "familiarityScore": 62,
-    "description": "Litchi — North Indian summer fruit. Growing national familiarity through beverages."
+    "description": "Litchi — North Indian summer fruit. Growing national familiarity through beverages.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "filter-coffee-chocolate",
@@ -2379,7 +2595,9 @@
       "urban"
     ],
     "familiarityScore": 62,
-    "description": "Filter coffee + chocolate — the most natural South Indian-Western fusion. Coffee bitterness meets chocolate richness."
+    "description": "Filter coffee + chocolate — the most natural South Indian-Western fusion. Coffee bitterness meets chocolate richness.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "karupatti-salted-caramel",
@@ -2401,7 +2619,9 @@
       "gifting"
     ],
     "familiarityScore": 55,
-    "description": "Palm jaggery salted caramel — replacing refined sugar with karupatti in the globally familiar salted caramel profile."
+    "description": "Palm jaggery salted caramel — replacing refined sugar with karupatti in the globally familiar salted caramel profile.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "coconut-cardamom",
@@ -2423,7 +2643,9 @@
       "accessible"
     ],
     "familiarityScore": 65,
-    "description": "Coconut + cardamom — quintessential South Indian combination made accessible as a Western flavor profile."
+    "description": "Coconut + cardamom — quintessential South Indian combination made accessible as a Western flavor profile.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "chai-spice",
@@ -2445,7 +2667,9 @@
       "Western-fusion"
     ],
     "familiarityScore": 72,
-    "description": "Chai masala spice profile — globally famous, high national familiarity. The most successful Indian flavor export."
+    "description": "Chai masala spice profile — globally famous, high national familiarity. The most successful Indian flavor export.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "masala-chai-latte",
@@ -2466,7 +2690,9 @@
       "trending"
     ],
     "familiarityScore": 70,
-    "description": "Chai latte in Western format — nationally and internationally familiar. High fusion accessibility."
+    "description": "Chai latte in Western format — nationally and internationally familiar. High fusion accessibility.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "turmeric-coconut",
@@ -2488,7 +2714,9 @@
       "fusion"
     ],
     "familiarityScore": 65,
-    "description": "Turmeric + coconut — both nationally familiar ingredients. 'Golden Latte' framing is very current."
+    "description": "Turmeric + coconut — both nationally familiar ingredients. 'Golden Latte' framing is very current.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "ragi-chocolate",
@@ -2510,7 +2738,9 @@
       "millet"
     ],
     "familiarityScore": 52,
-    "description": "Ragi + chocolate — two distinct profiles that surprisingly complement. Health food innovation."
+    "description": "Ragi + chocolate — two distinct profiles that surprisingly complement. Health food innovation.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "cardamom-rose",
@@ -2532,7 +2762,9 @@
       "baking"
     ],
     "familiarityScore": 65,
-    "description": "Cardamom + rose — both pan-India familiar ingredients. Natural combination with Persian/Mughal heritage."
+    "description": "Cardamom + rose — both pan-India familiar ingredients. Natural combination with Persian/Mughal heritage.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "tamarind-chilli",
@@ -2554,7 +2786,9 @@
       "imli"
     ],
     "familiarityScore": 68,
-    "description": "Tamarind + chilli — chaat flavor profile. Pan-India familiarity through street food."
+    "description": "Tamarind + chilli — chaat flavor profile. Pan-India familiarity through street food.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "mango-chilli",
@@ -2576,7 +2810,9 @@
       "trending"
     ],
     "familiarityScore": 72,
-    "description": "Mango + chilli — national flavor combination from raw mango chutneys, aam panna. Very accessible."
+    "description": "Mango + chilli — national flavor combination from raw mango chutneys, aam panna. Very accessible.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coconut-lime",
@@ -2598,7 +2834,9 @@
       "beverage"
     ],
     "familiarityScore": 65,
-    "description": "Coconut + lime — refreshing tropical fusion. Accessible nationally."
+    "description": "Coconut + lime — refreshing tropical fusion. Accessible nationally.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "ginger-lime",
@@ -2620,7 +2858,9 @@
       "fusion"
     ],
     "familiarityScore": 72,
-    "description": "Ginger + lime — pan-India familiarity from nimbu-adrak drinks, kadha."
+    "description": "Ginger + lime — pan-India familiarity from nimbu-adrak drinks, kadha.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "rose-saffron",
@@ -2642,7 +2882,9 @@
       "gifting"
     ],
     "familiarityScore": 68,
-    "description": "Rose + saffron — Mughal heritage premium combination. Nationally familiar from sweets and beverages."
+    "description": "Rose + saffron — Mughal heritage premium combination. Nationally familiar from sweets and beverages.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "nannari-lime",
@@ -2664,7 +2906,9 @@
       "summer"
     ],
     "familiarityScore": 32,
-    "description": "Nannari + lime — South Indian cooling drink fusion. Nannari is the unfamiliar element, lime is the familiar bridge."
+    "description": "Nannari + lime — South Indian cooling drink fusion. Nannari is the unfamiliar element, lime is the familiar bridge.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "curry-leaf-coconut",
@@ -2686,7 +2930,9 @@
       "distinctive"
     ],
     "familiarityScore": 55,
-    "description": "Curry leaf + coconut — the flavor signature of South Indian cooking made accessible as a fusion flavor profile."
+    "description": "Curry leaf + coconut — the flavor signature of South Indian cooking made accessible as a fusion flavor profile.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "jaggery-chocolate",
@@ -2708,7 +2954,9 @@
       "premium"
     ],
     "familiarityScore": 58,
-    "description": "Jaggery + chocolate — natural low-GI fusion. Caramel-earthy jaggery complexifies chocolate."
+    "description": "Jaggery + chocolate — natural low-GI fusion. Caramel-earthy jaggery complexifies chocolate.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "banana-cardamom",
@@ -2730,7 +2978,9 @@
       "warm"
     ],
     "familiarityScore": 68,
-    "description": "Banana + cardamom — both pan-India familiar. Natural South Indian-accessible combination."
+    "description": "Banana + cardamom — both pan-India familiar. Natural South Indian-accessible combination.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "coffee-cardamom",
@@ -2752,7 +3002,9 @@
       "cafe"
     ],
     "familiarityScore": 65,
-    "description": "Coffee + cardamom — Middle Eastern coffee tradition meeting Indian spice culture. Growing in premium cafe segment."
+    "description": "Coffee + cardamom — Middle Eastern coffee tradition meeting Indian spice culture. Growing in premium cafe segment.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "mango-cardamom",
@@ -2774,7 +3026,9 @@
       "premium"
     ],
     "familiarityScore": 70,
-    "description": "Mango + cardamom — both high national familiarity. Natural tropical fusion."
+    "description": "Mango + cardamom — both high national familiarity. Natural tropical fusion.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "black-pepper-honey",
@@ -2796,7 +3050,9 @@
       "Ayurvedic"
     ],
     "familiarityScore": 62,
-    "description": "Black pepper + honey — growing Ayurvedic wellness combination. National familiarity of both ingredients."
+    "description": "Black pepper + honey — growing Ayurvedic wellness combination. National familiarity of both ingredients.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coconut-pandan",
@@ -2818,7 +3074,9 @@
       "Kerala-influenced"
     ],
     "familiarityScore": 38,
-    "description": "Coconut + pandan — Southeast Asian influence. Familiar in Kerala. Emerging in Indian urban artisanal baking."
+    "description": "Coconut + pandan — Southeast Asian influence. Familiar in Kerala. Emerging in Indian urban artisanal baking.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "rasam-tomato",
@@ -2840,7 +3098,9 @@
       "growing"
     ],
     "familiarityScore": 55,
-    "description": "Rasam flavor profile — tangy, peppery, warming. Growing national awareness through health interest in rasam."
+    "description": "Rasam flavor profile — tangy, peppery, warming. Growing national awareness through health interest in rasam.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "karupatti-ginger",
@@ -2862,7 +3122,9 @@
       "immunity"
     ],
     "familiarityScore": 48,
-    "description": "Palm jaggery + ginger — Ayurvedic warming combination. Growing in health beverage segment."
+    "description": "Palm jaggery + ginger — Ayurvedic warming combination. Growing in health beverage segment.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "toor-dal",
@@ -2884,7 +3146,9 @@
       "dal"
     ],
     "familiarityScore": 72,
-    "description": "Toor dal — the base of sambar and most SI dal preparations. Pan-India familiarity through dal eating culture."
+    "description": "Toor dal — the base of sambar and most SI dal preparations. Pan-India familiarity through dal eating culture.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "channa-dal",
@@ -2906,7 +3170,9 @@
       "snacks"
     ],
     "familiarityScore": 80,
-    "description": "Channa dal — pan-India familiarity. Used in SI vadai, halwa, stuffed sweets."
+    "description": "Channa dal — pan-India familiarity. Used in SI vadai, halwa, stuffed sweets.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "green-moong",
@@ -2928,7 +3194,9 @@
       "pan-India"
     ],
     "familiarityScore": 78,
-    "description": "Whole green moong — used in SI pesarattu (AP/TG green dosa). Health food positioning is very strong nationally."
+    "description": "Whole green moong — used in SI pesarattu (AP/TG green dosa). Health food positioning is very strong nationally.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "horse-gram",
@@ -2951,7 +3219,9 @@
       "superfood"
     ],
     "familiarityScore": 35,
-    "description": "Horse gram — intensely earthy and nutritious. Hyperregional to Tamil Nadu and Karnataka. Growing in health food nationally."
+    "description": "Horse gram — intensely earthy and nutritious. Hyperregional to Tamil Nadu and Karnataka. Growing in health food nationally.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "banana-flower",
@@ -2973,7 +3243,9 @@
       "medicinal"
     ],
     "familiarityScore": 32,
-    "description": "Banana flower — used in South Indian cooking as a vegetable. Astringent, artichoke-like. Hyperregional to SI."
+    "description": "Banana flower — used in South Indian cooking as a vegetable. Astringent, artichoke-like. Hyperregional to SI.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "raw-jackfruit",
@@ -2995,7 +3267,9 @@
       "growing"
     ],
     "familiarityScore": 55,
-    "description": "Raw jackfruit as a meat substitute — growing nationally and internationally as plant-based meat alternative."
+    "description": "Raw jackfruit as a meat substitute — growing nationally and internationally as plant-based meat alternative.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "yam",
@@ -3017,7 +3291,9 @@
       "tuberous"
     ],
     "familiarityScore": 38,
-    "description": "Elephant yam (senai/chenai) — starchy, earthy. SI root vegetable. Limited national recognition."
+    "description": "Elephant yam (senai/chenai) — starchy, earthy. SI root vegetable. Limited national recognition.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "raw-rice",
@@ -3039,7 +3315,9 @@
       "everyday"
     ],
     "familiarityScore": 68,
-    "description": "South Indian short-grain rice varieties (Ponni, Sona Masuri) — the backbone of SI cooking but relatively undifferentiated to national consumers."
+    "description": "South Indian short-grain rice varieties (Ponni, Sona Masuri) — the backbone of SI cooking but relatively undifferentiated to national consumers.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "red-rice",
@@ -3061,7 +3339,9 @@
       "fiber"
     ],
     "familiarityScore": 45,
-    "description": "Red rice (Kerala Matta rice) — earthy, nutty, fiber-rich. Growing national health food awareness."
+    "description": "Red rice (Kerala Matta rice) — earthy, nutty, fiber-rich. Growing national health food awareness.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "black-rice",
@@ -3083,7 +3363,9 @@
       "purple"
     ],
     "familiarityScore": 38,
-    "description": "Black rice (Kavuni Arisi) from Chettinad — deep purple color, nutty, antioxidant-rich. Growing health food trend."
+    "description": "Black rice (Kavuni Arisi) from Chettinad — deep purple color, nutty, antioxidant-rich. Growing health food trend.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "sorghum",
@@ -3105,7 +3387,9 @@
       "health"
     ],
     "familiarityScore": 52,
-    "description": "Jowar/sorghum — pan-India millet awareness growing. Central Deccan (AP, TG, Karnataka) staple."
+    "description": "Jowar/sorghum — pan-India millet awareness growing. Central Deccan (AP, TG, Karnataka) staple.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "finger-millet",
@@ -3128,7 +3412,9 @@
       "national"
     ],
     "familiarityScore": 62,
-    "description": "Ragi — the South Indian grain that has achieved national and international superfood status. High and growing familiarity."
+    "description": "Ragi — the South Indian grain that has achieved national and international superfood status. High and growing familiarity.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "foxtail-millet",
@@ -3150,7 +3436,9 @@
       "growing"
     ],
     "familiarityScore": 38,
-    "description": "Thinai (foxtail millet) — ancient Tamil grain. Growing in health food market but still niche nationally."
+    "description": "Thinai (foxtail millet) — ancient Tamil grain. Growing in health food market but still niche nationally.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "kodo-millet",
@@ -3172,7 +3460,9 @@
       "ancient"
     ],
     "familiarityScore": 25,
-    "description": "Kodo millet — Tamil Nadu ancient grain. Very niche nationally. Growing in health food circles."
+    "description": "Kodo millet — Tamil Nadu ancient grain. Very niche nationally. Growing in health food circles.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "little-millet",
@@ -3194,7 +3484,9 @@
       "growing"
     ],
     "familiarityScore": 25,
-    "description": "Samai (little millet) — Tamil Nadu grain. Very niche nationally."
+    "description": "Samai (little millet) — Tamil Nadu grain. Very niche nationally.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "amaranth",
@@ -3216,7 +3508,9 @@
       "growing"
     ],
     "familiarityScore": 55,
-    "description": "Amaranth — pan-India Navratri fasting grain + growing health food. Good national awareness."
+    "description": "Amaranth — pan-India Navratri fasting grain + growing health food. Good national awareness.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "ash-gourd",
@@ -3238,7 +3532,9 @@
       "Agra-petha"
     ],
     "familiarityScore": 42,
-    "description": "Ash gourd (white pumpkin) — South Indian ingredient used in halwa and kootu. North Indian proxy is Agra Petha sweet."
+    "description": "Ash gourd (white pumpkin) — South Indian ingredient used in halwa and kootu. North Indian proxy is Agra Petha sweet.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "bitter-gourd",
@@ -3261,7 +3557,9 @@
       "national"
     ],
     "familiarityScore": 60,
-    "description": "Bitter gourd (karela) — pan-India Ayurvedic/medicinal reputation. High national awareness despite strong flavor."
+    "description": "Bitter gourd (karela) — pan-India Ayurvedic/medicinal reputation. High national awareness despite strong flavor.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "colacasia",
@@ -3283,7 +3581,9 @@
       "root"
     ],
     "familiarityScore": 55,
-    "description": "Colocasia — pan-India familiar root vegetable with North and South Indian cooking traditions."
+    "description": "Colocasia — pan-India familiar root vegetable with North and South Indian cooking traditions.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "raw-turmeric",
@@ -3305,7 +3605,9 @@
       "growing"
     ],
     "familiarityScore": 55,
-    "description": "Raw turmeric — growing nationally through health/Ayurvedic trends. More aromatic and less bitter than dried."
+    "description": "Raw turmeric — growing nationally through health/Ayurvedic trends. More aromatic and less bitter than dried.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "pepper-kalpasi",
@@ -3327,7 +3629,9 @@
       "rare"
     ],
     "familiarityScore": 22,
-    "description": "Stone flower lichen — highly exotic Chettinad spice. No national recognition outside food enthusiasts."
+    "description": "Stone flower lichen — highly exotic Chettinad spice. No national recognition outside food enthusiasts.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "idiyappam-flavor",
@@ -3349,7 +3653,9 @@
       "breakfast"
     ],
     "familiarityScore": 38,
-    "description": "Idiyappam — pressed rice noodles. Very SI-specific. Growing national awareness through Kerala cuisine."
+    "description": "Idiyappam — pressed rice noodles. Very SI-specific. Growing national awareness through Kerala cuisine.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "puttu-flavor",
@@ -3371,7 +3677,9 @@
       "steam"
     ],
     "familiarityScore": 30,
-    "description": "Puttu — Kerala cylindrical steamed cake with coconut layers. Very hyperregional. No national proxy."
+    "description": "Puttu — Kerala cylindrical steamed cake with coconut layers. Very hyperregional. No national proxy.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "kozhukattai-flavor",
@@ -3393,7 +3701,9 @@
       "sweet"
     ],
     "familiarityScore": 60,
-    "description": "Kozhukattai/Modak — Ganesh Chaturthi national association ensures national awareness."
+    "description": "Kozhukattai/Modak — Ganesh Chaturthi national association ensures national awareness.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "sambar-flavor",
@@ -3416,7 +3726,9 @@
       "restaurant"
     ],
     "familiarityScore": 75,
-    "description": "Sambar — nationally recognized South Indian dal-tamarind vegetable soup. Very high national familiarity through restaurant culture."
+    "description": "Sambar — nationally recognized South Indian dal-tamarind vegetable soup. Very high national familiarity through restaurant culture.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "rasam-flavor",
@@ -3439,7 +3751,9 @@
       "medicinal"
     ],
     "familiarityScore": 60,
-    "description": "Rasam — pepper-sour watery soup. Growing national awareness through health interest and SI restaurant culture."
+    "description": "Rasam — pepper-sour watery soup. Growing national awareness through health interest and SI restaurant culture.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "appam-flavor",
@@ -3461,7 +3775,9 @@
       "fermented"
     ],
     "familiarityScore": 38,
-    "description": "Appam — lacy rice pancake. Growing national awareness through Kerala cuisine restaurants."
+    "description": "Appam — lacy rice pancake. Growing national awareness through Kerala cuisine restaurants.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "avial-flavor",
@@ -3483,7 +3799,9 @@
       "coconut-yogurt"
     ],
     "familiarityScore": 35,
-    "description": "Avial — Kerala mixed vegetable dish in coconut-yogurt. Onam association. Growing national awareness."
+    "description": "Avial — Kerala mixed vegetable dish in coconut-yogurt. Onam association. Growing national awareness.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "pachadi-flavor",
@@ -3505,7 +3823,9 @@
       "South-Indian"
     ],
     "familiarityScore": 70,
-    "description": "Pachadi (South Indian raita) — yogurt-based condiment. Raita is the national proxy. High familiarity."
+    "description": "Pachadi (South Indian raita) — yogurt-based condiment. Raita is the national proxy. High familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "thoran-flavor",
@@ -3527,7 +3847,9 @@
       "dry-curry"
     ],
     "familiarityScore": 32,
-    "description": "Thoran — Kerala dry stir-fry with coconut. Very Kerala specific. No national recognition."
+    "description": "Thoran — Kerala dry stir-fry with coconut. Very Kerala specific. No national recognition.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "dosa-flavor",
@@ -3549,7 +3871,9 @@
       "breakfast"
     ],
     "familiarityScore": 78,
-    "description": "Dosa — nationally and globally recognized South Indian breakfast. Very high familiarity nationally."
+    "description": "Dosa — nationally and globally recognized South Indian breakfast. Very high familiarity nationally.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "idli-flavor",
@@ -3572,7 +3896,9 @@
       "soft"
     ],
     "familiarityScore": 78,
-    "description": "Idli — nationally recognized South Indian breakfast. High familiarity."
+    "description": "Idli — nationally recognized South Indian breakfast. High familiarity.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "uttapam-flavor",
@@ -3594,7 +3920,9 @@
       "vegetable"
     ],
     "familiarityScore": 65,
-    "description": "Uttapam — thick dosa with vegetable toppings. National familiarity from South Indian restaurants."
+    "description": "Uttapam — thick dosa with vegetable toppings. National familiarity from South Indian restaurants.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "vada-flavor",
@@ -3616,7 +3944,9 @@
       "restaurant"
     ],
     "familiarityScore": 72,
-    "description": "Vada — nationally familiar from South Indian restaurants. Donut-shaped lentil fritter."
+    "description": "Vada — nationally familiar from South Indian restaurants. Donut-shaped lentil fritter.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "pongal-flavor",
@@ -3639,7 +3969,9 @@
       "comfort"
     ],
     "familiarityScore": 55,
-    "description": "Pongal — SI rice-dal-ghee dish. Khichdi is the national proxy. Growing national awareness through the Pongal festival."
+    "description": "Pongal — SI rice-dal-ghee dish. Khichdi is the national proxy. Growing national awareness through the Pongal festival.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "biryani-south",
@@ -3662,7 +3994,9 @@
       "famous"
     ],
     "familiarityScore": 82,
-    "description": "Hyderabadi Biryani — national and international fame. One of India's most recognized dishes globally."
+    "description": "Hyderabadi Biryani — national and international fame. One of India's most recognized dishes globally.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "chettinad-flavor",
@@ -3684,7 +4018,9 @@
       "food-enthusiasts"
     ],
     "familiarityScore": 42,
-    "description": "Chettinad spice profile — multi-layered, pepper-forward, using exotic spices. Growing national premium recognition."
+    "description": "Chettinad spice profile — multi-layered, pepper-forward, using exotic spices. Growing national premium recognition.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coconut-chutney",
@@ -3706,7 +4042,9 @@
       "national"
     ],
     "familiarityScore": 70,
-    "description": "Coconut chutney — nationally familiar South Indian condiment from restaurant culture."
+    "description": "Coconut chutney — nationally familiar South Indian condiment from restaurant culture.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "tomato-chutney",
@@ -3727,7 +4065,9 @@
       "national"
     ],
     "familiarityScore": 65,
-    "description": "South Indian tomato chutney with tempering — nationally familiar from South Indian restaurants."
+    "description": "South Indian tomato chutney with tempering — nationally familiar from South Indian restaurants.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "tamarind-chutney-si",
@@ -3749,7 +4089,9 @@
       "condiment"
     ],
     "familiarityScore": 68,
-    "description": "Tamarind chutney — the SI thick version (with groundnuts and curry leaf) is distinct from the national chaat version."
+    "description": "Tamarind chutney — the SI thick version (with groundnuts and curry leaf) is distinct from the national chaat version.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Mixture"
   },
   {
     "id": "podi-flavor",
@@ -3771,7 +4113,9 @@
       "condiment"
     ],
     "familiarityScore": 62,
-    "description": "Podi — dry lentil-chilli-sesame powder. 'Gunpowder' name gaining national recognition. SI identity condiment."
+    "description": "Podi — dry lentil-chilli-sesame powder. 'Gunpowder' name gaining national recognition. SI identity condiment.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "neer-more",
@@ -3794,7 +4138,9 @@
       "summer"
     ],
     "familiarityScore": 65,
-    "description": "Spiced buttermilk — SI version of chaas with curry leaf and ginger. Chaas is the national proxy."
+    "description": "Spiced buttermilk — SI version of chaas with curry leaf and ginger. Chaas is the national proxy.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "avakkai",
@@ -3816,7 +4162,9 @@
       "national"
     ],
     "familiarityScore": 55,
-    "description": "Avakkai (Andhra mango pickle) — known nationally as the spiciest mango pickle in India. Growing national recognition."
+    "description": "Avakkai (Andhra mango pickle) — known nationally as the spiciest mango pickle in India. Growing national recognition.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "anise",
@@ -3837,7 +4185,9 @@
       "licorice"
     ],
     "familiarityScore": 58,
-    "description": "Anise — saunf-adjacent flavor. Familiar nationally through mouth fresheners."
+    "description": "Anise — saunf-adjacent flavor. Familiar nationally through mouth fresheners.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "nigella",
@@ -3859,7 +4209,9 @@
       "growing"
     ],
     "familiarityScore": 52,
-    "description": "Nigella/kalonji — pan-India familiarity from naan topping and Bengali cuisine."
+    "description": "Nigella/kalonji — pan-India familiarity from naan topping and Bengali cuisine.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "bay-leaf",
@@ -3881,7 +4233,9 @@
       "pan-India"
     ],
     "familiarityScore": 72,
-    "description": "Bay leaf — pan-India familiar from biryanis and curries."
+    "description": "Bay leaf — pan-India familiar from biryanis and curries.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "dried-red-chilli",
@@ -3903,7 +4257,9 @@
       "pantry"
     ],
     "familiarityScore": 80,
-    "description": "Dried red chillies — pan-India essential tempering ingredient."
+    "description": "Dried red chillies — pan-India essential tempering ingredient.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "stone-salt",
@@ -3925,7 +4281,9 @@
       "distinctive"
     ],
     "familiarityScore": 55,
-    "description": "Black salt — pan-India chaat essential. Distinctive sulfuric character. High national familiarity through chaat culture."
+    "description": "Black salt — pan-India chaat essential. Distinctive sulfuric character. High national familiarity through chaat culture.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Mixture"
   },
   {
     "id": "amla",
@@ -3947,7 +4305,9 @@
       "health"
     ],
     "familiarityScore": 62,
-    "description": "Amla — pan-India Ayurvedic/health ingredient. High national awareness despite intense sourness."
+    "description": "Amla — pan-India Ayurvedic/health ingredient. High national awareness despite intense sourness.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "pomegranate-seeds",
@@ -3969,7 +4329,9 @@
       "souring"
     ],
     "familiarityScore": 55,
-    "description": "Anardana — North Indian souring agent. Pan-India chaat familiarity."
+    "description": "Anardana — North Indian souring agent. Pan-India chaat familiarity.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Mixture"
   },
   {
     "id": "dried-apricot",
@@ -3991,7 +4353,9 @@
       "growing"
     ],
     "familiarityScore": 45,
-    "description": "Dried apricot — famous in Hyderabadi Qubani Ka Meetha. Growing national awareness."
+    "description": "Dried apricot — famous in Hyderabadi Qubani Ka Meetha. Growing national awareness.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "mint",
@@ -4013,7 +4377,9 @@
       "beverages"
     ],
     "familiarityScore": 84,
-    "description": "Mint/pudina — pan-India familiar herb. Very high national accessibility."
+    "description": "Mint/pudina — pan-India familiar herb. Very high national accessibility.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "fresh-coriander",
@@ -4035,7 +4401,9 @@
       "universal"
     ],
     "familiarityScore": 88,
-    "description": "Fresh coriander — absolute pan-India. Mass Category."
+    "description": "Fresh coriander — absolute pan-India. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "curry-powder",
@@ -4056,7 +4424,9 @@
       "accessible"
     ],
     "familiarityScore": 60,
-    "description": "Curry powder — internationally known 'Indian flavor'. Complex but broadly accessible."
+    "description": "Curry powder — internationally known 'Indian flavor'. Complex but broadly accessible.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "garam-masala",
@@ -4077,7 +4447,9 @@
       "complex"
     ],
     "familiarityScore": 80,
-    "description": "Garam masala — pan-India essential finishing spice. Mass Category."
+    "description": "Garam masala — pan-India essential finishing spice. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kadhai-masala",
@@ -4099,7 +4471,9 @@
       "national"
     ],
     "familiarityScore": 62,
-    "description": "Kadhai masala — North Indian restaurant flavor. High national familiarity through restaurant culture."
+    "description": "Kadhai masala — North Indian restaurant flavor. High national familiarity through restaurant culture.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "chaat-masala",
@@ -4122,7 +4496,9 @@
       "universal"
     ],
     "familiarityScore": 78,
-    "description": "Chaat masala — pan-India street food essential. Very high national familiarity."
+    "description": "Chaat masala — pan-India street food essential. Very high national familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Mixture"
   },
   {
     "id": "pav-bhaji-masala",
@@ -4143,7 +4519,9 @@
       "butter-masala"
     ],
     "familiarityScore": 70,
-    "description": "Pav Bhaji masala — national street food flavor. High familiarity from Mumbai street food culture."
+    "description": "Pav Bhaji masala — national street food flavor. High familiarity from Mumbai street food culture.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "chole-masala",
@@ -4165,7 +4543,9 @@
       "popular"
     ],
     "familiarityScore": 70,
-    "description": "Chole masala — pan-India North Indian flavor. High national familiarity."
+    "description": "Chole masala — pan-India North Indian flavor. High national familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "biryani-masala",
@@ -4187,7 +4567,9 @@
       "dum-cooking"
     ],
     "familiarityScore": 78,
-    "description": "Biryani masala — pan-India essential for the most celebrated Indian dish. Very high familiarity."
+    "description": "Biryani masala — pan-India essential for the most celebrated Indian dish. Very high familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "rajma-masala",
@@ -4208,7 +4590,9 @@
       "national"
     ],
     "familiarityScore": 65,
-    "description": "Rajma masala — North Indian comfort food. High national familiarity."
+    "description": "Rajma masala — North Indian comfort food. High national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "paneer",
@@ -4230,7 +4614,9 @@
       "national"
     ],
     "familiarityScore": 84,
-    "description": "Paneer — pan-India vegetarian protein. Mass Category."
+    "description": "Paneer — pan-India vegetarian protein. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "lassi-flavor",
@@ -4252,7 +4638,9 @@
       "cooling"
     ],
     "familiarityScore": 82,
-    "description": "Lassi — pan-India Punjabi drink. Very high national familiarity."
+    "description": "Lassi — pan-India Punjabi drink. Very high national familiarity.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "kheer-flavor",
@@ -4274,7 +4662,9 @@
       "rice-pudding"
     ],
     "familiarityScore": 78,
-    "description": "Kheer — pan-India festival sweet. Payasam is SI equivalent. Very high national familiarity."
+    "description": "Kheer — pan-India festival sweet. Payasam is SI equivalent. Very high national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "halwa-flavor",
@@ -4296,7 +4686,9 @@
       "carrot"
     ],
     "familiarityScore": 80,
-    "description": "Halwa — pan-India festival sweet in many varieties. Mass Category."
+    "description": "Halwa — pan-India festival sweet in many varieties. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "samosa-flavor",
@@ -4318,7 +4710,9 @@
       "universal"
     ],
     "familiarityScore": 88,
-    "description": "Samosa — pan-India Mass Category street food icon."
+    "description": "Samosa — pan-India Mass Category street food icon.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "tea-flavor",
@@ -4340,7 +4734,9 @@
       "national"
     ],
     "familiarityScore": 90,
-    "description": "Chai/tea — absolute pan-India. Mass Category."
+    "description": "Chai/tea — absolute pan-India. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "buttermilk",
@@ -4362,7 +4758,9 @@
       "summer"
     ],
     "familiarityScore": 76,
-    "description": "Chaas/buttermilk — pan-India cooling drink. High national familiarity."
+    "description": "Chaas/buttermilk — pan-India cooling drink. High national familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "yogurt",
@@ -4384,7 +4782,9 @@
       "cooling"
     ],
     "familiarityScore": 88,
-    "description": "Dahi/yogurt — absolute pan-India. Mass Category."
+    "description": "Dahi/yogurt — absolute pan-India. Mass Category.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "aam-ras",
@@ -4406,7 +4806,9 @@
       "national"
     ],
     "familiarityScore": 72,
-    "description": "Aam Ras — mango pulp. Pan-India summer essential. High national familiarity."
+    "description": "Aam Ras — mango pulp. Pan-India summer essential. High national familiarity.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "pineapple",
@@ -4428,7 +4830,9 @@
       "tropical"
     ],
     "familiarityScore": 72,
-    "description": "Pineapple — pan-India familiar tropical fruit."
+    "description": "Pineapple — pan-India familiar tropical fruit.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "orange",
@@ -4449,7 +4853,9 @@
       "citrus"
     ],
     "familiarityScore": 80,
-    "description": "Orange — pan-India. Very high national familiarity."
+    "description": "Orange — pan-India. Very high national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "guava",
@@ -4471,7 +4877,9 @@
       "fruit"
     ],
     "familiarityScore": 72,
-    "description": "Guava — pan-India tropical fruit. High national familiarity."
+    "description": "Guava — pan-India tropical fruit. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "pomegranate",
@@ -4493,7 +4901,9 @@
       "juicy"
     ],
     "familiarityScore": 72,
-    "description": "Pomegranate — pan-India health fruit. High national familiarity."
+    "description": "Pomegranate — pan-India health fruit. High national familiarity.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "watermelon-flavor",
@@ -4515,7 +4925,9 @@
       "cooling"
     ],
     "familiarityScore": 80,
-    "description": "Watermelon — pan-India summer fruit. Mass Category."
+    "description": "Watermelon — pan-India summer fruit. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "apple",
@@ -4537,7 +4949,9 @@
       "everyday"
     ],
     "familiarityScore": 82,
-    "description": "Apple — pan-India. Very high national familiarity."
+    "description": "Apple — pan-India. Very high national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "dry-fruits-mix",
@@ -4559,7 +4973,9 @@
       "gifting"
     ],
     "familiarityScore": 78,
-    "description": "Mixed dry fruits — pan-India premium festive gifting ingredient. High national familiarity."
+    "description": "Mixed dry fruits — pan-India premium festive gifting ingredient. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "almond-cardamom",
@@ -4581,7 +4997,9 @@
       "sweets"
     ],
     "familiarityScore": 72,
-    "description": "Almond + cardamom — Mughal sweet combination. High national familiarity from premium sweets."
+    "description": "Almond + cardamom — Mughal sweet combination. High national familiarity from premium sweets.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "earl-grey",
@@ -4603,7 +5021,9 @@
       "cafe"
     ],
     "familiarityScore": 50,
-    "description": "Earl Grey — bergamot-scented tea. Growing in urban Indian premium cafe culture."
+    "description": "Earl Grey — bergamot-scented tea. Growing in urban Indian premium cafe culture.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "mint-choco",
@@ -4624,7 +5044,9 @@
       "confectionery"
     ],
     "familiarityScore": 65,
-    "description": "Mint chocolate — national ice cream flavor familiarity."
+    "description": "Mint chocolate — national ice cream flavor familiarity.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "salted-caramel",
@@ -4646,7 +5068,9 @@
       "urban"
     ],
     "familiarityScore": 62,
-    "description": "Salted caramel — growing in urban Indian premium food and beverage market."
+    "description": "Salted caramel — growing in urban Indian premium food and beverage market.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "tiramisu-flavor",
@@ -4668,7 +5092,9 @@
       "urban"
     ],
     "familiarityScore": 50,
-    "description": "Tiramisu — growing in urban Indian cafe and dessert culture."
+    "description": "Tiramisu — growing in urban Indian cafe and dessert culture.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "lychee",
@@ -4690,7 +5116,9 @@
       "tropical"
     ],
     "familiarityScore": 60,
-    "description": "Lychee — pan-India summer seasonal familiarity."
+    "description": "Lychee — pan-India summer seasonal familiarity.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "passion-fruit",
@@ -4712,7 +5140,9 @@
       "growing"
     ],
     "familiarityScore": 40,
-    "description": "Passion fruit — growing in urban Indian premium beverage and dessert market."
+    "description": "Passion fruit — growing in urban Indian premium beverage and dessert market.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "mango-western",
@@ -4733,7 +5163,9 @@
       "Western-dessert"
     ],
     "familiarityScore": 75,
-    "description": "Mango in Western dessert context (mango sorbet, mango cheesecake) — high national accessibility through Alphonso mango fame."
+    "description": "Mango in Western dessert context (mango sorbet, mango cheesecake) — high national accessibility through Alphonso mango fame.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "coconut-western",
@@ -4754,7 +5186,9 @@
       "Western-baking"
     ],
     "familiarityScore": 65,
-    "description": "Coconut in Western baking context (macaroon, coconut cake) — growing in urban Indian baking culture."
+    "description": "Coconut in Western baking context (macaroon, coconut cake) — growing in urban Indian baking culture.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "lemon-western",
@@ -4776,7 +5210,9 @@
       "tart"
     ],
     "familiarityScore": 68,
-    "description": "Lemon in Western baking (lemon cake, lemon tart) — growing in urban Indian baking culture."
+    "description": "Lemon in Western baking (lemon cake, lemon tart) — growing in urban Indian baking culture.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "ginger-western",
@@ -4797,7 +5233,9 @@
       "warm"
     ],
     "familiarityScore": 62,
-    "description": "Ginger in Western baking context (gingerbread, ginger snaps) — growing national awareness."
+    "description": "Ginger in Western baking context (gingerbread, ginger snaps) — growing national awareness.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "espresso",
@@ -4819,7 +5257,9 @@
       "urban"
     ],
     "familiarityScore": 62,
-    "description": "Espresso — growing in urban Indian cafe culture. Not as nationally familiar as filter coffee outside metros."
+    "description": "Espresso — growing in urban Indian cafe culture. Not as nationally familiar as filter coffee outside metros.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "bourbon-vanilla",
@@ -4840,7 +5280,9 @@
       "ice-cream"
     ],
     "familiarityScore": 58,
-    "description": "Bourbon vanilla — premium baking and ice cream context. Urban India growing familiarity."
+    "description": "Bourbon vanilla — premium baking and ice cream context. Urban India growing familiarity.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "cacao-nibs",
@@ -4862,7 +5304,9 @@
       "baking"
     ],
     "familiarityScore": 42,
-    "description": "Cacao nibs — growing in urban premium health food and artisan chocolate market."
+    "description": "Cacao nibs — growing in urban premium health food and artisan chocolate market.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "miso",
@@ -4884,7 +5328,9 @@
       "urban"
     ],
     "familiarityScore": 38,
-    "description": "Miso — growing in urban Indian food culture through Japanese cuisine exposure."
+    "description": "Miso — growing in urban Indian food culture through Japanese cuisine exposure.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "tahini",
@@ -4906,7 +5352,9 @@
       "hummus"
     ],
     "familiarityScore": 38,
-    "description": "Tahini — growing through hummus and Middle Eastern cuisine. Sesame-familiar Indians."
+    "description": "Tahini — growing through hummus and Middle Eastern cuisine. Sesame-familiar Indians.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "aam-panna",
@@ -4928,7 +5376,9 @@
       "national"
     ],
     "familiarityScore": 65,
-    "description": "Aam Panna — raw mango summer drink. Pan-India familiarity especially in North and Central India."
+    "description": "Aam Panna — raw mango summer drink. Pan-India familiarity especially in North and Central India.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "jaljeera",
@@ -4950,7 +5400,9 @@
       "cooling"
     ],
     "familiarityScore": 68,
-    "description": "Jaljeera — pan-India street food drink. High national familiarity."
+    "description": "Jaljeera — pan-India street food drink. High national familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "nimbu-pani",
@@ -4972,7 +5424,9 @@
       "summer"
     ],
     "familiarityScore": 88,
-    "description": "Nimbu Pani — pan-India. Mass Category summer drink."
+    "description": "Nimbu Pani — pan-India. Mass Category summer drink.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "sugarcane-juice",
@@ -4994,7 +5448,9 @@
       "street-food"
     ],
     "familiarityScore": 80,
-    "description": "Sugarcane juice — pan-India street food. High national familiarity."
+    "description": "Sugarcane juice — pan-India street food. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "tender-coconut",
@@ -5016,7 +5472,9 @@
       "cooling"
     ],
     "familiarityScore": 65,
-    "description": "Tender coconut water — widely familiar nationally through health trends and coastal exposure."
+    "description": "Tender coconut water — widely familiar nationally through health trends and coastal exposure.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "thandai-flavor",
@@ -5039,7 +5497,9 @@
       "national"
     ],
     "familiarityScore": 62,
-    "description": "Thandai — North Indian Holi festival drink. High national familiarity. Fennel-rose-nut combination."
+    "description": "Thandai — North Indian Holi festival drink. High national familiarity. Fennel-rose-nut combination.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "nariyal-pani",
@@ -5061,7 +5521,9 @@
       "trending"
     ],
     "familiarityScore": 75,
-    "description": "Coconut water — national health trend. Very high national familiarity."
+    "description": "Coconut water — national health trend. Very high national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "kulfi-flavor",
@@ -5084,7 +5546,9 @@
       "creamy"
     ],
     "familiarityScore": 78,
-    "description": "Kulfi — pan-India Indian ice cream. High national familiarity."
+    "description": "Kulfi — pan-India Indian ice cream. High national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "rabri-flavor",
@@ -5107,7 +5571,9 @@
       "festival"
     ],
     "familiarityScore": 65,
-    "description": "Rabri — North Indian thickened sweetened milk. Pan-India familiarity from mithai shops."
+    "description": "Rabri — North Indian thickened sweetened milk. Pan-India familiarity from mithai shops.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "peda-flavor",
@@ -5130,7 +5596,9 @@
       "premium"
     ],
     "familiarityScore": 70,
-    "description": "Peda — pan-India milk fudge. Mathura/Tirupati association. High national familiarity."
+    "description": "Peda — pan-India milk fudge. Mathura/Tirupati association. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "jalebi-flavor",
@@ -5152,7 +5620,9 @@
       "pan-India"
     ],
     "familiarityScore": 82,
-    "description": "Jalebi — pan-India festival sweet. Mass Category."
+    "description": "Jalebi — pan-India festival sweet. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "ladoo-flavor",
@@ -5174,7 +5644,9 @@
       "round"
     ],
     "familiarityScore": 84,
-    "description": "Ladoo — absolute pan-India sweet format. Mass Category."
+    "description": "Ladoo — absolute pan-India sweet format. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "barfi-flavor",
@@ -5195,7 +5667,9 @@
       "gifting"
     ],
     "familiarityScore": 82,
-    "description": "Barfi — pan-India sweet. Mass Category."
+    "description": "Barfi — pan-India sweet. Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "gulab-jamun-flavor",
@@ -5218,7 +5692,9 @@
       "festival"
     ],
     "familiarityScore": 86,
-    "description": "Gulab Jamun — pan-India. Mass Category. National festival sweet icon."
+    "description": "Gulab Jamun — pan-India. Mass Category. National festival sweet icon.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "curry-leaf-popcorn-flavor",
@@ -5240,7 +5716,9 @@
       "urban"
     ],
     "familiarityScore": 55,
-    "description": "Curry leaf + popcorn = innovative SI-Western fusion snack. Popcorn familiar, curry leaf is the South Indian signature."
+    "description": "Curry leaf + popcorn = innovative SI-Western fusion snack. Popcorn familiar, curry leaf is the South Indian signature.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "karupatti-latte",
@@ -5262,7 +5740,9 @@
       "cafe"
     ],
     "familiarityScore": 48,
-    "description": "Palm jaggery latte — filter coffee with karupatti instead of sugar. Healthy SI cafe fusion."
+    "description": "Palm jaggery latte — filter coffee with karupatti instead of sugar. Healthy SI cafe fusion.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "ragi-brownie-flavor",
@@ -5284,7 +5764,9 @@
       "chocolate"
     ],
     "familiarityScore": 50,
-    "description": "Ragi brownie — healthy millet-chocolate fusion. Growing in urban health bakery segment."
+    "description": "Ragi brownie — healthy millet-chocolate fusion. Growing in urban health bakery segment.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "tamarind-margarita",
@@ -5306,7 +5788,9 @@
       "growing"
     ],
     "familiarityScore": 40,
-    "description": "Tamarind margarita — growing in urban Indian cocktail/mocktail culture. Tamarind familiarity + cocktail format."
+    "description": "Tamarind margarita — growing in urban Indian cocktail/mocktail culture. Tamarind familiarity + cocktail format.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "masala-chai-cake",
@@ -5328,7 +5812,9 @@
       "cafe"
     ],
     "familiarityScore": 62,
-    "description": "Masala chai cake — chai spice profile in Western cake format. Growing in artisan bakeries."
+    "description": "Masala chai cake — chai spice profile in Western cake format. Growing in artisan bakeries.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coconut-panna-cotta",
@@ -5350,7 +5836,9 @@
       "restaurant"
     ],
     "familiarityScore": 45,
-    "description": "Coconut panna cotta — Italian format with South Indian coconut milk. Premium restaurant fusion."
+    "description": "Coconut panna cotta — Italian format with South Indian coconut milk. Premium restaurant fusion.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "saffron-rose-kheer",
@@ -5372,7 +5860,9 @@
       "wedding"
     ],
     "familiarityScore": 70,
-    "description": "Saffron-rose kheer — Mughal-South Indian fusion. Both ingredients nationally familiar."
+    "description": "Saffron-rose kheer — Mughal-South Indian fusion. Both ingredients nationally familiar.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "mango-lassi-plus",
@@ -5394,7 +5884,9 @@
       "Punjabi-SI"
     ],
     "familiarityScore": 80,
-    "description": "Mango lassi — one of India's most familiar drink combinations. Pan-India Mass Category."
+    "description": "Mango lassi — one of India's most familiar drink combinations. Pan-India Mass Category.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "paan-flavor",
@@ -5416,7 +5908,9 @@
       "mukhwas"
     ],
     "familiarityScore": 65,
-    "description": "Paan flavor — pan-India familiarity from paan shops. Betel-rose-fennel combination. Distinctive Indian fusion flavor."
+    "description": "Paan flavor — pan-India familiarity from paan shops. Betel-rose-fennel combination. Distinctive Indian fusion flavor.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "taro-flavor",
@@ -5438,7 +5932,9 @@
       "purple"
     ],
     "familiarityScore": 42,
-    "description": "Taro — growing in health/international food culture. Familiar as arbi in North Indian cooking."
+    "description": "Taro — growing in health/international food culture. Familiar as arbi in North Indian cooking.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "jackfruit-chips-flavor",
@@ -5460,7 +5956,9 @@
       "tropical"
     ],
     "familiarityScore": 55,
-    "description": "Jackfruit chips — the flavor of ripe jackfruit in chip form. Growing nationally through Kerala food and health food trends."
+    "description": "Jackfruit chips — the flavor of ripe jackfruit in chip form. Growing nationally through Kerala food and health food trends.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Chips"
   },
   {
     "id": "moringa-matcha",
@@ -5483,7 +5981,9 @@
       "fusion"
     ],
     "familiarityScore": 38,
-    "description": "Moringa + matcha — two global superfoods combined. Growing in urban premium wellness products."
+    "description": "Moringa + matcha — two global superfoods combined. Growing in urban premium wellness products.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "cardamom-chai-latte",
@@ -5505,7 +6005,9 @@
       "cafe"
     ],
     "familiarityScore": 68,
-    "description": "Cardamom chai latte — the most globally familiar Indian flavor exported to Western cafes. Very accessible."
+    "description": "Cardamom chai latte — the most globally familiar Indian flavor exported to Western cafes. Very accessible.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "tamarind-jaggery",
@@ -5527,7 +6029,9 @@
       "chutney"
     ],
     "familiarityScore": 62,
-    "description": "Tamarind + jaggery — the fundamental SI sweet-sour balance. Used in chutneys, candies, beverages."
+    "description": "Tamarind + jaggery — the fundamental SI sweet-sour balance. Used in chutneys, candies, beverages.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "kollu",
@@ -5550,7 +6054,9 @@
       "health"
     ],
     "familiarityScore": 32,
-    "description": "Horse gram — extremely nutritious ancient grain. Earthy, complex. Hyperregional to Tamil Nadu and Karnataka."
+    "description": "Horse gram — extremely nutritious ancient grain. Earthy, complex. Hyperregional to Tamil Nadu and Karnataka.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "thinai-grain",
@@ -5572,7 +6078,9 @@
       "ceremonial"
     ],
     "familiarityScore": 25,
-    "description": "Foxtail millet — ancient Tamil ceremonial grain. Very niche nationally but growing in millet revival."
+    "description": "Foxtail millet — ancient Tamil ceremonial grain. Very niche nationally but growing in millet revival.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "varagu-grain",
@@ -5593,7 +6101,9 @@
       "health-food"
     ],
     "familiarityScore": 22,
-    "description": "Kodo millet — rare Tamil Nadu ancient grain. Very niche."
+    "description": "Kodo millet — rare Tamil Nadu ancient grain. Very niche.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "karuppu-kavuni",
@@ -5615,7 +6125,9 @@
       "purple"
     ],
     "familiarityScore": 35,
-    "description": "Black rice Kavuni — Chettinad specialty. Deep purple, nutty, antioxidant. Growing in health food market."
+    "description": "Black rice Kavuni — Chettinad specialty. Deep purple, nutty, antioxidant. Growing in health food market.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "nendran-banana",
@@ -5637,7 +6149,9 @@
       "distinctive"
     ],
     "familiarityScore": 45,
-    "description": "Nendran banana — Kerala's prized variety. Starchier and denser than regular banana. Used in chips and sweets."
+    "description": "Nendran banana — Kerala's prized variety. Starchier and denser than regular banana. Used in chips and sweets.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "palm-leaf",
@@ -5659,7 +6173,9 @@
       "packaging"
     ],
     "familiarityScore": 25,
-    "description": "Palmyra palm products — the state tree of Tamil Nadu. Palmyra sugar, palm shoots used in traditional cooking."
+    "description": "Palmyra palm products — the state tree of Tamil Nadu. Palmyra sugar, palm shoots used in traditional cooking.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "sambar-onion",
@@ -5681,7 +6197,9 @@
       "chinna-vengayam"
     ],
     "familiarityScore": 55,
-    "description": "Pearl onions/shallots — the small, intensely flavored onion central to Tamil Nadu sambar and gravies."
+    "description": "Pearl onions/shallots — the small, intensely flavored onion central to Tamil Nadu sambar and gravies.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "green-raw-mango",
@@ -5703,7 +6221,9 @@
       "SI-summer"
     ],
     "familiarityScore": 65,
-    "description": "Raw green mango — central to South Indian pickles, chutneys, and rice mixes. Seasonal summer flavor."
+    "description": "Raw green mango — central to South Indian pickles, chutneys, and rice mixes. Seasonal summer flavor.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "veena-velari",
@@ -5726,7 +6246,9 @@
       "fasting"
     ],
     "familiarityScore": 30,
-    "description": "Ash gourd juice — Kerala Ayurvedic health drink. Very hyperregional wellness product."
+    "description": "Ash gourd juice — Kerala Ayurvedic health drink. Very hyperregional wellness product.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "mango-ginger",
@@ -5748,7 +6270,9 @@
       "unique"
     ],
     "familiarityScore": 28,
-    "description": "Mango ginger (mangai inji) — a unique rhizome that tastes like both mango and ginger. Very Tamil Nadu-specific."
+    "description": "Mango ginger (mangai inji) — a unique rhizome that tastes like both mango and ginger. Very Tamil Nadu-specific.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "drumstick-leaf",
@@ -5770,7 +6294,9 @@
       "national"
     ],
     "familiarityScore": 60,
-    "description": "Moringa leaf — achieved global superfood status. South Indian origin gives authenticity. High growing national familiarity."
+    "description": "Moringa leaf — achieved global superfood status. South Indian origin gives authenticity. High growing national familiarity.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "banana-stem",
@@ -5793,7 +6319,9 @@
       "fiber"
     ],
     "familiarityScore": 30,
-    "description": "Banana stem — South Indian Ayurvedic ingredient for kidney health. Very SI-specific."
+    "description": "Banana stem — South Indian Ayurvedic ingredient for kidney health. Very SI-specific.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "nellikkai",
@@ -5815,7 +6343,9 @@
       "medicinal"
     ],
     "familiarityScore": 55,
-    "description": "Amla/Indian Gooseberry — intensely sour with an unusual 'sour-then-sweet' aftertaste. Pan-India Ayurvedic awareness."
+    "description": "Amla/Indian Gooseberry — intensely sour with an unusual 'sour-then-sweet' aftertaste. Pan-India Ayurvedic awareness.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "curry-leaf-oil",
@@ -5837,7 +6367,9 @@
       "tempering"
     ],
     "familiarityScore": 45,
-    "description": "Curry leaf infused coconut oil — the SI cooking identity in concentrated form. Premium artisanal product angle."
+    "description": "Curry leaf infused coconut oil — the SI cooking identity in concentrated form. Premium artisanal product angle.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "veldt-grape",
@@ -5858,7 +6390,9 @@
       "medicinal"
     ],
     "familiarityScore": 20,
-    "description": "Hadjod — Ayurvedic bone health herb. Very niche. Functional food positioning."
+    "description": "Hadjod — Ayurvedic bone health herb. Very niche. Functional food positioning.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "seeragam",
@@ -5880,7 +6414,9 @@
       "distinctive"
     ],
     "familiarityScore": 35,
-    "description": "Caraway seeds — used in some South Indian cooking, particularly Tamil Nadu. Less common than cumin."
+    "description": "Caraway seeds — used in some South Indian cooking, particularly Tamil Nadu. Less common than cumin.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "marjoram",
@@ -5901,7 +6437,9 @@
       "growing"
     ],
     "familiarityScore": 30,
-    "description": "Marjoram — growing in Indian cooking through exposure to Western and Mediterranean food."
+    "description": "Marjoram — growing in Indian cooking through exposure to Western and Mediterranean food.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "ajwain",
@@ -5923,7 +6461,9 @@
       "Ayurvedic"
     ],
     "familiarityScore": 62,
-    "description": "Ajwain/carom seeds — pan-India Ayurvedic digestive spice. Used in SI Oma Podi. High national familiarity."
+    "description": "Ajwain/carom seeds — pan-India Ayurvedic digestive spice. Used in SI Oma Podi. High national familiarity.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coconut-sugar",
@@ -5945,7 +6485,9 @@
       "growing"
     ],
     "familiarityScore": 45,
-    "description": "Coconut sugar — growing in health food market. South Indian origin adds authenticity. Lower GI than regular sugar."
+    "description": "Coconut sugar — growing in health food market. South Indian origin adds authenticity. Lower GI than regular sugar.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "pink-lotus",
@@ -5966,7 +6508,9 @@
       "Ayurvedic"
     ],
     "familiarityScore": 35,
-    "description": "Lotus seeds — used in SI temple cooking. Makhana is the North Indian proxy. Niche but growing."
+    "description": "Lotus seeds — used in SI temple cooking. Makhana is the North Indian proxy. Niche but growing.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "achaar",
@@ -5988,7 +6532,9 @@
       "universal"
     ],
     "familiarityScore": 84,
-    "description": "Indian pickle (achaar) — absolute pan-India Mass Category condiment. Every region has its own varieties."
+    "description": "Indian pickle (achaar) — absolute pan-India Mass Category condiment. Every region has its own varieties.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "jeera-water",
@@ -6010,7 +6556,9 @@
       "national"
     ],
     "familiarityScore": 65,
-    "description": "Jeera water — pan-India Ayurvedic home remedy for digestion. High national familiarity."
+    "description": "Jeera water — pan-India Ayurvedic home remedy for digestion. High national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "haldi-doodh",
@@ -6032,7 +6580,9 @@
       "immunity"
     ],
     "familiarityScore": 75,
-    "description": "Haldi doodh — pan-India traditional immunity drink. Very high national familiarity. Golden milk trend has amplified awareness."
+    "description": "Haldi doodh — pan-India traditional immunity drink. Very high national familiarity. Golden milk trend has amplified awareness.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kadha",
@@ -6054,7 +6604,9 @@
       "herbal"
     ],
     "familiarityScore": 68,
-    "description": "Kadha — pan-India Ayurvedic herbal decoction. High national familiarity especially post-COVID."
+    "description": "Kadha — pan-India Ayurvedic herbal decoction. High national familiarity especially post-COVID.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "paan-masala",
@@ -6075,7 +6627,9 @@
       "mouth-freshener"
     ],
     "familiarityScore": 60,
-    "description": "Paan masala — pan-India after-meal digestive mix. Nationally familiar."
+    "description": "Paan masala — pan-India after-meal digestive mix. Nationally familiar.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "mishri",
@@ -6096,7 +6650,9 @@
       "temple"
     ],
     "familiarityScore": 62,
-    "description": "Rock sugar/mishri — pan-India temple prasadam and Ayurvedic use. Familiar nationally."
+    "description": "Rock sugar/mishri — pan-India temple prasadam and Ayurvedic use. Familiar nationally.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "khajur-syrup",
@@ -6118,7 +6674,9 @@
       "growing"
     ],
     "familiarityScore": 42,
-    "description": "Date syrup — growing in health food market as natural sweetener alternative."
+    "description": "Date syrup — growing in health food market as natural sweetener alternative.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "neem",
@@ -6140,7 +6698,9 @@
       "medicinal"
     ],
     "familiarityScore": 60,
-    "description": "Neem — pan-India Ayurvedic tree. Used medicinally, occasionally in food (neem flowers). High national awareness."
+    "description": "Neem — pan-India Ayurvedic tree. Used medicinally, occasionally in food (neem flowers). High national awareness.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "mango-pulp",
@@ -6162,7 +6722,9 @@
       "Maharashtra"
     ],
     "familiarityScore": 75,
-    "description": "Alphonso mango — the king of mangoes. Premium pan-India recognition, especially from Maharashtra."
+    "description": "Alphonso mango — the king of mangoes. Premium pan-India recognition, especially from Maharashtra.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "gur-chana",
@@ -6184,7 +6746,9 @@
       "winter"
     ],
     "familiarityScore": 58,
-    "description": "Jaggery + roasted gram — pan-India winter snack combination. High national familiarity."
+    "description": "Jaggery + roasted gram — pan-India winter snack combination. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "shakkar",
@@ -6205,7 +6769,9 @@
       "health"
     ],
     "familiarityScore": 48,
-    "description": "Shakkar — unrefined Indian sugar. Growing in health food market as refined sugar substitute."
+    "description": "Shakkar — unrefined Indian sugar. Growing in health food market as refined sugar substitute.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "rose-petals",
@@ -6227,7 +6793,9 @@
       "health"
     ],
     "familiarityScore": 55,
-    "description": "Dried rose petals — used in gulkand (rose preserve), Mughal cooking. Pan-India Mughal heritage."
+    "description": "Dried rose petals — used in gulkand (rose preserve), Mughal cooking. Pan-India Mughal heritage.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "gulkand",
@@ -6249,7 +6817,9 @@
       "paan"
     ],
     "familiarityScore": 58,
-    "description": "Gulkand (rose petal preserve) — pan-India Ayurvedic cooling ingredient. Used in paan, beverages."
+    "description": "Gulkand (rose petal preserve) — pan-India Ayurvedic cooling ingredient. Used in paan, beverages.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "pappad-flavor",
@@ -6271,7 +6841,9 @@
       "meal"
     ],
     "familiarityScore": 80,
-    "description": "Papad — pan-India Mass Category meal accompaniment."
+    "description": "Papad — pan-India Mass Category meal accompaniment.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Murukku"
   },
   {
     "id": "dalia",
@@ -6293,7 +6865,9 @@
       "everyday"
     ],
     "familiarityScore": 65,
-    "description": "Dalia (broken wheat) — pan-India health food. High national familiarity."
+    "description": "Dalia (broken wheat) — pan-India health food. High national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "oats",
@@ -6315,7 +6889,9 @@
       "growing"
     ],
     "familiarityScore": 72,
-    "description": "Oats — national health food trend. High growing national familiarity."
+    "description": "Oats — national health food trend. High growing national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "quinoa",
@@ -6337,7 +6913,9 @@
       "Western"
     ],
     "familiarityScore": 45,
-    "description": "Quinoa — growing in urban India health food market."
+    "description": "Quinoa — growing in urban India health food market.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "whey",
@@ -6359,7 +6937,9 @@
       "urban"
     ],
     "familiarityScore": 45,
-    "description": "Whey protein — growing in India fitness and health food market."
+    "description": "Whey protein — growing in India fitness and health food market.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "chia",
@@ -6381,7 +6961,9 @@
       "Western"
     ],
     "familiarityScore": 50,
-    "description": "Chia seeds — global superfood. Growing in urban Indian health food market."
+    "description": "Chia seeds — global superfood. Growing in urban Indian health food market.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "flaxseed",
@@ -6403,7 +6985,9 @@
       "growing"
     ],
     "familiarityScore": 48,
-    "description": "Flaxseeds (alsi) — growing in Indian health food market as omega-3 source."
+    "description": "Flaxseeds (alsi) — growing in Indian health food market as omega-3 source.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "sunflower",
@@ -6424,7 +7008,9 @@
       "growing"
     ],
     "familiarityScore": 48,
-    "description": "Sunflower seeds — growing as a healthy snack nationally."
+    "description": "Sunflower seeds — growing as a healthy snack nationally.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "pumpkin-seeds",
@@ -6445,7 +7031,9 @@
       "urban"
     ],
     "familiarityScore": 45,
-    "description": "Pumpkin seeds — growing in urban India health snacking."
+    "description": "Pumpkin seeds — growing in urban India health snacking.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "hemp-seeds",
@@ -6467,7 +7055,9 @@
       "growing"
     ],
     "familiarityScore": 28,
-    "description": "Hemp seeds — emerging in Indian premium health food market."
+    "description": "Hemp seeds — emerging in Indian premium health food market.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "moringa-powder-flavor",
@@ -6489,7 +7079,9 @@
       "South-Indian"
     ],
     "familiarityScore": 62,
-    "description": "Moringa powder — global superfood with South Indian origin. Growing nationally and internationally."
+    "description": "Moringa powder — global superfood with South Indian origin. Growing nationally and internationally.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "almond-flour",
@@ -6511,7 +7103,9 @@
       "growing"
     ],
     "familiarityScore": 50,
-    "description": "Almond flour — growing in urban India through keto, paleo, and gluten-free baking trends."
+    "description": "Almond flour — growing in urban India through keto, paleo, and gluten-free baking trends.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "oat-flour",
@@ -6532,7 +7126,9 @@
       "growing"
     ],
     "familiarityScore": 48,
-    "description": "Oat flour — growing in health baking nationally."
+    "description": "Oat flour — growing in health baking nationally.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "coconut-flour",
@@ -6554,7 +7150,9 @@
       "health"
     ],
     "familiarityScore": 45,
-    "description": "Coconut flour — growing in health/gluten-free baking nationally."
+    "description": "Coconut flour — growing in health/gluten-free baking nationally.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "agave",
@@ -6576,7 +7174,9 @@
       "growing"
     ],
     "familiarityScore": 38,
-    "description": "Agave syrup — growing in urban India as low-GI natural sweetener alternative."
+    "description": "Agave syrup — growing in urban India as low-GI natural sweetener alternative.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "stevia",
@@ -6598,7 +7198,9 @@
       "growing"
     ],
     "familiarityScore": 45,
-    "description": "Stevia — growing in Indian diabetic-friendly and calorie-free sweetener market."
+    "description": "Stevia — growing in Indian diabetic-friendly and calorie-free sweetener market.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "cream-of-tartar",
@@ -6619,7 +7221,9 @@
       "technical"
     ],
     "familiarityScore": 30,
-    "description": "Cream of tartar — Western baking ingredient. Growing with Indian home baking trend."
+    "description": "Cream of tartar — Western baking ingredient. Growing with Indian home baking trend.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "molasses",
@@ -6641,7 +7245,9 @@
       "Western"
     ],
     "familiarityScore": 42,
-    "description": "Molasses — sugarcane byproduct familiar to Indian palette through jaggery adjacency."
+    "description": "Molasses — sugarcane byproduct familiar to Indian palette through jaggery adjacency.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "apple-cider-vinegar",
@@ -6663,7 +7269,9 @@
       "growing"
     ],
     "familiarityScore": 55,
-    "description": "Apple cider vinegar — growing in Indian health food market through digestion and weight loss trends."
+    "description": "Apple cider vinegar — growing in Indian health food market through digestion and weight loss trends.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "white-balsamic",
@@ -6685,7 +7293,9 @@
       "urban"
     ],
     "familiarityScore": 30,
-    "description": "White balsamic — growing in urban Indian premium cooking."
+    "description": "White balsamic — growing in urban Indian premium cooking.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "truffle-oil",
@@ -6707,7 +7317,9 @@
       "restaurant"
     ],
     "familiarityScore": 30,
-    "description": "Truffle oil — growing in urban Indian premium restaurant culture."
+    "description": "Truffle oil — growing in urban Indian premium restaurant culture.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "za-atar",
@@ -6729,7 +7341,9 @@
       "herb-mix"
     ],
     "familiarityScore": 28,
-    "description": "Za'atar — growing in urban Indian through Middle Eastern food exposure."
+    "description": "Za'atar — growing in urban Indian through Middle Eastern food exposure.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "sumac",
@@ -6751,7 +7365,9 @@
       "tangy"
     ],
     "familiarityScore": 28,
-    "description": "Sumac — Middle Eastern souring agent. Growing in urban Indian cooking."
+    "description": "Sumac — Middle Eastern souring agent. Growing in urban Indian cooking.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "harissa",
@@ -6773,7 +7389,9 @@
       "urban"
     ],
     "familiarityScore": 30,
-    "description": "Harissa — growing in urban Indian fusion cooking."
+    "description": "Harissa — growing in urban Indian fusion cooking.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "berbere",
@@ -6795,7 +7413,9 @@
       "exotic"
     ],
     "familiarityScore": 18,
-    "description": "Berbere — Ethiopian spice blend. Very niche in India. Exotic fusion potential."
+    "description": "Berbere — Ethiopian spice blend. Very niche in India. Exotic fusion potential.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "ras-el-hanout",
@@ -6817,7 +7437,9 @@
       "exotic"
     ],
     "familiarityScore": 20,
-    "description": "Ras el Hanout — Moroccan spice blend. Very niche in India. Premium fusion potential."
+    "description": "Ras el Hanout — Moroccan spice blend. Very niche in India. Premium fusion potential.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "pav-bhaji-flavor",
@@ -6840,7 +7462,9 @@
       "iconic"
     ],
     "familiarityScore": 76,
-    "description": "Pav Bhaji — national Mumbai street food icon. High pan-India familiarity."
+    "description": "Pav Bhaji — national Mumbai street food icon. High pan-India familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "bhel-flavor",
@@ -6862,7 +7486,9 @@
       "street-food"
     ],
     "familiarityScore": 76,
-    "description": "Bhel Puri — national chaat icon. High pan-India familiarity."
+    "description": "Bhel Puri — national chaat icon. High pan-India familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Mixture"
   },
   {
     "id": "dahi-puri",
@@ -6884,7 +7510,9 @@
       "cooling"
     ],
     "familiarityScore": 72,
-    "description": "Dahi Puri — national chaat flavor. Very familiar pan-India."
+    "description": "Dahi Puri — national chaat flavor. Very familiar pan-India.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "chole-bhature",
@@ -6906,7 +7534,9 @@
       "popular"
     ],
     "familiarityScore": 72,
-    "description": "Chole Bhature — North Indian national favorite. Very high pan-India familiarity."
+    "description": "Chole Bhature — North Indian national favorite. Very high pan-India familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "dal-makhani",
@@ -6928,7 +7558,9 @@
       "Punjabi"
     ],
     "familiarityScore": 72,
-    "description": "Dal Makhani — national restaurant staple. Very high pan-India familiarity."
+    "description": "Dal Makhani — national restaurant staple. Very high pan-India familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "rajma-flavor",
@@ -6950,7 +7582,9 @@
       "comfort"
     ],
     "familiarityScore": 68,
-    "description": "Rajma — North Indian comfort food. High national familiarity."
+    "description": "Rajma — North Indian comfort food. High national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "dhokla-flavor",
@@ -6972,7 +7606,9 @@
       "healthy"
     ],
     "familiarityScore": 72,
-    "description": "Dhokla — Gujarati steamed snack, nationally familiar. Very accessible."
+    "description": "Dhokla — Gujarati steamed snack, nationally familiar. Very accessible.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kachori",
@@ -6994,7 +7630,9 @@
       "Rajasthani"
     ],
     "familiarityScore": 68,
-    "description": "Kachori — North Indian street food. High national familiarity."
+    "description": "Kachori — North Indian street food. High national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "poha-flavor",
@@ -7017,7 +7655,9 @@
       "Madhya-Pradesh"
     ],
     "familiarityScore": 76,
-    "description": "Poha — pan-India breakfast. High national familiarity especially Central India."
+    "description": "Poha — pan-India breakfast. High national familiarity especially Central India.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "upma-flavor",
@@ -7039,7 +7679,9 @@
       "national"
     ],
     "familiarityScore": 70,
-    "description": "Upma — South Indian breakfast. National familiarity from SI restaurant culture."
+    "description": "Upma — South Indian breakfast. National familiarity from SI restaurant culture.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "vada-pav",
@@ -7061,7 +7703,9 @@
       "iconic"
     ],
     "familiarityScore": 76,
-    "description": "Vada Pav — Mumbai national street food icon. Very high familiarity."
+    "description": "Vada Pav — Mumbai national street food icon. Very high familiarity.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "aloo-paratha",
@@ -7083,7 +7727,9 @@
       "butter"
     ],
     "familiarityScore": 78,
-    "description": "Aloo Paratha — North Indian national breakfast. Very high familiarity."
+    "description": "Aloo Paratha — North Indian national breakfast. Very high familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "palak-paneer",
@@ -7104,7 +7750,9 @@
       "restaurant"
     ],
     "familiarityScore": 72,
-    "description": "Palak Paneer — national restaurant staple. Very high familiarity."
+    "description": "Palak Paneer — national restaurant staple. Very high familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "butter-chicken",
@@ -7126,7 +7774,9 @@
       "iconic"
     ],
     "familiarityScore": 82,
-    "description": "Butter Chicken — India's most internationally famous dish. Mass Category."
+    "description": "Butter Chicken — India's most internationally famous dish. Mass Category.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "haleem-flavor",
@@ -7148,7 +7798,9 @@
       "Mughal"
     ],
     "familiarityScore": 48,
-    "description": "Haleem — Hyderabadi slow-cooked meat dish. Growing national awareness through Eid culture."
+    "description": "Haleem — Hyderabadi slow-cooked meat dish. Growing national awareness through Eid culture.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "biryani-flavor",
@@ -7171,7 +7823,9 @@
       "fragrant"
     ],
     "familiarityScore": 88,
-    "description": "Biryani — India's most popular dish. Absolute Mass Category. Many regional varieties."
+    "description": "Biryani — India's most popular dish. Absolute Mass Category. Many regional varieties.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "tadka-flavor",
@@ -7194,7 +7848,9 @@
       "essential"
     ],
     "familiarityScore": 80,
-    "description": "Tadka (tempering) — the fundamental Indian cooking technique. Pan-India Mass Category familiarity."
+    "description": "Tadka (tempering) — the fundamental Indian cooking technique. Pan-India Mass Category familiarity.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "pickle-oil",
@@ -7216,7 +7872,9 @@
       "South-Indian"
     ],
     "familiarityScore": 65,
-    "description": "Pickle oil — the oil from South Indian pickles. Used as a condiment. Growing national awareness."
+    "description": "Pickle oil — the oil from South Indian pickles. Used as a condiment. Growing national awareness.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "condensed-milk",
@@ -7238,7 +7896,9 @@
       "baking"
     ],
     "familiarityScore": 80,
-    "description": "Condensed milk — pan-India baking and sweet making ingredient. Mass Category."
+    "description": "Condensed milk — pan-India baking and sweet making ingredient. Mass Category.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "evaporated-milk",
@@ -7259,7 +7919,9 @@
       "sweets"
     ],
     "familiarityScore": 68,
-    "description": "Evaporated milk — pan-India baking ingredient. High national familiarity."
+    "description": "Evaporated milk — pan-India baking ingredient. High national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "coconut-cream",
@@ -7281,7 +7943,9 @@
       "cooking"
     ],
     "familiarityScore": 55,
-    "description": "Coconut cream — thick coconut extract. Growing nationally through Kerala cuisine and Thai food exposure."
+    "description": "Coconut cream — thick coconut extract. Growing nationally through Kerala cuisine and Thai food exposure.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "ghee-banana",
@@ -7303,7 +7967,9 @@
       "sweet"
     ],
     "familiarityScore": 55,
-    "description": "Ghee + banana — South Indian temple prasadam combination. Familiar in SI cultural contexts."
+    "description": "Ghee + banana — South Indian temple prasadam combination. Familiar in SI cultural contexts.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "masala-mojito",
@@ -7325,7 +7991,9 @@
       "growing"
     ],
     "familiarityScore": 55,
-    "description": "Masala mojito — growing in Indian mocktail and cocktail culture. Mint-lime familiar, masala spicing is the twist."
+    "description": "Masala mojito — growing in Indian mocktail and cocktail culture. Mint-lime familiar, masala spicing is the twist.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "chai-ice-cream",
@@ -7347,7 +8015,9 @@
       "artisan"
     ],
     "familiarityScore": 58,
-    "description": "Chai ice cream — chai flavored ice cream growing in artisan ice cream segment."
+    "description": "Chai ice cream — chai flavored ice cream growing in artisan ice cream segment.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kulfi-mango",
@@ -7369,7 +8039,9 @@
       "fusion"
     ],
     "familiarityScore": 72,
-    "description": "Mango Kulfi — national ice cream flavor combination. Very high familiarity."
+    "description": "Mango Kulfi — national ice cream flavor combination. Very high familiarity.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "rose-kulfi",
@@ -7391,7 +8063,9 @@
       "floral"
     ],
     "familiarityScore": 65,
-    "description": "Rose Kulfi — Mughal-influenced Indian ice cream. Pan-India familiarity."
+    "description": "Rose Kulfi — Mughal-influenced Indian ice cream. Pan-India familiarity.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "saffron-almond",
@@ -7413,7 +8087,9 @@
       "premium"
     ],
     "familiarityScore": 70,
-    "description": "Saffron + almond — kesar-badam combination. Pan-India Mughal heritage premium flavor."
+    "description": "Saffron + almond — kesar-badam combination. Pan-India Mughal heritage premium flavor.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "coconut-lime-zest",
@@ -7435,7 +8111,9 @@
       "refreshing"
     ],
     "familiarityScore": 62,
-    "description": "Coconut + lime zest — refreshing tropical fusion accessible nationally."
+    "description": "Coconut + lime zest — refreshing tropical fusion accessible nationally.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "ginger-turmeric",
@@ -7457,7 +8135,9 @@
       "trending"
     ],
     "familiarityScore": 70,
-    "description": "Ginger + turmeric — Ayurvedic combination with strong national and international health trend."
+    "description": "Ginger + turmeric — Ayurvedic combination with strong national and international health trend.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "amchur-chaat",
@@ -7479,7 +8159,9 @@
       "tangy"
     ],
     "familiarityScore": 72,
-    "description": "Amchur chaat flavor — pan-India street food profile. Very high national accessibility."
+    "description": "Amchur chaat flavor — pan-India street food profile. Very high national accessibility.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Mixture"
   },
   {
     "id": "til-gur",
@@ -7501,7 +8183,9 @@
       "chikki"
     ],
     "familiarityScore": 72,
-    "description": "Til + jaggery — Makar Sankranti national combination. Very high familiarity."
+    "description": "Til + jaggery — Makar Sankranti national combination. Very high familiarity.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "kesar-pista",
@@ -7523,7 +8207,9 @@
       "national"
     ],
     "familiarityScore": 72,
-    "description": "Kesar (saffron) + pista (pistachio) — quintessential Indian premium sweet flavor combination. Very high national familiarity."
+    "description": "Kesar (saffron) + pista (pistachio) — quintessential Indian premium sweet flavor combination. Very high national familiarity.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "nannari-rose",
@@ -7545,7 +8231,9 @@
       "beverage"
     ],
     "familiarityScore": 32,
-    "description": "Nannari + rose — cooling South Indian beverage fusion. Nannari is hyperregional, rose provides familiarity."
+    "description": "Nannari + rose — cooling South Indian beverage fusion. Nannari is hyperregional, rose provides familiarity.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "black-rice-coconut",
@@ -7568,7 +8256,9 @@
       "health"
     ],
     "familiarityScore": 40,
-    "description": "Black rice + coconut — Chettinad ingredient with universal coconut flavoring. Premium artisanal combination."
+    "description": "Black rice + coconut — Chettinad ingredient with universal coconut flavoring. Premium artisanal combination.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "banana-nutmeg",
@@ -7590,7 +8280,9 @@
       "warm"
     ],
     "familiarityScore": 42,
-    "description": "Banana + nutmeg — Kerala spiced banana combination. Used in banana fritters and sweets."
+    "description": "Banana + nutmeg — Kerala spiced banana combination. Used in banana fritters and sweets.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "jackfruit-vanilla",
@@ -7612,7 +8304,9 @@
       "tropical"
     ],
     "familiarityScore": 45,
-    "description": "Jackfruit + vanilla — tropical fusion combining growing jackfruit awareness with universal vanilla."
+    "description": "Jackfruit + vanilla — tropical fusion combining growing jackfruit awareness with universal vanilla.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "mango-tamarind",
@@ -7634,7 +8328,9 @@
       "chaat"
     ],
     "familiarityScore": 70,
-    "description": "Mango + tamarind — pan-India candy and chaat flavor. Aam-imli combination nationally familiar."
+    "description": "Mango + tamarind — pan-India candy and chaat flavor. Aam-imli combination nationally familiar.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Mixture"
   },
   {
     "id": "coconut-cardamom-saffron",
@@ -7657,7 +8353,9 @@
       "payasam"
     ],
     "familiarityScore": 60,
-    "description": "Coconut + cardamom + saffron — the payasam flavor profile. South Indian premium sweet combination."
+    "description": "Coconut + cardamom + saffron — the payasam flavor profile. South Indian premium sweet combination.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "turmeric-cardamom",
@@ -7679,7 +8377,9 @@
       "warm"
     ],
     "familiarityScore": 62,
-    "description": "Turmeric + cardamom — Ayurvedic wellness combination. Both nationally familiar ingredients."
+    "description": "Turmeric + cardamom — Ayurvedic wellness combination. Both nationally familiar ingredients.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "pepper-ghee",
@@ -7701,7 +8401,9 @@
       "warming"
     ],
     "familiarityScore": 60,
-    "description": "Black pepper + ghee — the SI comfort food combination from rasam and pongal. Warming, rich."
+    "description": "Black pepper + ghee — the SI comfort food combination from rasam and pongal. Warming, rich.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coriander-mint",
@@ -7723,7 +8425,9 @@
       "green"
     ],
     "familiarityScore": 76,
-    "description": "Coriander + mint — pan-India green chutney combination. Very high national familiarity."
+    "description": "Coriander + mint — pan-India green chutney combination. Very high national familiarity.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "peanut-jaggery",
@@ -7745,7 +8449,9 @@
       "SI-sweet"
     ],
     "familiarityScore": 78,
-    "description": "Peanut + jaggery — pan-India chikki combination. Very high national familiarity."
+    "description": "Peanut + jaggery — pan-India chikki combination. Very high national familiarity.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "dry-fruit-saffron",
@@ -7767,7 +8473,9 @@
       "gifting"
     ],
     "familiarityScore": 70,
-    "description": "Dry fruit + saffron — pan-India premium gifting combination. Mughal heritage. High familiarity."
+    "description": "Dry fruit + saffron — pan-India premium gifting combination. Mughal heritage. High familiarity.",
+    "flavorClass": "Fusion Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "konjac",
@@ -7789,7 +8497,9 @@
       "growing"
     ],
     "familiarityScore": 28,
-    "description": "Konjac — growing in urban Indian health food for weight management."
+    "description": "Konjac — growing in urban Indian health food for weight management.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "spirulina",
@@ -7811,7 +8521,9 @@
       "protein"
     ],
     "familiarityScore": 35,
-    "description": "Spirulina — growing in urban Indian health food market as protein supplement."
+    "description": "Spirulina — growing in urban Indian health food market as protein supplement.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "acai",
@@ -7833,7 +8545,9 @@
       "growing"
     ],
     "familiarityScore": 30,
-    "description": "Acai — growing in urban Indian premium health food."
+    "description": "Acai — growing in urban Indian premium health food.",
+    "flavorClass": "Western Flavors",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "pomelo",
@@ -7855,7 +8569,9 @@
       "growing"
     ],
     "familiarityScore": 38,
-    "description": "Pomelo — familiar in South India as chakotara. Growing nationally."
+    "description": "Pomelo — familiar in South India as chakotara. Growing nationally.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "wood-apple",
@@ -7878,7 +8594,9 @@
       "summer"
     ],
     "familiarityScore": 35,
-    "description": "Bael/wood apple — Ayurvedic South Indian summer fruit. Medicinal and cooling. Hyperregional."
+    "description": "Bael/wood apple — Ayurvedic South Indian summer fruit. Medicinal and cooling. Hyperregional.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "star-fruit",
@@ -7900,7 +8618,9 @@
       "growing"
     ],
     "familiarityScore": 32,
-    "description": "Star fruit — coastal South Indian fruit. Growing in premium exotic fruit market."
+    "description": "Star fruit — coastal South Indian fruit. Growing in premium exotic fruit market.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "curry-mango",
@@ -7922,7 +8642,9 @@
       "artisanal"
     ],
     "familiarityScore": 55,
-    "description": "Curry mango pickle — South Indian style raw mango pickle. Growing D2C artisanal market."
+    "description": "Curry mango pickle — South Indian style raw mango pickle. Growing D2C artisanal market.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kanji",
@@ -7944,7 +8666,9 @@
       "South-Indian"
     ],
     "familiarityScore": 35,
-    "description": "Kanji — fermented rice water. Probiotic. Growing interest nationally in fermented foods."
+    "description": "Kanji — fermented rice water. Probiotic. Growing interest nationally in fermented foods.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "toddy-coconut",
@@ -7966,7 +8690,9 @@
       "traditional"
     ],
     "familiarityScore": 20,
-    "description": "Coconut toddy — fermented palm wine. Very Kerala-specific. Used to leaven some Kerala breads."
+    "description": "Coconut toddy — fermented palm wine. Very Kerala-specific. Used to leaven some Kerala breads.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "naga-chilli",
@@ -7988,7 +8714,9 @@
       "growing"
     ],
     "familiarityScore": 42,
-    "description": "Naga chilli — world's hottest chilli, from Northeast India. Growing in national spice enthusiast market."
+    "description": "Naga chilli — world's hottest chilli, from Northeast India. Growing in national spice enthusiast market.",
+    "flavorClass": "Fiery Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "red-rice-flavor",
@@ -8010,7 +8738,9 @@
       "fiber"
     ],
     "familiarityScore": 40,
-    "description": "Kerala Matta red rice — earthy, nutty, fiber-rich. Growing in health-conscious national market."
+    "description": "Kerala Matta red rice — earthy, nutty, fiber-rich. Growing in health-conscious national market.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "ambali",
@@ -8032,7 +8762,9 @@
       "fermented"
     ],
     "familiarityScore": 28,
-    "description": "Ambali — fermented ragi porridge. Very Tamil Nadu-specific. Growing with fermented food and millet trends."
+    "description": "Ambali — fermented ragi porridge. Very Tamil Nadu-specific. Growing with fermented food and millet trends.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "kanji-water",
@@ -8054,7 +8786,9 @@
       "everyday"
     ],
     "familiarityScore": 30,
-    "description": "Rice kanji — watery cooked rice. Tamil Nadu everyday comfort food. No national recognition as a distinct flavor."
+    "description": "Rice kanji — watery cooked rice. Tamil Nadu everyday comfort food. No national recognition as a distinct flavor.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "raw-papaya",
@@ -8076,7 +8810,9 @@
       "salad"
     ],
     "familiarityScore": 42,
-    "description": "Raw papaya — growing nationally through Thai food exposure and health trend (enzyme-rich)."
+    "description": "Raw papaya — growing nationally through Thai food exposure and health trend (enzyme-rich).",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "purple-yam",
@@ -8099,7 +8835,9 @@
       "visual"
     ],
     "familiarityScore": 35,
-    "description": "Purple yam (ube) — growing in urban Indian premium dessert market through social media trends."
+    "description": "Purple yam (ube) — growing in urban Indian premium dessert market through social media trends.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "fresh-turmeric-drink",
@@ -8121,7 +8859,9 @@
       "shots"
     ],
     "familiarityScore": 55,
-    "description": "Fresh turmeric juice — growing as a health shot nationally through Ayurvedic wellness trend."
+    "description": "Fresh turmeric juice — growing as a health shot nationally through Ayurvedic wellness trend.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "morinda",
@@ -8143,7 +8883,9 @@
       "health"
     ],
     "familiarityScore": 28,
-    "description": "Noni — medicinal fruit with intense bitterness. Growing in health food market despite challenging flavor."
+    "description": "Noni — medicinal fruit with intense bitterness. Growing in health food market despite challenging flavor.",
+    "flavorClass": "Spicy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "sea-buckthorn",
@@ -8165,7 +8907,9 @@
       "growing"
     ],
     "familiarityScore": 28,
-    "description": "Sea buckthorn — growing in Indian premium health food through Himalayan origin story."
+    "description": "Sea buckthorn — growing in Indian premium health food through Himalayan origin story.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "kokum-butter",
@@ -8187,7 +8931,9 @@
       "cosmetic"
     ],
     "familiarityScore": 20,
-    "description": "Kokum butter — food-grade fat from kokum. Very niche in culinary use. Growing in natural cosmetics."
+    "description": "Kokum butter — food-grade fat from kokum. Very niche in culinary use. Growing in natural cosmetics.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "dried-hibiscus",
@@ -8209,7 +8955,9 @@
       "growing"
     ],
     "familiarityScore": 35,
-    "description": "Dried hibiscus — used in South Indian beverages and chutneys. Growing in natural beverage market."
+    "description": "Dried hibiscus — used in South Indian beverages and chutneys. Growing in natural beverage market.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "water-chestnut",
@@ -8231,7 +8979,9 @@
       "North-Indian"
     ],
     "familiarityScore": 50,
-    "description": "Water chestnut (singhara) — pan-India Navratri fasting ingredient. High national familiarity."
+    "description": "Water chestnut (singhara) — pan-India Navratri fasting ingredient. High national familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "lotus-root",
@@ -8253,7 +9003,9 @@
       "decorative"
     ],
     "familiarityScore": 35,
-    "description": "Lotus root — Kashmiri and Chinese cooking ingredient. Growing nationally through exposure."
+    "description": "Lotus root — Kashmiri and Chinese cooking ingredient. Growing nationally through exposure.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "gondh",
@@ -8275,7 +9027,9 @@
       "lactation"
     ],
     "familiarityScore": 45,
-    "description": "Gondh (edible gum) — pan-India Ayurvedic ingredient in winter sweets and lactation foods."
+    "description": "Gondh (edible gum) — pan-India Ayurvedic ingredient in winter sweets and lactation foods.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "chironji",
@@ -8297,7 +9051,9 @@
       "Indian-almond"
     ],
     "familiarityScore": 48,
-    "description": "Chironji seeds — used in festive Indian sweets and biryanis as garnish. Pan-India awareness."
+    "description": "Chironji seeds — used in festive Indian sweets and biryanis as garnish. Pan-India awareness.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "mewa",
@@ -8319,7 +9075,9 @@
       "premium"
     ],
     "familiarityScore": 72,
-    "description": "Mewa — the collective term for mixed dry fruits. Pan-India festive gifting ingredient. Very high familiarity."
+    "description": "Mewa — the collective term for mixed dry fruits. Pan-India festive gifting ingredient. Very high familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "mango-lassi2",
@@ -8341,7 +9099,9 @@
       "summer"
     ],
     "familiarityScore": 82,
-    "description": "Mango lassi — the most nationally familiar Indian smoothie/drink. Pan-India Mass Category."
+    "description": "Mango lassi — the most nationally familiar Indian smoothie/drink. Pan-India Mass Category.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "thandai-nuts",
@@ -8365,7 +9125,9 @@
       "North-Indian"
     ],
     "familiarityScore": 62,
-    "description": "Thandai nut mix — pan-India Holi drink component. Fennel-rose-nut combination."
+    "description": "Thandai nut mix — pan-India Holi drink component. Fennel-rose-nut combination.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "gulkand-rose",
@@ -8387,7 +9149,9 @@
       "preserve"
     ],
     "familiarityScore": 55,
-    "description": "Gulkand (rose preserve) — pan-India Ayurvedic cooling ingredient."
+    "description": "Gulkand (rose preserve) — pan-India Ayurvedic cooling ingredient.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Beverage / Milk Mix"
   },
   {
     "id": "shrikhand",
@@ -8410,7 +9174,9 @@
       "festival"
     ],
     "familiarityScore": 68,
-    "description": "Shrikhand — Gujarati-Maharashtrian strained yogurt sweet. High pan-India familiarity."
+    "description": "Shrikhand — Gujarati-Maharashtrian strained yogurt sweet. High pan-India familiarity.",
+    "flavorClass": "Sweet & Sour",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "modak-coconut",
@@ -8432,7 +9198,9 @@
       "jaggery"
     ],
     "familiarityScore": 68,
-    "description": "Modak with coconut-jaggery — national Ganesh Chaturthi sweet. High familiarity."
+    "description": "Modak with coconut-jaggery — national Ganesh Chaturthi sweet. High familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "meetha-paan",
@@ -8454,7 +9222,9 @@
       "betel"
     ],
     "familiarityScore": 65,
-    "description": "Meetha paan — pan-India after-meal sweetness. National familiarity."
+    "description": "Meetha paan — pan-India after-meal sweetness. National familiarity.",
+    "flavorClass": "Sweet",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "dahi-vada",
@@ -8476,7 +9246,9 @@
       "street-food"
     ],
     "familiarityScore": 72,
-    "description": "Dahi Vada — pan-India street food flavor. High national familiarity."
+    "description": "Dahi Vada — pan-India street food flavor. High national familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "makhana",
@@ -8499,7 +9271,9 @@
       "national"
     ],
     "familiarityScore": 68,
-    "description": "Makhana — pan-India Navratri fasting snack with growing health food positioning."
+    "description": "Makhana — pan-India Navratri fasting snack with growing health food positioning.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "sabudana",
@@ -8521,7 +9295,9 @@
       "national"
     ],
     "familiarityScore": 70,
-    "description": "Sabudana — pan-India Navratri fasting ingredient. Very high national familiarity."
+    "description": "Sabudana — pan-India Navratri fasting ingredient. Very high national familiarity.",
+    "flavorClass": "Classic",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "coconut-chutney-flavor",
@@ -8543,7 +9319,9 @@
       "national"
     ],
     "familiarityScore": 72,
-    "description": "Coconut chutney flavor profile — the SI condiment known nationally from restaurants."
+    "description": "Coconut chutney flavor profile — the SI condiment known nationally from restaurants.",
+    "flavorClass": "South Indian / Unique",
+    "bestSuitedFor": "Sweets"
   },
   {
     "id": "idli-sambar",
@@ -8565,7 +9343,9 @@
       "complete-meal"
     ],
     "familiarityScore": 78,
-    "description": "Idli + sambar combination — nationally recognized South Indian meal. Very high familiarity."
+    "description": "Idli + sambar combination — nationally recognized South Indian meal. Very high familiarity.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "South Indian Traditional Snacks"
   },
   {
     "id": "mango-rice-flavor",
@@ -8587,7 +9367,9 @@
       "summer"
     ],
     "familiarityScore": 50,
-    "description": "Mango rice (raw mango rice) — South Indian summer rice dish. Growing national awareness."
+    "description": "Mango rice (raw mango rice) — South Indian summer rice dish. Growing national awareness.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   },
   {
     "id": "lemon-rice",
@@ -8609,6 +9391,8 @@
       "travel-food"
     ],
     "familiarityScore": 60,
-    "description": "Lemon rice — South Indian staple known nationally through SI restaurants and temple prasadam."
+    "description": "Lemon rice — South Indian staple known nationally through SI restaurants and temple prasadam.",
+    "flavorClass": "Tangy",
+    "bestSuitedFor": "Snacks"
   }
 ]

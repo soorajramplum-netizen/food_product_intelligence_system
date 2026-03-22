@@ -25,7 +25,7 @@ async function callGemini(prompt) {
         headers: {'Content-Type':'application/json'},
         body: JSON.stringify({
           contents: [{parts: [{text: prompt}]}],
-          generationConfig: {temperature: 0.7, maxOutputTokens: 4000}
+          generationConfig: {temperature: 0.7, maxOutputTokens: 8000}
         })
       })
       const data = await res.json()
@@ -229,8 +229,28 @@ Return ONLY valid JSON (no markdown) with this exact structure:
 
   try {
     let text = await callGemini(prompt)
+    // Strip markdown fences
     text = text.replace(/```json\n?/g,'').replace(/```\n?/g,'').trim()
-    const result = JSON.parse(text)
+    // Extract JSON if Gemini wrapped it in extra text
+    const jsonStart = text.indexOf('{')
+    const jsonEnd = text.lastIndexOf('}')
+    if (jsonStart > 0 || jsonEnd < text.length - 1) {
+      text = text.slice(jsonStart, jsonEnd + 1)
+    }
+    let result
+    try {
+      result = JSON.parse(text)
+    } catch(parseErr) {
+      // Retry with a simpler prompt asking for just the JSON
+      console.log('JSON parse failed, retrying with repair prompt...')
+      const repairPrompt = `The following text is almost valid JSON but has errors. Fix it and return ONLY the corrected JSON with no other text:\n${text.slice(0,3000)}`
+      let repairText = await callGemini(repairPrompt)
+      repairText = repairText.replace(/\`\`\`json\n?/g,'').replace(/\`\`\`\n?/g,'').trim()
+      const rs = repairText.indexOf('{')
+      const re = repairText.lastIndexOf('}')
+      repairText = repairText.slice(rs, re + 1)
+      result = JSON.parse(repairText)
+    }
     
     // Inject DB familiarity data if available — DB scores take precedence
     if (dbProduct) {

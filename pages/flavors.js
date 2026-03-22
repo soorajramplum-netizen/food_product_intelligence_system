@@ -10,19 +10,44 @@ export async function getStaticProps() {
   return { props: { flavors, products } }
 }
 
+const FLAVOR_CLASS_META = {
+  'Classic':                { color: '#4B5563', bg: '#F3F4F6' },
+  'Spicy':                  { color: '#B91C1C', bg: '#FEE2E2' },
+  'Sweet & Spicy':          { color: '#D97706', bg: '#FEF3C7' },
+  'South Indian / Unique':  { color: '#2D5A3D', bg: '#E0EDE4' },
+  'Tangy':                  { color: '#0369A1', bg: '#E0F2FE' },
+  'Garlic':                 { color: '#7C3AED', bg: '#EDE9FE' },
+  'Fiery Spicy':            { color: '#9F1239', bg: '#FFE4E6' },
+  'Sweet & Sour':           { color: '#C47A1A', bg: '#FAF0DC' },
+  'Western Flavors':        { color: '#6A1B9A', bg: '#F3E5F5' },
+  'Fusion Flavors':         { color: '#0F766E', bg: '#CCFBF1' },
+  'Sweet':                  { color: '#BE185D', bg: '#FCE7F3' },
+}
+
+const BEST_SUITED_OPTIONS = [
+  'Chips',
+  'South Indian Traditional Snacks',
+  'Snacks',
+  'Mixture',
+  'Murukku',
+  'Sweets',
+  'Beverage / Milk Mix',
+]
+
+// Keep TYPE_META for backward compat
 const TYPE_META = {
-  south_indian: { label: 'South Indian', color: '#2D5A3D', bg: '#E0EDE4', dot: '#2D5A3D' },
-  generic:      { label: 'Generic',       color: '#1565C0', bg: '#E3F2FD', dot: '#1565C0' },
-  western:      { label: 'Western',       color: '#6A1B9A', bg: '#F3E5F5', dot: '#6A1B9A' },
-  food_based:   { label: 'Food-Based',    color: '#C47A1A', bg: '#FAF0DC', dot: '#C47A1A' },
+  south_indian: { label: 'South Indian', color: '#2D5A3D', bg: '#E0EDE4' },
+  generic:      { label: 'Generic',       color: '#1565C0', bg: '#E3F2FD' },
+  western:      { label: 'Western',       color: '#6A1B9A', bg: '#F3E5F5' },
+  food_based:   { label: 'Food-Based',    color: '#C47A1A', bg: '#FAF0DC' },
+  fusion:       { label: 'Fusion',        color: '#0F766E', bg: '#CCFBF1' },
 }
 
 const INTENSITY_ORDER = { 'Very Strong': 4, 'Strong': 3, 'Medium': 2, 'Mild': 1, 'Complex': 3 }
 
 export default function Flavors({ flavors, products }) {
-  const [typeFilter, setTypeFilter] = useState('all')
-  const [categoryFilter, setCategoryFilter] = useState('all')
-  const [intensityFilter, setIntensityFilter] = useState('all')
+  const [classFilter, setClassFilter] = useState('all')
+  const [suitedFilter, setSuitedFilter] = useState('all')
   const [search, setSearch] = useState('')
   const [sort, setSort] = useState('name')
   const [sortDir, setSortDir] = useState('asc')
@@ -45,9 +70,9 @@ export default function Flavors({ flavors, products }) {
 
   const filtered = useMemo(() => {
     let result = [...flavors]
-    if (typeFilter !== 'all') result = result.filter(f => f.type === typeFilter)
+    if (classFilter !== 'all') result = result.filter(f => f.flavorClass === classFilter)
     if (categoryFilter !== 'all') result = result.filter(f => f.category === categoryFilter)
-    if (intensityFilter !== 'all') result = result.filter(f => f.intensity === intensityFilter)
+    if (suitedFilter !== 'all') result = result.filter(f => f.bestSuitedFor === suitedFilter)
     if (search.trim()) {
       const q = search.toLowerCase()
       result = result.filter(f =>
@@ -67,7 +92,7 @@ export default function Flavors({ flavors, products }) {
       return sortDir === 'asc' ? av.localeCompare(bv) : bv.localeCompare(av)
     })
     return result
-  }, [flavors, typeFilter, categoryFilter, intensityFilter, search, sort, sortDir])
+  }, [flavors, classFilter, suitedFilter, search, sort, sortDir])
 
   const paginated = filtered.slice((page-1)*PAGE_SIZE, page*PAGE_SIZE)
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE)
@@ -257,7 +282,7 @@ export default function Flavors({ flavors, products }) {
             <div>
               <span className="brand-tag">Sweet Karam Coffee — Product Intelligence</span>
               <h1 className="header-title">Flavors<span className="header-dot">.</span></h1>
-              <p className="header-sub">{flavors.length} flavors · Browse by type, category, intensity · AI-powered pairing search</p>
+              <p className="header-sub">{flavors.length} flavors · {Object.keys(FLAVOR_CLASS_META).length} flavor classes · AI-powered pairing search</p>
             </div>
 
           </div>
@@ -299,17 +324,13 @@ export default function Flavors({ flavors, products }) {
                   <span className="search-icon">⌕</span>
                   <input className="search-input" type="text" placeholder="Search flavors, profiles, aliases, tags…" value={search} onChange={e => { setSearch(e.target.value); setPage(1) }} />
                 </div>
-                <select className={`filter-select ${typeFilter !== 'all' ? 'active' : ''}`} value={typeFilter} onChange={e => { setTypeFilter(e.target.value); setPage(1) }}>
-                  <option value="all">All Types</option>
-                  {Object.entries(TYPE_META).map(([k,v]) => <option key={k} value={k}>{v.label}</option>)}
+                <select className={`filter-select ${classFilter !== 'all' ? 'active' : ''}`} value={classFilter} onChange={e => { setClassFilter(e.target.value); setPage(1) }}>
+                  <option value="all">All Flavor Types</option>
+                  {Object.keys(FLAVOR_CLASS_META).map(k => <option key={k} value={k}>{k}</option>)}
                 </select>
-                <select className={`filter-select ${categoryFilter !== 'all' ? 'active' : ''}`} value={categoryFilter} onChange={e => { setCategoryFilter(e.target.value); setPage(1) }}>
-                  <option value="all">All Categories</option>
-                  {categories.map(c => <option key={c} value={c}>{c}</option>)}
-                </select>
-                <select className={`filter-select ${intensityFilter !== 'all' ? 'active' : ''}`} value={intensityFilter} onChange={e => { setIntensityFilter(e.target.value); setPage(1) }}>
-                  <option value="all">All Intensities</option>
-                  {['Very Strong','Strong','Medium','Mild','Complex'].map(i => <option key={i} value={i}>{i}</option>)}
+                <select className={`filter-select ${suitedFilter !== 'all' ? 'active' : ''}`} value={suitedFilter} onChange={e => { setSuitedFilter(e.target.value); setPage(1) }}>
+                  <option value="all">Best Suited For</option>
+                  {BEST_SUITED_OPTIONS.map(o => <option key={o} value={o}>{o}</option>)}
                 </select>
                 <span className="result-count">{filtered.length} of {flavors.length}</span>
               </div>
@@ -317,25 +338,21 @@ export default function Flavors({ flavors, products }) {
               <div className="flavor-grid">
                 {paginated.map(flavor => {
                   const meta = TYPE_META[flavor.type] || TYPE_META.generic
-                  const intensityClass = 'int-medium'
                   return (
                     <div
                       key={flavor.id}
                       className="flavor-card"
-                      style={{ '--card-color': meta.color }}
+                      style={{ '--card-color': (FLAVOR_CLASS_META[flavor.flavorClass]||meta).color }}
                       onClick={() => setSelectedFlavor(flavor)}
                     >
-                      <div style={{ position:'absolute', left:0, top:0, bottom:0, width:3, background: meta.color, borderRadius:'12px 0 0 12px' }} />
+                      <div style={{ position:'absolute', left:0, top:0, bottom:0, width:3, background: (FLAVOR_CLASS_META[flavor.flavorClass]||meta).color, borderRadius:'12px 0 0 12px' }} />
                       <div className="flavor-top">
                         <div className="flavor-name">{flavor.name}</div>
-                        <span className="type-badge" style={{ background: meta.bg, color: meta.color }}>{meta.label}</span>
+                        <span className="type-badge" style={{ background: (FLAVOR_CLASS_META[flavor.flavorClass]||{}).bg||'#f3f4f6', color: (FLAVOR_CLASS_META[flavor.flavorClass]||{}).color||'#666' }}>{flavor.flavorClass || flavor.type}</span>
                       </div>
-                      <div className="flavor-profile">{flavor.profile}</div>
+                      <div className="flavor-profile">{Array.isArray(flavor.profile) ? flavor.profile.join(', ') : flavor.profile}</div>
                       <div className="flavor-meta">
-                        <span className={`intensity-dot ${intensityClass}`} />
-                        <span className="intensity-text">{flavor.intensity}</span>
-                        <span style={{color:'var(--border)',marginLeft:'2px'}}>·</span>
-                        <span className="flavor-category">{flavor.category}</span>
+                        <span className="flavor-category" style={{fontSize:'11px',color:'var(--text-muted)',fontWeight:600}}>{flavor.bestSuitedFor || flavor.category}</span>
                       </div>
                       <div className="flavor-tags">
                         {(flavor.tags || []).slice(0,4).map((t,i) => (
@@ -454,11 +471,11 @@ export default function Flavors({ flavors, products }) {
               <div className="modal-row">
                 <div className="modal-item">
                   <div className="modal-item-label">Type</div>
-                  <div className="modal-item-value" style={{color: TYPE_META[selectedFlavor.type]?.color, fontWeight:600}}>{TYPE_META[selectedFlavor.type]?.label}</div>
+                  <div className="modal-item-value" style={{color: (FLAVOR_CLASS_META[selectedFlavor.flavorClass]||{}).color||'#666', fontWeight:600}}>{selectedFlavor.flavorClass}</div>
                 </div>
                 <div className="modal-item">
-                  <div className="modal-item-label">Intensity</div>
-                  <div className="modal-item-value">{selectedFlavor.intensity}</div>
+                  <div className="modal-item-label">Best Suited For</div>
+                  <div className="modal-item-value">{selectedFlavor.bestSuitedFor}</div>
                 </div>
                 <div className="modal-item">
                   <div className="modal-item-label">Category</div>
