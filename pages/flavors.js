@@ -63,15 +63,9 @@ export default function Flavors({ flavors, products }) {
 
   useEffect(() => { if (aiResult && aiResultRef.current) aiResultRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' }) }, [aiResult])
 
-  const categories = useMemo(() => {
-    const cats = [...new Set(flavors.map(f => f.category))].sort()
-    return cats
-  }, [flavors])
-
   const filtered = useMemo(() => {
     let result = [...flavors]
     if (classFilter !== 'all') result = result.filter(f => f.flavorClass === classFilter)
-    if (categoryFilter !== 'all') result = result.filter(f => f.category === categoryFilter)
     if (suitedFilter !== 'all') result = result.filter(f => f.bestSuitedFor === suitedFilter)
     if (search.trim()) {
       const q = search.toLowerCase()
