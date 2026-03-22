@@ -140,12 +140,12 @@ function Header() {
   return (
     <header className="header">
       <div className="header-inner">
-        <span className="brand-tag">Sweet Karam Coffee — Product Intelligence</span>
+        <span className="brand-tag"> Fullstack South Indian Product Intelligence Suite </span>
         <h1 className="header-title">
           South or Not<span className="header-dot">.</span>
         </h1>
         <p className="header-sub">
-          Is it South Indian? Find out — and find your launch angle.
+          Data backed, Behavorial Bias led, Consumer based single source of truth.
         </p>
       </div>
       <div className="header-pattern" />
