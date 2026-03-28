@@ -134,7 +134,7 @@ DATABASE MATCH: ${JSON.stringify({
   launchAngle: dbProduct.launchAngle,
 })}` : ''
 
-  const prompt = `You are Sweet Karam Coffee's product intelligence engine. Analyze this South Indian food product for launch strategy.
+  const prompt = `You are Sweet Karam Coffee's product intelligence engine. Analyze this South Indian food product for packaged product launch strategy. IMPORTANT: All recommendations, callouts, and strategies must assume this is a shelf-stable packaged product (3-6 month shelf life). If the product cannot be packaged or is only fresh/perishable, clearly state this as a limitation.
 
 PRODUCT: "${productName}" (Category: ${category || 'unknown'})${ingredientInfo}
 ${dbContext}

@@ -276,7 +276,7 @@ export default function Flavors({ flavors, products }) {
             <div>
               <span className="brand-tag">Sweet Karam Coffee — Product Intelligence</span>
               <h1 className="header-title">Flavors<span className="header-dot">.</span></h1>
-              <p className="header-sub">{flavors.length} flavors · {Object.keys(FLAVOR_CLASS_META).length} flavor classes · AI-powered pairing search</p>
+              <p className="header-sub">{flavors.length} packagable flavors · {Object.keys(FLAVOR_CLASS_META).length} flavor classes · AI pairing search</p>
             </div>
 
           </div>
