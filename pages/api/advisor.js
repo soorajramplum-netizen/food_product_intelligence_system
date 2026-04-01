@@ -1,31 +1,81 @@
 const GEMINI_KEY = process.env.GEMINI_API_KEY || 'AIzaSyAdyDVmEuqASsI1HVBTdBwRB8R0-mr1Euc'
-const BASE = 'https://generativelanguage.googleapis.com/v1beta/models'
+const GROQ_KEY = process.env.GROQ_API_KEY || ''
+const OPENROUTER_KEY = process.env.OPENROUTER_API_KEY || ''
+const GEMINI_BASE = 'https://generativelanguage.googleapis.com/v1beta/models'
+
 const GEMINI_MODELS = [
   'gemini-3.1-pro-preview','gemini-2.5-pro',
   'gemini-3-flash-preview','gemini-2.5-flash',
   'gemini-3.1-flash-lite-preview','gemini-2.5-flash-lite',
 ]
+const GROQ_MODELS = [
+  'llama-3.3-70b-versatile','llama-3.1-70b-versatile',
+  'mixtral-8x7b-32768','llama3-70b-8192','gemma2-9b-it',
+]
+const OPENROUTER_MODELS = [
+  'meta-llama/llama-3.3-70b-instruct:free',
+  'mistralai/mixtral-8x7b-instruct:free',
+  'google/gemma-2-9b-it:free',
+  'meta-llama/llama-3.1-8b-instruct:free',
+]
 
-async function callGemini(prompt) {
+async function callAI(prompt) {
+  // Tier 1: Gemini
   for (const model of GEMINI_MODELS) {
     try {
-      const url = `${BASE}/${model}:generateContent?key=${GEMINI_KEY}`
+      const url = `${GEMINI_BASE}/${model}:generateContent?key=${GEMINI_KEY}`
       const res = await fetch(url, {
-        method: 'POST',
-        headers: {'Content-Type':'application/json'},
-        body: JSON.stringify({
-          contents: [{parts: [{text: prompt}]}],
-          generationConfig: {temperature: 0.7, maxOutputTokens: 4000}
-        })
+        method:'POST', headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({contents:[{parts:[{text:prompt}]}], generationConfig:{temperature:0.7,maxOutputTokens:4000}})
       })
-      const data = await res.json()
-      if (data.error) { console.log('Model', model, 'failed:', data.error.message); continue }
-      const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || ''
+      const d = await res.json()
+      if (d.error) { console.log('Gemini',model,'failed:',d.error.message); continue }
+      const text = d?.candidates?.[0]?.content?.parts?.[0]?.text || ''
       if (!text) continue
+      console.log('Gemini',model,'succeeded')
       return text
     } catch(e) { continue }
   }
-  throw new Error('All Gemini models failed')
+
+  // Tier 2: Groq
+  if (GROQ_KEY) {
+    for (const model of GROQ_MODELS) {
+      try {
+        const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+          method:'POST',
+          headers:{'Content-Type':'application/json','Authorization':`Bearer ${GROQ_KEY}`},
+          body: JSON.stringify({model, messages:[{role:'user',content:prompt}], temperature:0.7, max_tokens:4000})
+        })
+        const d = await res.json()
+        if (d.error) { console.log('Groq',model,'failed:',d.error.message); continue }
+        const text = d?.choices?.[0]?.message?.content || ''
+        if (!text) continue
+        console.log('Groq',model,'succeeded')
+        return text
+      } catch(e) { continue }
+    }
+  }
+
+  // Tier 3: OpenRouter
+  if (OPENROUTER_KEY) {
+    for (const model of OPENROUTER_MODELS) {
+      try {
+        const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+          method:'POST',
+          headers:{'Content-Type':'application/json','Authorization':`Bearer ${OPENROUTER_KEY}`,'HTTP-Referer':'https://southproud.vercel.app'},
+          body: JSON.stringify({model, messages:[{role:'user',content:prompt}], max_tokens:4000})
+        })
+        const d = await res.json()
+        if (d.error) { console.log('OpenRouter',model,'failed:',d.error?.message); continue }
+        const text = d?.choices?.[0]?.message?.content || ''
+        if (!text) continue
+        console.log('OpenRouter',model,'succeeded')
+        return text
+      } catch(e) { continue }
+    }
+  }
+
+  throw new Error('All AI providers failed (Gemini, Groq, OpenRouter). Check API keys and quota.')
 }
 
 const MODE_CONTEXTS = {
@@ -87,7 +137,7 @@ USER QUERY: ${query}
 Respond with well-formatted, specific, actionable advice. Be opinionated. Every recommendation must be a product that can be sealed, packaged, and sold on a shelf or D2C.`
 
   try {
-    const text = await callGemini(prompt)
+    const text = await callAI(prompt)
     res.status(200).json({response: text, mode})
   } catch(err) {
     res.status(500).json({error:'Advisor failed', details: err.message})
