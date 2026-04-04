@@ -99,7 +99,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>South or Not · Sooraj Ram </title>
+        <title>South or Not · By Sooraj Ram </title>
         <meta name="description" content="Product intelligence tool for South Indian snacks & sweets innovation" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -145,7 +145,7 @@ function Header() {
           South or Not<span className="header-dot">.</span>
         </h1>
         <p className="header-sub">
-          Data backed, Behavorial Bias led, Consumer based single source of truth.
+          Behavorial Bias led, Consumer based and Data backed ~ single source of truth.
         </p>
       </div>
       <div className="header-pattern" />
